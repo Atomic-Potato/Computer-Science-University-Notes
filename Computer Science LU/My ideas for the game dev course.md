@@ -1,0 +1,32 @@
+Hello hoomans and colleagues, this could be a bunch of nonesens but here we go.... Everyone has pruposed really great and detailed ideas, but i wanna discuss the more fun community side of game dev as well as some detailed stuff on what root to take while teaching, plus the ideas of marketing your games, creating audio easily, and the idea of you dont need to be an artist or a genius game artist to make a game (speaking from 2 years of experience.... dont have anything to show from these 2 years so why you should listen to me huh ? lol) 
+Btw i split this into categories by putting ## behind each one so feel free to skip to the ones of your interest.
+
+## The community 
+ lets start with the thing that i dont think anyone exactly talked about and its creating a community for students, a social hub, a place when you need help on the fly. 
+I dont feel like students will enjoy game development if we made it feel like you are learning at school, so to make it more of a fun social experience we use one the most popular community apps among game devs and among a lot of students. And that is discord, now you may have heared of discord and you may think a childish app but let me show you the opposite and why i feel like its a good for learning and communicating if you organize it well enough.
+- First of all its an instant messaging app, so students can have nice quick discussions on the fly unlike using forums (tho forums will definitely be useful ill explain why later we cant just use discord for help)
+- Its great for exchange in ideas, ask for a quick help, share projects, showcasing etc.
+Alright let me get more detailed. In discord you can make a server and in the server you can have channels. Each channel name represents its topic, this is what its excpected to talk about in this channel, so let me give examples of the most important channels
+#chat: The main hub were you can really about anything anyone
+#help: if you ever feel stuck on something seems yet so simple and yet cant find a solution then you can ask it in here and anyone knows how to solve it can respond in a quick message
+#showcase-and-feedback: here is where you can showcase your project, art, code (anything really) and get feedback on it, and feedback from my experience is a crucial part of game dev, and without it almost every game is destined to fail
+#live-streams: This is one of the best ones, in discord you can share your screen in about 3 clicks and its quite easy and light on hardware and internet on both pc and mobile, in these you can join in and live stream while you work and anyone can join and talk to you, plus it can be used to showcase a problem that is hardly described.
+Also a lot of people said we should make teams, and the best way to make a team is to know your team, discord will be the best social place to meet people and see their abilities and get to know people. In the first year of university i remember we had to make a team for a quiz and a lot of people were making teams in random, discord solves this problem since you'll have a server dedicated only for game development and its more fun and organized than for example whats app where everyone is cramped up in the same single chat that has no topic.
+One last thing is that forums cant be left out because they are better than discord for more detailed and larger issues and they dont get burried by other questions, so discord is a way to reduce stress on forums by taking the easy quick to answer questions and keeping the big boys (the big questions) in the forums, and the moodle forum is quite perfect.
+I'm really bad at explaining so hopefully you got what i mean, i had to include this because a lot of game developers are lone wolfs and even lone wolfs will need company, you'll go insane making a game on your own if you had no one to show it to, and sharing your progress somewhere is what keeps you going, its what kep "me" going.
+
+## The ninja tools (Teaching apps)
+I feel like its good to introduce the necessary tools to start game dev instead of being lost and not know what to use to make their games. This can be a timeless video 
+
+-Game engine: 
+Absolutely unity for beginners, because it supports both 2D and 3D which wasnt a thing in the past (unlike unreal engine). The big plus for unity is that it has the largest community out there, so if you ever encounter a problem as a beginner there's a 95% chance some one had the same problem and got answered if you just google. Also it's one of the easiest engines to understand and the bonus that it uses C# which is quite similar to C (there's also visual scripting but idk if it will be thaught).
+You also mentioned, that should we do written or visual courses, i would go with written because as mentioned before, visual ones take more time to update because the industry tools are changing at quite a fast rate buuut if we go with written, pictures are still needed, it gives you sometimes a general idea where to look. Also if we go with unity, half of the work is done because of the unity documentation which i use on daily basis plus it has the benifit that it can be downloaded and used offline especially in this days.
+To sum up, unity good for learning and beginners and still used professionals, godot is new and doesnt have a large community and so harder to teach and find info about but its a lot lighter on harder than unity, unreal is sort of complicated  and has the same problem as godot and its only 3D.
+-Audio and art:
+Games dont need to have over the top art and audio design to be considered good games. Simple shapes is all it takes to make a good looking game, cubes circles triangles. A good example is "Alto's Adventure", theres a lot of examples but a lot dont come to my mind. A good free app for making art is krita, you can make 2d vector art an pixel art, same goes for 3d and the free app is blender.
+Audio is sort of easier than art, music is covered by the tons and tons of copyright free music out there, and you can teach people how to make sound FX quite easily (An example: https://youtu.be/Kux_LvRl57U). A free app to make SFX is "Audials".
+-Team Management:
+A good app that can be used by mutiple people is called Miro, it can be used to take notes and manage a project of any kind, even use it for school (i swear to god i would have failed my first year if it wasnt for this app)
+-Google:
+Do i need to explain this one? We should really encourage googling and finding solutions and tutorials, its a skill to find a solution for your problem.
+-

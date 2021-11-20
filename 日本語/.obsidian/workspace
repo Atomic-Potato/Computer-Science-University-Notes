@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "11882fb94a2bdae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "75264a44f7e119ee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "日本語/KANJI COUNTER.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68060a18f1ac2b21",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6c7796dc244eb8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90b6874d39f9cb87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "14c944c6cae4a0f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "901b2a22cf477f0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3060996a6523b40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03620a142ccdc574",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日本語/KANJI COUNTER.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "75264a44f7e119ee",
+  "lastOpenFiles": [
+    "日本語/KANJI COUNTER.md",
+    "日本語/Kanj charts/26 and 27.jpg",
+    "日本語/Kanj charts/28.JPG",
+    "日本語/Articles to check out.md"
+  ]
+}

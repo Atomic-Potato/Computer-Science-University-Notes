@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "41124a0877f5410a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cc9c3d795b49620",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science LU/Graphs/C++ for Graphs/2 # Stacks , Queues, Deques & Priority Queues.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9794836494026d6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "15dd352549d2a055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a133da79ec1f1a5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10465fe4d6cdae34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f745b8ca6ab79aef",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1eb603264a35059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dfbfde7802b1ebe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science LU/Graphs/C++ for Graphs/2 # Stacks , Queues, Deques & Priority Queues.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7cc9c3d795b49620",
+  "lastOpenFiles": [
+    "Computer Science LU/Graphs/C++ for Graphs/2 # Stacks , Queues, Deques & Priority Queues.md",
+    "Computer Science LU/Graphs/C++ for Graphs/1 # Vectors & Algorithms.md",
+    "3 # Queues.md",
+    "Computer Science LU/I2232/2 # Control Flow.md",
+    "Computer Science LU/I2232/Python Notes.md",
+    "Computer Science LU/I2232/1 # Python Intro.md",
+    "My ideas for the game dev course.md",
+    "Computer Science LU/I2204/Pointers.md",
+    "Computer Science LU/I2232/Untitled.md"
+  ]
+}
