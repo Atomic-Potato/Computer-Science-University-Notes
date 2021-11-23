@@ -2,14 +2,14 @@
 <label class="ob-comment" title="" style=""> Note <input type="checkbox"> <span style=""> When we say memory we are reffering to RAM </span></label> 
 The computer memory is split into slots of 1 byte and each with its own unique address.
 ex: 
-![[RAM.jpg]]
+![[Computer Science LU/I2204 Pointers/Pictures/RAM.jpg]]
 When we create a variable it is stored in these slots with an adress, for example an int has the size of 4 bytes and so the computer gives it slots from address 204 to 208 and the address of the int is 204, now pointers are used to manipulate these addresses.
 
 
 
 ## How to create a pointer
 A pointer is just like any variable, it can be created by declearing its type with the same type of the varibale which we want the address of and by putting a `*` behind it and can be assigined a value by doing `pointer = &variable` which will now store the address of the variable.
-Heres an example ![[Example of pointers.jpg]]
+Heres an example ![[Computer Science LU/I2204 Pointers/Pictures/Example of pointers.jpg]]
 <label class="ob-comment" title="" style=""> (NOTE) <input type="checkbox"> <span style=""> Note that we can also edit the value of the variable through the pointer by doint *pointer = newValue </span></label>
 
 
@@ -30,7 +30,7 @@ int*** r = &q;
 ```
 As you can see if we need to store the address of a pointer of a pointer we add another star, note that you cant store a one star pointer address in a 3 star pointer address.
 Another Example:
-![[Pointer to pointer example.jpg]]
+![[Computer Science LU/I2204 Pointers/Pictures/Pointer to pointer example.jpg]]
 
 
 
@@ -58,7 +58,7 @@ This is mostly usefull when you want to edit multiple variables instead of just 
 
 ## Pointers & Arrays
 The addresses of each element in the array are consecutive like so:
-![[Computer Science LU/I2204/Pictures/The addresses of arrays.jpg]]
+![[Computer Science LU/I2204 Pointers/Pictures/The addresses of arrays.jpg]]
 So now if we assign a pointer to the address of an element, excepet the final element, then we can increment that pointer and actually know whats the value of `*p` of that pointer.
 More things on how we can access the address and values of an array:
 ```c
@@ -70,7 +70,7 @@ print(A[i]); print(*(A+i)) //The value of the elemet i
 
 Arrays as function arguments:
 When passing the a function an array as an argument then the function will create a pointer to the first element of the array instead of copying the entire array again.
-![[Computer Science LU/I2204/Pictures/Arrays as function arguments.jpg]]
+![[Computer Science LU/I2204 Pointers/Pictures/Arrays as function arguments.jpg]]
 <label class="ob-comment" title="" style=""> NOTE <input type="checkbox"> <span style=""> Note that the function sizeof() wont count the amount of elements in an array but it will take the size of each element and add them up all together, but you can simply count the actual size of elements by dividing by the number of bytes of the type of the array </span></label>
 
 

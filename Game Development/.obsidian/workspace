@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Games/Potato Punch/ToDo List/1 # GENERAL.md",
-            "mode": "source"
+            "file": "Resources.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Potato Punch/ToDo List/1 # GENERAL.md",
+                "file": "Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1c4d0c74da05cff3",
   "lastOpenFiles": [
+    "Resources.md",
     "Games/Potato Punch/ToDo List/1 # GENERAL.md",
     "Games/Potato Punch/ToDo List/2 # Bug Hunting.md",
     "Games/Potato Punch/ToDo List/Enemies & AI/Rocketato.md",
@@ -96,7 +97,6 @@
     "Games/Potato Punch/Ideas.md",
     "How to fix small issues.md",
     "Games/Potato Punch/ToDo List/Player/Dash.md",
-    "Games/Potato Punch/ToDo List/World/Bottomless Platforms.md",
-    "Games/Potato Punch/ToDo List/Player/Grappling Hook/Sprite Generating.md"
+    "Games/Potato Punch/ToDo List/World/Bottomless Platforms.md"
   ]
 }

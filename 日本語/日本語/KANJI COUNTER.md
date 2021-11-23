@@ -1,4 +1,4 @@
-Total days studied:		**38**
+Total days studied:		**39**
 
 `Day 5`
 ![[5.jpg]]
@@ -87,3 +87,6 @@ Total days studied:		**38**
 `Day 37 to 48 (Grampa's death)`
 `Switched to 15 per day instead of 25`
 ![[37 to 48.JPG]]
+
+`Dau 49`
+![[49.JPG]]
