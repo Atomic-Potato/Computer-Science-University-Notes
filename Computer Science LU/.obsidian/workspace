@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/I2232 Python/3 # Functions/Python Functions.md",
+            "file": "Computer Science LU/I2204 Pointers/1 # Recursion.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/I2232 Python/3 # Functions/Python Functions.md",
+                "file": "Computer Science LU/I2204 Pointers/1 # Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "33dfce410933db4a",
   "lastOpenFiles": [
+    "Computer Science LU/I2204 Pointers/1 # Recursion.md",
+    "Computer Science LU/I2205 Graphs/2 # Basic Concepts/Basic Concepts.md",
+    "Computer Science LU/I2205 Graphs/Pictures/a cycle.JPG",
+    "Computer Science LU/I2205 Graphs/Pictures/complete bipartite graph.JPG",
+    "Computer Science LU/I2205 Graphs/Pictures/indcued and spanning graphs.JPG",
+    "notes i2203.md",
     "Computer Science LU/I2232 Python/3 # Functions/Python Functions.md",
     "Computer Science LU/I2232 Python/3 # Functions/General Things.md",
     "Computer Science LU/I2205 Graphs/1 # C++ for Graphs/1 # Vectors & Algorithms.md",
-    "Computer Science LU/I2205 Graphs/1 # C++ for Graphs/2 # Stacks , Queues, Deques & Priority Queues.md",
-    "Computer Science LU/I2205 Graphs/1 # C++ for Graphs/Cpp_refcard.pdf",
-    "Computer Science LU/I2232 Python/1 # Python Intro/1 # Python Intro.md",
-    "Computer Science LU/I2204 Pointers/2 # Pointers.md",
-    "Computer Science LU/I2204 Pointers/1 # Recursion.md",
-    "My ideas for the game dev course.md",
-    "Computer Science LU/I2232 Python/1 # Python Intro/Python Notes.md"
+    "Computer Science LU/I2205 Graphs/1 # C++ for Graphs/2 # Stacks , Queues, Deques & Priority Queues.md"
   ]
 }
