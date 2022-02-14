@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "33dfce410933db4a",
+        "id": "5dd3786cb1747b11",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/I2204 Pointers/1 # Recursion.md",
-            "mode": "preview"
+            "file": "Computer Science LU/I2232 Python/8 # Files & Exceptions/2 @ Handling exceptions.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#help",
+                "query": "dictionary ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 336
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/I2204 Pointers/1 # Recursion.md",
+                "file": "Computer Science LU/I2232 Python/8 # Files & Exceptions/2 @ Handling exceptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,23 +81,93 @@
             }
           }
         ]
+      },
+      {
+        "id": "67274d14f708fcb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ddef163ee69f062",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bf081f5d05708a87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff14638a940f03a4",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f5bdf78596dcb479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ebd7af058c877f9",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9205b03ed8f2bc2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a718b1990c63865d",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1d5b548f659bf8f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e166ee41b6af6cf",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "33dfce410933db4a",
+  "active": "5dd3786cb1747b11",
   "lastOpenFiles": [
-    "Computer Science LU/I2204 Pointers/1 # Recursion.md",
-    "Computer Science LU/I2205 Graphs/2 # Basic Concepts/Basic Concepts.md",
-    "Computer Science LU/I2205 Graphs/Pictures/a cycle.JPG",
-    "Computer Science LU/I2205 Graphs/Pictures/complete bipartite graph.JPG",
-    "Computer Science LU/I2205 Graphs/Pictures/indcued and spanning graphs.JPG",
-    "notes i2203.md",
-    "Computer Science LU/I2232 Python/3 # Functions/Python Functions.md",
-    "Computer Science LU/I2232 Python/3 # Functions/General Things.md",
-    "Computer Science LU/I2205 Graphs/1 # C++ for Graphs/1 # Vectors & Algorithms.md",
-    "Computer Science LU/I2205 Graphs/1 # C++ for Graphs/2 # Stacks , Queues, Deques & Priority Queues.md"
+    "Computer Science LU/I2232 Python/8 # Files & Exceptions/2 @ Handling exceptions.md",
+    "Computer Science LU/I2232 Python/8 # Files & Exceptions/1 @ Files.md",
+    "Computer Science LU/I2232 Python/9 # DS/2 $ Graphs/2 @ Accessing edges and nodes.md",
+    "Computer Science LU/I2232 Python/9 # DS/2 $ Graphs/1 @ Graph Creation.md",
+    "Computer Science LU/I2232 Python/9 # DS/1 $ Stacks, Queues, Priority Queues/3 @ Priority Queues.md",
+    "Computer Science LU/I2232 Python/9 # DS/1 $ Stacks, Queues, Priority Queues/1 @ Stacks (LIFO).md",
+    "Computer Science LU/I2232 Python/4 # Sequences-Lists & Tuples/4 @ Sequence Slicing.md",
+    "Computer Science LU/I2232 Python/4 # Sequences-Lists & Tuples/1 @ Lists.md",
+    "Computer Science LU/I2204 Imperative Programming/3 # Pointers and Arrays/4 @ Arrays as pointers.md",
+    "Computer Science LU/I2204 Imperative Programming/3 # Pointers and Arrays/3 @ The NULL Pointer.md"
   ]
 }

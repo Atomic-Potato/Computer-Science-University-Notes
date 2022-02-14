@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日本語/KANJI COUNTER.md",
-            "mode": "preview"
+            "file": "日本語/Others/Anime Watch List.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -52,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "901b2a22cf477f0e",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語/KANJI COUNTER.md",
+                "file": "日本語/Others/Anime Watch List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +90,14 @@
   },
   "active": "75264a44f7e119ee",
   "lastOpenFiles": [
-    "日本語/KANJI COUNTER.md",
-    "日本語/Kanj charts/26 and 27.jpg",
-    "日本語/Kanj charts/28.JPG",
-    "日本語/Articles to check out.md"
+    "日本語/Others/Anime Watch List.md",
+    "日本語/Others/IRL Watch List.md",
+    "日本語/Others/Apps Download List.md",
+    "日本語/Others/Game download List.md",
+    "日本語/Studying/KANJI COUNTER.md",
+    "日本語/Studying/Things i need to do.md",
+    "日本語/Studying/Kanj charts/26 and 27.jpg",
+    "日本語/Studying/Kanj charts/28.JPG",
+    "日本語/Studying/Articles to check out.md"
   ]
 }

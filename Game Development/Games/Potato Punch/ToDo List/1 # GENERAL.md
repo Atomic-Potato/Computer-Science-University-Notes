@@ -1,12 +1,13 @@
 # Whats done
 ##### Player
-[x] [[Grappling Hook]]
-[] [[Roll]]
-[] [[Dash]]
+- [x] [[Grappling Hook]]
+- [x] [[Roll]]
+- [x] [[Dash]]
+- [ ] Add linear drag when the player reaches omega fat ass high speeds
 
 ##### Enemies & AI
-[x] [[Rocketato]]
+- [x] [[Rocketato]]
 
 # GENERAL ToDo List
-[] Add a UI text saying `"Press escape for controls"`
-[] Add the new button for grappling in the pause menu
+- [x] Add a UI text saying `"Press escape for controls"`
+- [x] Add the new button for grappling in the pause menu

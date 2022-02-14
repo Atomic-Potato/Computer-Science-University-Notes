@@ -1,0 +1,1 @@
+`Weight of a vertex` is the maximum sum to all the edges in one of the connected branches of that vertex

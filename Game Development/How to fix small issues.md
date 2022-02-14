@@ -7,3 +7,5 @@ Put full friction when idle
 if you are using composite colliders for the tilemap, set the "Offset distance value" to 0
 ```
 - if you want to have a custom 2D sprite material then create a standard material and assign the sprite to the to the *Albedo* variable and then switch the shader to *"Sprites->Default"*
+
+- Raycasts will always cast to the center of the world if they are not hitting anything 

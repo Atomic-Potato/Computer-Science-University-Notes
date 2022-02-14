@@ -87,3 +87,5 @@ int main(){
 	printf(/*result*/); // prints 6, b
 	printf(/*pq.top()*/) // prints 4, a
 }
+```
+**`NOTE: remember that the top of the priority_queue will be the largest number, so if you print and pop you'll get your results in ascending order`**
