@@ -14,6 +14,7 @@ The player can dash and knock enemies that he hits, he is still vulnerable to bu
 - [x] set the velocity to 0 if the player hits a collider and didnt `isDashingWall`
 - [x] comment the code
 - [x] fix dashing while rolling 
+- [ ] Make the collider smaller by 5%
 
 ## Extra
 - [x] Make the dash delay only if is dashing and grounded

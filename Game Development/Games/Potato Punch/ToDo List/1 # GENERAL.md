@@ -4,7 +4,7 @@
 - [x] [[Roll]]
 - [x] [[Dash]]
 - [ ] Add linear drag when the player reaches omega fat ass high speeds
-
+- [ ] Experiment with making movment slow and making world more compact
 ##### Enemies & AI
 - [x] [[Rocketato]]
 

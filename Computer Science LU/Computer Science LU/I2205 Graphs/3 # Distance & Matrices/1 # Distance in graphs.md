@@ -20,7 +20,7 @@
 **The centroid of a tree**
 **`Weight of branch`** is the max amount of vertices of a branch of a selected vertex
 Example of branches:
-![[branch weights in trees.jpg | 300]]
+![[branch weights in trees.jpg | 500]]
 
 **`centroid`** is the vertex with the minimum weight 
 

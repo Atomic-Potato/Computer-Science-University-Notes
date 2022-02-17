@@ -5,9 +5,7 @@
 
 # ==Today==
 ##### I2232
-- [x] DS: stacks, queues, priority queues & graphs Exercises
 ### `I2205`
-- [ ] Network Flows Exercises
 
 ##### I2204
 

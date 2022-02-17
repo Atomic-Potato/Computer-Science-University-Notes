@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5dd3786cb1747b11",
+        "id": "f92c644b88f9067a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/I2232 Python/8 # Files & Exceptions/2 @ Handling exceptions.md",
+            "file": "Computer Science LU/I2205 Graphs/4 # Graph Algorithms/3 @ Tree  Codes.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dictionary ",
+                "query": "pruf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/I2232 Python/8 # Files & Exceptions/2 @ Handling exceptions.md",
+                "file": "Computer Science LU/I2205 Graphs/4 # Graph Algorithms/3 @ Tree  Codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,23 +151,37 @@
             }
           }
         ]
+      },
+      {
+        "id": "eb5afcbba39f8e92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a45e610062f5a10",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "5dd3786cb1747b11",
+  "active": "f92c644b88f9067a",
   "lastOpenFiles": [
-    "Computer Science LU/I2232 Python/8 # Files & Exceptions/2 @ Handling exceptions.md",
-    "Computer Science LU/I2232 Python/8 # Files & Exceptions/1 @ Files.md",
-    "Computer Science LU/I2232 Python/9 # DS/2 $ Graphs/2 @ Accessing edges and nodes.md",
-    "Computer Science LU/I2232 Python/9 # DS/2 $ Graphs/1 @ Graph Creation.md",
-    "Computer Science LU/I2232 Python/9 # DS/1 $ Stacks, Queues, Priority Queues/3 @ Priority Queues.md",
-    "Computer Science LU/I2232 Python/9 # DS/1 $ Stacks, Queues, Priority Queues/1 @ Stacks (LIFO).md",
-    "Computer Science LU/I2232 Python/4 # Sequences-Lists & Tuples/4 @ Sequence Slicing.md",
-    "Computer Science LU/I2232 Python/4 # Sequences-Lists & Tuples/1 @ Lists.md",
-    "Computer Science LU/I2204 Imperative Programming/3 # Pointers and Arrays/4 @ Arrays as pointers.md",
-    "Computer Science LU/I2204 Imperative Programming/3 # Pointers and Arrays/3 @ The NULL Pointer.md"
+    "Computer Science LU/I2205 Graphs/4 # Graph Algorithms/3 @ Tree  Codes.md",
+    "Computer Science LU/I2205 Graphs/2 # Basic Concepts/Basic Concepts.md",
+    "Computer Science LU/I2205 Graphs/3 # Distance & Matrices/4 # Notes.md",
+    "Computer Science LU/I2205 Graphs/3 # Distance & Matrices/3 # The distance matrix.md",
+    "Computer Science LU/I2205 Graphs/3 # Distance & Matrices/2 # The adjacency matrix.md",
+    "Computer Science LU/I2205 Graphs/3 # Distance & Matrices/1 # Distance in graphs.md",
+    "Computer Science LU/I2205 Graphs/4 # Graph Algorithms/2 @ Implementation.md",
+    "Computer Science LU/I2205 Graphs/4 # Graph Algorithms/1 @ Graph Searching.md",
+    "Computer Science LU/I2205 Graphs/5 # Graph Coloring/6 @ Graph Coloring Algoritms.md",
+    "Computer Science LU/I2205 Graphs/5 # Graph Coloring/5 @ Ramsey Theory.md"
   ]
 }
