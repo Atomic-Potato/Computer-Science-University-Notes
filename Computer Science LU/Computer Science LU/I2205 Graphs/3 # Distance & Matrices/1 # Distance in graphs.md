@@ -18,7 +18,7 @@
 **`diametral path`** is the geodesic path joining a diameteral pair of vertices
 
 **The centroid of a tree**
-**`Weight of branch`** is the max amount of vertices of a branch of a selected vertex
+**`Weight of branch`** is the max amount of edges  of a branch of a selected vertex
 Example of branches:
 ![[branch weights in trees.jpg | 500]]
 

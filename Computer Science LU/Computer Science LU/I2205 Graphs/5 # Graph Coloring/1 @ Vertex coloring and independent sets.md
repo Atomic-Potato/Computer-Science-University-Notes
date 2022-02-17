@@ -32,4 +32,4 @@
 - $X(G) <= n - \beta(G)+1$
 
 **`girth`** is the length of the smallest cycle in the graph if theres any
-**`clique`** a complete graph
+**`clique`** is a complete subgraph

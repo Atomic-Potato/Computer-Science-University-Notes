@@ -19,9 +19,49 @@ https://youtu.be/bOJC93XxoFc
  ## Theorems
  - **Berge's Matching Theorem:** a matching M is maximum iff there is no M-augmenting path in G
 
-## Khun's Algorithm 
+## Khun's Algorithm for finding maximum matching 
 First, we take an empty matching. Then, while the algorithm is able to find an augmenting path, we update the matching by alternating it along this path and repeat the process of finding the augmenting path. As soon as it is not possible to find such a path, we stop the process - the current matching is the maximum.
 ```c
+int Aug(int l)
+{
+	// if its already visited we return
+    if(dfs_num[l]==DFS_BLACK) return 0;
+	//else mark it as visited
+    dfs_num[l]=DFS_BLACK;
+	//loop over the root children
+    for(int j=0; j< (int)AdjList[l].size();j++)
+    {
+        int r = AdjList[l][j];
+		// if the child is not matched we match it
+		// otherwise if we can find an alternating augmenint path from this vertex then we match it
+        if(match[r]==-1 || Aug(match[r]))
+        {
+            match[r]=l;
+            return 1;
+        }
+    }
+
+	//if we couldnt find any augmenting paths we return 0
+    return 0;
+}
+
+int solve()
+{
+    int maxmatch = 0;
+    match.assign(V, -1);
+
+	// we repeat the process for each vertex
+    for(int l=0 ; l<V ; l++)
+    {
+		//we reset the dfs
+        dfs_num.assign(V, DFS_WHITE);
+		// and we check if we found an augmenting path from this vertex
+        maxmatch += Aug(l);
+    }
+    return maxmatch;
+}
+
+
 int n, k; 
 vector<vector<int>> g; 
 vector<int> mt; 
