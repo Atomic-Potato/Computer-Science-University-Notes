@@ -8,7 +8,7 @@ The expectation of `g(X)`, where g is "any" function, is defined by:
 
 # Mean of a function of random variable
 ### Linearity of E(X)
-if `X` is a discrete random variable, with `pdf f(x) = P(X=x)` the:
+if `X` is a discrete random variable, with `pdf f(x) = P(X=x)` then:
 ![[Linearity of E(x).jpg | 300]]
 
 # Variance of a random variable

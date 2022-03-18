@@ -17,7 +17,7 @@ Geometric series
 
 # Cumulative distributive function (CDF)
 The cdf of a random variable is defined by
-![[cdf.jpg | 300]]
+![[cdf.jpg | 500]]
 
 continuation of the previous example:
 ![[example of cdf.jpg | 500]]

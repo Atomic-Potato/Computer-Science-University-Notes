@@ -10,7 +10,7 @@ if stream is at end-of-file, returns EOF
 ```c
 char *fgets(char *s, int n, FILE *stream);
 ```
-copies at most `n-1` files into s and returns s
+copies at most `n-1` characters into s and returns s
 a null character is written immediately after the last character read into the array.
 returns `NULL` if failed
 ## `getc()`

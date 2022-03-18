@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f92c644b88f9067a",
+        "id": "712c44262307af06",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/I2205 Graphs/8 # Bipartite Graphs and Matchings/2 @ Matching & Job Assignments.md",
+            "file": "Computer Science LU/M2250 Arithmetic & Algebra/Chap 1 Arithmetics in Z/Exercises/Solutions.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "khun",
+                "query": "geom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/I2205 Graphs/8 # Bipartite Graphs and Matchings/2 @ Matching & Job Assignments.md",
+                "file": "Computer Science LU/M2250 Arithmetic & Algebra/Chap 1 Arithmetics in Z/Exercises/Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,17 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f92c644b88f9067a",
+  "active": "712c44262307af06",
   "lastOpenFiles": [
-    "Computer Science LU/I2205 Graphs/8 # Bipartite Graphs and Matchings/2 @ Matching & Job Assignments.md",
-    "Computer Science LU/I2205 Graphs/1 # C++ for Graphs/1 # Vectors & Algorithms.md",
-    "Computer Science LU/I2205 Graphs/1 # C++ for Graphs/2 # Stacks , Queues, Deques & Priority Queues.md",
-    "Computer Science LU/I2205 Graphs/2 # Basic Concepts/Basic Concepts.md",
-    "Computer Science LU/I2205 Graphs/4 # Graph Algorithms/3 @ Tree  Codes.md",
-    "Computer Science LU/I2205 Graphs/3 # Distance & Matrices/1 # Distance in graphs.md",
-    "Computer Science LU/I2205 Graphs/3 # Distance & Matrices/4 # Notes.md",
-    "Computer Science LU/I2205 Graphs/3 # Distance & Matrices/3 # The distance matrix.md",
-    "Computer Science LU/I2205 Graphs/3 # Distance & Matrices/2 # The adjacency matrix.md",
-    "Computer Science LU/I2205 Graphs/4 # Graph Algorithms/2 @ Implementation.md"
+    "Computer Science LU/M2250 Arithmetic & Algebra/Chap 1 Arithmetics in Z/Exercises/Solutions.md",
+    "Computer Science LU/M2250 Arithmetic & Algebra/Chap 1 Arithmetics in Z/2 # GCD and LCM of integers.md",
+    "Computer Science LU/M2250 Arithmetic & Algebra/Chap 1 Arithmetics in Z/1 # Some properties in Z.md",
+    "Computer Science LU/S2250 Stats/Chapter 2/1 @ Probability distribution function.md",
+    "Computer Science LU/S2250 Stats/General notes.md",
+    "Computer Science LU/S2250 Stats/Chapter 2/3 @ Some usual discrete random variables.md",
+    "Computer Science LU/S2250 Stats/Chapter 2/2 @ Mathematical Expectation.md",
+    "Computer Science LU/S2250 Stats/Chapter 2/Exercises/Solution.md",
+    "To do List.md",
+    "Computer Science LU/S2250 Stats/Chapter 1/Exercises/Pictures/Pasted image 20220317204517.png"
   ]
 }

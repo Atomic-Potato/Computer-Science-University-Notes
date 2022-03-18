@@ -7,7 +7,9 @@ Easy enough
 # Ex 3
 ![[Computer Science LU/I2202 Digital Fundamentals/Chapter 3 Logic Gates/Pictures/ex 3.jpg]]
 # Ex 4
-![[Computer Science LU/S2250 Stats/Chapter 2/Exercises/Pictures/ex 4.jpg]]
+
+![[Computer Science LU/I2202 Digital Fundamentals/Chapter 3 Logic Gates/Pictures/ex 3.jpg | 400]]
+
 
 # Ex 7
 ![[ex 7.jpg]]
@@ -34,6 +36,7 @@ Easy enough
 
 # Ex 18
 ![[Pasted image 20220204173832.png]]
-
+**`HUMONGOUS NOTE:`**
+For a LED to light up it needs to have a high input from one side, so you see in the pic above we always have a constant input of 1V and the LED will only light up when we have LOW input from the NAND gate
 # Ex 19
 Nor gate connected like above

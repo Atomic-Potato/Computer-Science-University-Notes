@@ -43,7 +43,7 @@ $$(A+B)(\overline{A}+B)$$
 ![[POS standard.jpg | 600]]
 
 # Karnaugh Maps
-https://youtu.be/3vkMgTmieZI
+[Youtube Link](https://youtu.be/3vkMgTmieZI)
 ![[Grouping rules.png | 500]]
 ![[Karnaugh maps.jpg | 500]]
 ![[Karnaugh maps 2 1.jpg | 500]]

@@ -7,14 +7,16 @@ A probability is an application `P : S --> [0, 1]` satisfying the following axio
 
 The Probability formula:
 $$P = \frac{frequency}{numberOfWays}$$
+Frequency = number of favorable outcomes
+numOfWays = total frequency 
 
 *For better understanding*
 https://byjus.com/probability-formulas/
 
 # Basic rules of probability
 Let A and B be two events of sample space S
-- union rule: P(A U B) = P(A) + P(B) - P(A inter B)
-- intersection rule: $P(A\cap B) = P(A)*P(B)-P(A\cup B)$ `im not sure about this one`
+- union rule: P(A U B) = P(A) + P(B) - P(A $\cap$ B)
+- intersection rule: $P(A\cap B) = P(A)*P(B)-P(A\cup B)$ 
 - complement rule: $P(\overline{A}) = 1 - P(A)$
 
 **Inclusion-exclusion formula**

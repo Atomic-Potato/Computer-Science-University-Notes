@@ -1,5 +1,5 @@
-**Total probability formula**
+# Total probability formula
 ![[total proba formula.jpg]]
 
-**Bayes Rule**
+# Bayes Rule
 ![[bayes rule.jpg]]

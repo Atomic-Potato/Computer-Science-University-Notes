@@ -1,4 +1,5 @@
-Total days studied:		**51**
+Total days studied: **57**
+Total days left: **95**
 
 `Day 5`
 ![[日本語/Studying/Kanj charts/5.jpg]]
@@ -127,3 +128,21 @@ Total days studied:		**51**
 
 `Day 98 to 130: switching to 10 per day`
 ![[98 to 130.JPG]]
+
+`Day 130 to 136`
+![[130 to 136.JPG]]
+
+`Day 137 to 154`
+![[154.JPG]]
+
+`Day 155`
+![[155.JPG]]
+
+`Day 156`
+![[156.JPG]]
+
+`Day 157`
+![[157.JPG]]
+
+`Day 158 & 159`
+![[158 & 159.JPG]]

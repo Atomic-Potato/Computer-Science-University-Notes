@@ -29,11 +29,15 @@ The relation $R_1$ is equivalence relation.
 **`Prop 3 (Normal groups)`**
 Let N be a subgroup of a group G. The following statements are equivalent:
 1) xN = Nx, ∀x ∈ G.
-2) xNx −1 = N, ∀x ∈ G.
-3) xNx −1 ⊆ N, ∀x ∈ G.
+2) xN$x^{−1}$ = N, ∀x ∈ G.
+3) xN$x^{−1}$ ⊆ N, ∀x ∈ G.
 4) xN ⊆ Nx, ∀x ∈ G.
 
 The third property is used to proof if a subgroup N is  `Normal`  because its the easiest.
+
+# Theorems
+- **Theo 1 (Lagrange):**
+*Let G be finite group, N is subgroup of G then, O(N) divides O(G)*
 
 # Remarks
 - **Remark 1**

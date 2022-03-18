@@ -1,0 +1,5 @@
+- [ ] change the death collider sprite
+- [ ] give it particles
+- [ ] respawn the player if he hits them
+- [ ] make the arrows sprite
+- [ ] put in the arrows sprites

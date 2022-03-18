@@ -3,3 +3,14 @@
 
 `Vowels:` a - e - i - o - u
 `Consonant` all the other letters
+
+# Articles (a, an, the)
+Articles are used before nouns
+- `an` use before a `vowel` or `vowel sound (something that sounds like a vowel like hour)`
+- `a` general `= any`
+- `the`
+	- specific `= you coose`
+	- 2nd time you talk about the same noun
+	ex: "I bought some fruit. The fruit was bad."
+	- the speaker and listener both know whats the thing
+	- 1% of countries = United ___ / = small islands / = more than 2 words

@@ -1,3 +1,5 @@
+![[Computer Science LU/S2250 Stats/Chapter 2/Exercises/Pictures/ex 4.jpg]]
+
 # Ex 1
 - (A)
 $$26*26*10*8*9$$
@@ -41,23 +43,24 @@ $$P((\overline{A} \cup \overline{B})\cap C) = P(\overline{A} \cup \overline{B}) 
 $$P(\overline{A} \cup \overline{B}) = P(\overline{A})+P(\overline B) - P(\overline A)*P(\overline B) = \frac{5}{6}$$
 # EXTRA
 ## Ex1 
-![[ex1.jpg | 400]]
+![[ex1.jpg | 600]]
 $$P(A) = P(HTTHH) + P(THTHH) + P(TTTHH) = \frac{3}{2^5}$$
 
 ## Ex2
-![[Ex 2.jpg | 400]]
+![[Ex 2.jpg | 600]]
 $$P = \frac{1}{7}$$
 
 ## Ex3
-![[Computer Science LU/I2202 Digital Fundamentals/Chapter 3 Logic Gates/Pictures/ex 3.jpg | 400]]
+![[Pasted image 20220317194742.png | 600]]
+
 $$P(A|\overline{B}) = \frac{P(A) - P(B)P(A|B)}{1-P(B)} = \frac{3}{8}$$
 
 ## Ex4
-![[Ex4.jpg | 400]]
-![[Ex 3 solution.jpg | 400]]
+![[Ex4.jpg | 600]]
+![[Ex 3 solution.jpg | 600]]
 
 ## Ex 5
-![[ex ex5.jpg | 400]]
+![[ex ex5.jpg | 600]]
 `a` Find the probability that the system function
 - Let S = {event the system functions}, and A = {component A works} (resp. B,C and D)
 The probability that the system functions is
@@ -70,15 +73,16 @@ $$or \space S = (ABCD) \cup (ABC\overline{D}) \cup (AB\overline{C}D)$$
 $$P(\overline C | S) = \frac{P(\overline C \cap S)}{P(S)} = \frac{P(AB\overline C D)}{P(S)} = 0.1666$$
 
 ## Ex 6
-![[ex ex6.jpg | 400]]
+![[ex ex6.jpg | 600]]
 $$p = P(C_1C_2C_3) = (1-p)^3 => p = 0.034$$
 
 ## Ex 7
-![[ex ex7 1.jpg | 400]]
-![[extra ex 7 solution.jpg | 400]]
+![[ex ex7 1.jpg | 600]]
+![[Pasted image 20220317204517.png | 600]]
+![[extra ex 7 solution.jpg | 600]]
 
 ## Ex 8
-![[ex ex8.jpg  | 400]]
+![[ex ex8.jpg  | 600]]
 **standard way**
 A = {sum is 5}
 B = {sum is 7}

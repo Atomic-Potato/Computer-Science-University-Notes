@@ -20,7 +20,7 @@ Properties:
 - det(xyz) = det(x)det(y)det(z)
 
 `Bijection, injection and surjection:`
-![[Injection surjection bijection 1.JPG.jpg | 750]]
+![[Injection surjection bijection 1.JPG.jpg]]
 ![[Injection surjection bijection visual.JPG.jpg |300]]
 
 # Propositions

@@ -1,3 +1,6 @@
+# Free
+- [ ] rumbleverse
+
 # Pirate
 - [ ] The Riftbreaker
 - [ ] stalker
@@ -5,3 +8,4 @@
 - [ ] dishonored
 - [ ] exomecha
 - [ ] replaced
+- [ ] descenders

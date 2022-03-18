@@ -18,3 +18,6 @@
 
 ### Audio
 [] Make audio FX normal SFX + 8-bit
+
+### Art
+- [ ] Redesign the enemies to have robotic parts as well, name them with letters and numbers

@@ -1,3 +1,5 @@
+- [ ] Silicon valley
+- [ ] Naked gun
 - [ ] top gear dude japan trip
 - [ ] American Phsyco
 - [ ] HitchHikers gide to a galaxy
