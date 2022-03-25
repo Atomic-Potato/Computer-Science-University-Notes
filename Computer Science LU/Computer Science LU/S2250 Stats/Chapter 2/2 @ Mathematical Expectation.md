@@ -6,6 +6,8 @@ The expectation of `g(X)`, where g is "any" function, is defined by:
 ![[E(g(x)).jpg | 300]]
 `E(X)` is a special case for  `g = id (g(x)= x)`
 
+![[Pasted image 20220322195533.png]]
+
 # Mean of a function of random variable
 ### Linearity of E(X)
 if `X` is a discrete random variable, with `pdf f(x) = P(X=x)` then:

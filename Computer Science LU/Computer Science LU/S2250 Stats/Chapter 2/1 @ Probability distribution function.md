@@ -12,8 +12,6 @@ example:
 The sum of the probability of all the values taken by a random variable is `1`
 
 **Reminder**
-Geometric series
-![[geometric series reminder.jpg | 300]]
 
 # Cumulative distributive function (CDF)
 The cdf of a random variable is defined by

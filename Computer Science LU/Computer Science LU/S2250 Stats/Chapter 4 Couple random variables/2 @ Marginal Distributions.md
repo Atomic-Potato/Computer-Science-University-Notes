@@ -7,5 +7,6 @@ if X and Y are continuous, the the marginal pdf of X and Y are defined by:
 
 # Independence
 Two variables X and Y are independent iff 
-$$f(x,y)=f_X(x)*f_Y(y)$$
+$$\huge f(x,y)=f_X(x)*f_Y(y)$$
+**for every combination of `x` and `y`**
 ie. iff the joint pdf is equal to the product of the marginal distributions

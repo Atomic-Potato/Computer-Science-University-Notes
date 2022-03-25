@@ -7,7 +7,7 @@ The probability distribution function (pdf), or density, f(x) of a continuous ra
 - $\int_{\mathbb{R}} f(x)dx = 1$
 - P(X belong A) = $\int_{\mathbb{A}} f(x)dx$, for every interval A belong $\mathbb{R}$ 
 smoll notation note:
-![[Pasted image 20220118134725.png | 150]]
+![[Pasted image 20220320185102.png]]
 
 # Cumulative distribution function
 The cumulative distribution function `(CDF)` of a random variable X is defined by:

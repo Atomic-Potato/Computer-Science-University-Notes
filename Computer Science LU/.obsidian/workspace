@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "712c44262307af06",
+        "id": "689f8257a7901e90",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/M2250 Arithmetic & Algebra/Chap 1 Arithmetics in Z/Exercises/Solutions.md",
+            "file": "To do List.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "geom",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336
+    "width": 417
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/M2250 Arithmetic & Algebra/Chap 1 Arithmetics in Z/Exercises/Solutions.md",
+                "file": "To do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,17 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "712c44262307af06",
+  "active": "689f8257a7901e90",
   "lastOpenFiles": [
-    "Computer Science LU/M2250 Arithmetic & Algebra/Chap 1 Arithmetics in Z/Exercises/Solutions.md",
-    "Computer Science LU/M2250 Arithmetic & Algebra/Chap 1 Arithmetics in Z/2 # GCD and LCM of integers.md",
-    "Computer Science LU/M2250 Arithmetic & Algebra/Chap 1 Arithmetics in Z/1 # Some properties in Z.md",
-    "Computer Science LU/S2250 Stats/Chapter 2/1 @ Probability distribution function.md",
+    "To do List.md",
     "Computer Science LU/S2250 Stats/General notes.md",
+    "Computer Science LU/S2250 Stats/Chapter 4 Couple random variables/1 @ Joint Probability distribution function.md",
+    "Computer Science LU/S2250 Stats/Chapter 4 Couple random variables/2 @ Marginal Distributions.md",
     "Computer Science LU/S2250 Stats/Chapter 2/3 @ Some usual discrete random variables.md",
     "Computer Science LU/S2250 Stats/Chapter 2/2 @ Mathematical Expectation.md",
-    "Computer Science LU/S2250 Stats/Chapter 2/Exercises/Solution.md",
-    "To do List.md",
-    "Computer Science LU/S2250 Stats/Chapter 1/Exercises/Pictures/Pasted image 20220317204517.png"
+    "Computer Science LU/S2250 Stats/Chapter 3/2 @ Mathematical Expectation.md",
+    "Computer Science LU/S2250 Stats/Chapter 3/3 @ Usual Continuous Random Variables.md",
+    "Computer Science LU/S2250 Stats/Chapter 3/4 @ The Normal Distribution.md",
+    "Computer Science LU/I2202 Digital Fundamentals/Chapter 4 Boolean algebra & logic simplification/Chap 4.md"
   ]
 }
