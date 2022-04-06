@@ -2,7 +2,7 @@
 You can use the script element
 ```html
 <script>
-<!-- JS here -->
+//js here 
 </script>
 ```
 
@@ -101,7 +101,7 @@ Syntax
 
 ## Patterns
 ![[Pasted image 20220316152755.png | 700]]
-
+![[Pasted image 20220405205057.png]]
 ## Examples
 <span style="color: green;">Email Addresses:</span> <span style="color: red;">/^\w+([.-]?\w+)*@\w+([.-]?\w+)*(\.\w{2,3})+$/</span>
 ```

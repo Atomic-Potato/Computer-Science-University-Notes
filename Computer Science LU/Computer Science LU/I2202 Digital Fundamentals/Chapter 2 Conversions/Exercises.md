@@ -149,11 +149,11 @@ hex = C5418000
  - (33)
  **If both numbers are positve / negative then no need to convert to 2's complement in the end, else then convert the negative number to 2's complement and multiply**
  result 11000110110 =>2's c=>  00111001010 WRONG, to make it signed we add 1 as the MSB 100111001010
- 
+
  - (34)
  same idea as above but with division 
  
- # Ex 8
+# Ex 8
  - (35)
 you can directly do it from base 8 to base 2
 
@@ -168,7 +168,7 @@ EB, E is 16^1, B is 16^0
 the usual, divide by the base number
 
 - (39)
-FF + BB, convert to base 10, add then convert back to hexa
+FF + BB, convert to base 10, add then convert back to hexa ()
 187 + 255 = 442 = 1BA
 
 - (40)
@@ -191,7 +191,7 @@ convert each decimal digit to a 4 digit binary
  - 51
  group each four digits from each number and add them
  h = 1100 0110 1001 != 1269 = 561+708
- Here the column `1100` is incorrect so we add to `6` = `0010`
+ Here the column `1100` is incorrect so we add to `6` = `0110`
  and so the correct result will be `0001 0010 0110 1001`
  <label class="ob-comment" title="" style="">  <input type="checkbox"> <span style=""> This is only applied when the sum of the column is greater than 9 or we get an extra carry that doesnt fit in the column </span>When do we apply this rule?</label>
 
@@ -221,4 +221,4 @@ convert each decimal digit to a 4 digit binary
   a add 1 | b add 0 | c add 1
 
   - 64
-  cant really bother lol
+  cant really bother lol (`Me from the future, 2022-3-31: that was hilarious lmao`)

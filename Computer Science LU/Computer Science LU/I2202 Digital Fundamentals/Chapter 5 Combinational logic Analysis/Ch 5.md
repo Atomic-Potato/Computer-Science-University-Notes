@@ -1,9 +1,3 @@
-This is an inverter, that inverts the output
-![[Inverter.jpg]]
-
-# Combinational Logic Circuit
-When inverting the output of a `SOP` it will transform into a `POS`
-
 # Exclusive OR Logic
 ![[Exclusive OR logic.jpg | 500]]
 

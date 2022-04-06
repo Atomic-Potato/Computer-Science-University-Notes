@@ -44,6 +44,7 @@ Or we could use `<figcaption>`
 ```html
 <meter value="69" min="0" max"420">69</meter>Text<br>
 ```
+<meter value="69" min="0" max"420">69</meter>Text
 Theres also `progress element` which is quite similar
 
 `Favorite Icon`

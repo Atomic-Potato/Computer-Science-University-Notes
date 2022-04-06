@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "689f8257a7901e90",
+        "id": "10cd93b1b6a46a5e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "d flip flop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417
+    "width": 312
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -62,6 +62,7 @@
       {
         "id": "d1eb603264a35059",
         "type": "tabs",
+        "dimension": 10,
         "children": [
           {
             "id": "0dfbfde7802b1ebe",
@@ -85,6 +86,7 @@
       {
         "id": "67274d14f708fcb0",
         "type": "tabs",
+        "dimension": 10,
         "children": [
           {
             "id": "9ddef163ee69f062",
@@ -99,6 +101,7 @@
       {
         "id": "bf081f5d05708a87",
         "type": "tabs",
+        "dimension": 10,
         "children": [
           {
             "id": "ff14638a940f03a4",
@@ -113,6 +116,7 @@
       {
         "id": "f5bdf78596dcb479",
         "type": "tabs",
+        "dimension": 10,
         "children": [
           {
             "id": "8ebd7af058c877f9",
@@ -127,6 +131,7 @@
       {
         "id": "9205b03ed8f2bc2c",
         "type": "tabs",
+        "dimension": 10,
         "children": [
           {
             "id": "a718b1990c63865d",
@@ -141,6 +146,7 @@
       {
         "id": "1d5b548f659bf8f3",
         "type": "tabs",
+        "dimension": 10,
         "children": [
           {
             "id": "6e166ee41b6af6cf",
@@ -155,9 +161,55 @@
       {
         "id": "eb5afcbba39f8e92",
         "type": "tabs",
+        "dimension": 10,
         "children": [
           {
             "id": "3a45e610062f5a10",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c0f38a32bd925bd5",
+        "type": "tabs",
+        "dimension": 10,
+        "children": [
+          {
+            "id": "51ba77f197b81575",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2bdf8975bddcd28f",
+        "type": "tabs",
+        "dimension": 10,
+        "children": [
+          {
+            "id": "3ffe810e195eaf98",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ad6930f954bbdff1",
+        "type": "tabs",
+        "dimension": 10,
+        "children": [
+          {
+            "id": "c94fcb64305a1292",
             "type": "leaf",
             "state": {
               "type": "ob_comments",
@@ -171,17 +223,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "689f8257a7901e90",
+  "active": "10cd93b1b6a46a5e",
   "lastOpenFiles": [
     "To do List.md",
-    "Computer Science LU/S2250 Stats/General notes.md",
-    "Computer Science LU/S2250 Stats/Chapter 4 Couple random variables/1 @ Joint Probability distribution function.md",
-    "Computer Science LU/S2250 Stats/Chapter 4 Couple random variables/2 @ Marginal Distributions.md",
-    "Computer Science LU/S2250 Stats/Chapter 2/3 @ Some usual discrete random variables.md",
-    "Computer Science LU/S2250 Stats/Chapter 2/2 @ Mathematical Expectation.md",
-    "Computer Science LU/S2250 Stats/Chapter 3/2 @ Mathematical Expectation.md",
-    "Computer Science LU/S2250 Stats/Chapter 3/3 @ Usual Continuous Random Variables.md",
-    "Computer Science LU/S2250 Stats/Chapter 3/4 @ The Normal Distribution.md",
-    "Computer Science LU/I2202 Digital Fundamentals/Chapter 4 Boolean algebra & logic simplification/Chap 4.md"
+    "Computer Science LU/I2202 Digital Fundamentals/Chapter 2 Conversions/Chapter 2 Conversions.md",
+    "Computer Science LU/I2202 Digital Fundamentals/Chapter 2 Conversions/Exercises.md",
+    "Computer Science LU/I2202 Digital Fundamentals/Chapter 7 Latches and Flip-Flops/Course.md",
+    "Computer Science LU/I2201 Web Dev/Chp 8 Javascript.md",
+    "Computer Science LU/I2201 Web Dev/Chp 7 Forms.md",
+    "Computer Science LU/I2202 Digital Fundamentals/Chapter 6 Functions of Combinational Logic/Course.md",
+    "Computer Science LU/I2202 Digital Fundamentals/Chapter 5 Combinational logic Analysis/Ch 5.md",
+    "Pasted image 20220405205057.png",
+    "Pasted image 20220406174059.png"
   ]
 }

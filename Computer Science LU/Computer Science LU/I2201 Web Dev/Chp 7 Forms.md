@@ -71,6 +71,7 @@ The scrolling text box form control accepts free-form comments, questions, or de
 # Select List
 A select list is configured with one select element and multiple option elements. `<select></select>`
 ![[Pasted image 20220315174021.png | 800]]
+<select></select>
 
 ## Option Element
 The option element contains and configures an option item displayed in the select list form control. `<option></option>`

@@ -40,10 +40,10 @@ The heading `<h1> </h1>`... you know how it works, used in the `<body>`
 All of the following is contained in the `<body>`
 - The paragraph `<p></p>` will create a paragraph with a space above it and below it
 - The break line `<br>` will go down a line anywhere in the text in any element
-- The `<blockquote></blockquote>` will create a paragraph with all of its lines has 1 tab space to the right
+- The `<blockquote></blockquote>` will create a paragraph with all of its lines having 1 tab space to the right
 
 # Phrase elements
-![[phrase elements.jpg | 600]]
+![[phrase elements.jpg ]]
 Note these are not standalone elements.
 The `sub` i think makes something to the base of like log_10.
 The `sup` makes it to the power of
@@ -75,7 +75,6 @@ It means what it says
 <dl>
 	<dt>Title of the description<\dt>
 		<dd> The description<\dd>
-	<\dt>
 <\dl>
 ```
 Example:

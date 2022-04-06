@@ -40,6 +40,8 @@ Let a,b,c are three non-zero integers then the following statements hold.
 3) If a ∧ b = 1 and a ∧ c = 1 then a ∧ bc = 1.
 4) If p is a prime number then p | a or p ∧ a = 1.
 5) If p is a prime number such that p | ab then, p | a or p | b.
+   
+
 
 **Prop 4**
 Let a,b are non-zero positive integers and m = a ∨ b then,
@@ -96,6 +98,8 @@ i) d = a ∧ b.
 ii) d|a and d|b and there exist α,β ∈ Z such that d = αa + βb.
 <label class="ob-comment" title="" style="">  <input type="checkbox"> <span style=""> if we have the  d = αa + βb alone, this doesnt mean it implies d = a ∧ b</span>Note</label>
 
+
+
 - **corollary 2 `IMPORTANT`**
 a ∧ b = 1, if and only if, there exist α,β ∈ Z such that `αa + βb = 1`. ==(Bezout’s identity)==
 `Importnant notes`
@@ -104,6 +108,14 @@ a ∧ alpha = 1
 alpha ∧ beta = 1
 b ∧  alpha = 1 
 etc.
+
+How to get the quotient and the remainder:
+- Quotient:
+	- Just divide the numbers and your integer value of the result will be the quotient
+- Remainder:
+	- Subtract the divisor from the dividend repeatedly until your result is less than the divisor, this will be your remainder
+	  Or you can use the equation `quotient*divisor + y = dividend` where y will be the remainder, best used when the divisor is greater than the dividend   
+
 
 **Theorem 2**
 Let a,b are two non-zero integers (we can assume that a,b > 0 without losing

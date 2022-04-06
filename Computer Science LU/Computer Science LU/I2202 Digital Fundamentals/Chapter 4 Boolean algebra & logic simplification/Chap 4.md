@@ -42,6 +42,13 @@ $$(A+B)(\overline{A}+B)$$
 # POS standard form
 ![[POS standard.jpg | 600]]
 
+
+# Conversion from `SOP` to `POS` and vice versa
+if you got an equation of either type (`or even none`), all what you have to is create the truth table of the equation
+- And then the `results that are 0`, will be the `POS`, and the `results that are 1` will be the `SOP`
+- Now in each case, if character binary value is 0 its the bar of the character and if 1, then just the normal character ($A:0 \implies \bar{A}, \space A:1 \implies A$)
+- For POS, for each character in the case, you add the characters together, and then multiply each case to get the final equation
+- For SOP, for each character in the case, you multiply the characters together, and then add each case to get the final equation
 # Karnaugh Maps
 [Youtube Link](https://youtu.be/3vkMgTmieZI)
 ![[Grouping rules.png | 500]]
@@ -50,3 +57,8 @@ $$(A+B)(\overline{A}+B)$$
 ![[Karnaugh maps 3.jpg | 500]]
 ![[Karnaugh maps 4.jpg | 500]]
 ![[Karnaugh maps 5.jpg | 500]]
+
+# `POS` Karnaugh map
+It is constructed same as the `SOP` but when we fill it depending on when the result of the equation will be 0, and when we group we group the zeroes.
+Also here an `0` means an `A` and a `1` means an `A bar`, because remember that you are doing it on the case that the result should be 0.
+You can also extract the `SOP` from this map by just filling every other cell with `1` and group as we normally do in an `SOP` map.

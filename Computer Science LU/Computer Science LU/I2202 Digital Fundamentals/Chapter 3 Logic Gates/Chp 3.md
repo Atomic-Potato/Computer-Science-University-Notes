@@ -49,3 +49,6 @@ Denoted:
 $$X \space = \space \overline{AB}+AB$$
 $$or$$
 $$X \space = \space A(.)B$$
+
+# Notes
+![[Pasted image 20220401152548.png | 600]]

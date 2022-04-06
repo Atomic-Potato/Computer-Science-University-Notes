@@ -7,6 +7,9 @@
 ![[Pasted image 20220125104909.png | 600]]
 
 Example of `colsapn`
+```html
+<td colspan = "value">Monthly Savings</td>
+```
 ![[Pasted image 20220125104959.png | 200]]
 
 **`Table Header Element`**: The table header element is similar to a table data element and
