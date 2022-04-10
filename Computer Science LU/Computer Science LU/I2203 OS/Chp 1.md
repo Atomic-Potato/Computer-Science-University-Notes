@@ -3,7 +3,7 @@
 **`A program`** is a set of instructions in machine language
 ==Prog 1.c =>(complile)=>Prog 1.0 => run/execute (becomes a process)==
 
-**`multiprohramming mode: `** execute several programs at the same time
+**`multiprogramming mode: `** execute several programs at the same time
 # Multiprogramming mode
 - each process has a program, input, output, state, set of registers
 - A single processor may be shared among several processes
@@ -19,7 +19,7 @@
 
 **state of the process:**
 - when the program is loaded (start the execution) it is placed in `ready` state
-- the processes are ready to execute but still waiting the scheduler to choose them 
+	- the processes are ready to execute but still waiting the scheduler to choose them 
 - when the process is selected by the scheduler then it will become in the `running` state 
 - if the process requests input / output it will become in the `block/wait` state
 
@@ -49,7 +49,7 @@ The memory is divided into 2 sections, one for containing the running processes 
 ## fork()
 `int fork()` located in the `<unistd.h>` library tells the OS to create a child process as a copy of the calling parent process
 This function returns:
-- `-1` means forking failed (heh forking)
+- `-1` means forking failed *(heh forking)*
 - `random value` returned to the parent process (this is the `pid` of the child)
 - `0` returned to the new child process (the child doesnt know its `pid`)
 
@@ -75,13 +75,13 @@ The first 2 are called `normal termination` while the 3rd is called `abnormal te
 ## Normal Termination
 `int exit(int status);` found in `#include <sys/wait.h>` <label class="ob-comment" title="" style="">  <input type="checkbox"> <span style=""> the return is equivalent to exit(0) </span>Note</label>
 This function is used to exit out of the entire process when called
-- The `status` is a 1 byte number between 0 and 255 used by the process to tell its parent about its exit `status`
+- The `status` is a 1 byte number between 0 and 255 used by the process to tell its parent about its `exit status`
 
 ==Note: each process running in the system has a PCB==
 
 When the process exits it will stay on the system until its parent gets the info sent by `exit(status)` which means the process row in the PCB will stay and only gets deleted when what happens as said before.
 
-## How the parent gets info about the death of its child
+## How the parent gets info about the death of its child *(holy shit dude)*
 `int wait(int *statusPointer)` found in `#include <sys/wait.h>` 
 The `wait` is a blocking statement. Example
 ```c
@@ -97,8 +97,11 @@ If the parent has no children then wait returns `-1`. So now we can do:
 while (wait(&st) != -1);
 ```
 
-The parameter of the wait function is a pointer to a integer used for receiving the value sent by the child using the function `exit()`.
+The parameter of the wait function is a pointer to an integer used for receiving the value sent by the child using the function `exit()`.
 If we just want to wait for the child and not care about the value returned we give wait the argument `NULL`, `wait(NULL)`. Remember we can still get the get the id of the child while using NULL.
+
+**`NOTE:`**
+The wait function `returns the pid` of the exited process while it `stores` the value of the `exit function parameter` inside the variable put in the wait function parameter.
 
 Consider the following:
 ```
@@ -118,7 +121,7 @@ and to fix that we do either one of the following:
 - st = WEXITSTATUS(st);
 
 ##### Example question
-The question is we need to find the max of an array using 2 processes, when should use from 0 to 4 of the array and the child takes the rest and then the parent should print out the result
+The question is we need to find the max of an array using 2 processes, the parent should handle the elements from 0 to 4 in the array and the child takes the rest and then the parent should print out the result
 ```c
 #include <stdio.h>
 #include <unistd.h>
@@ -130,7 +133,7 @@ int main()
 	int array[10] = {/*10 values*/}
 	
 	int max = arr[0];
-	int childMax = &arr[5];
+	int* childMax = &arr[5];
 	
 	for(int i=0; i <= 4; i++)
 		if(arr[i] > max)
@@ -140,16 +143,16 @@ int main()
 	{
 		for(int i=5; i <= 9; i++)
 			if(arr[i] > *childMax)
-				childMax = arr[i];
-		exit(childMax);
+				childMax = &arr[i];
+		exit(*childMax);
 	}
 	esle
 	{
-		wait(&childMax);
-		childMax = choldMax << 8;
+		wait(childMax);
+		childMax = childMax << 8;
 		
-		if(childMax > max)
-			printf("%d", childMax);
+		if(*childMax > max)
+			printf("%d", *childMax);
 		else
 			printf("%d", max);
 	}

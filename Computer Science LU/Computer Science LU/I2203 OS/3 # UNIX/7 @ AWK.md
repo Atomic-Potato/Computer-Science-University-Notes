@@ -31,12 +31,25 @@ to access the content of each field  at our current record we use `$1, $2, ...` 
 - `ORS` Output record separator (default=\n)
 - `FILENAME` Current file name
 
-examples
+To change the `Record` you just change the value of `NR`
+```bash
+awk "NR==$record"'{print $0}' file
 ```
+
+examples
+```bash
 awk '{print NR, $1, $2, $5}' emps
 awk -F: '/Jones/{print $1, $2}' em2
 ```
 
+**`IMPORTANT NOTES:`**
+To put custom variables in the command all you gotta do is use the `[-v]` option like in this example:
+```bash
+read text
+num=$(echo $text | wc - w)
+
+text=$(echo $text | awk -v field="$num" '{print field}')
+```
 ## Arithmetic, Relational & Logical Operations 
 ![[Pasted image 20220305174240.png | 500]]
 ![[Pasted image 20220305174400.png | 500]]

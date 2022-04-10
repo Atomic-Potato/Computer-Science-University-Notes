@@ -80,9 +80,18 @@ done
 
 # For loop
 To execute commands as many times as the number of words in the “argument-list”
-```c
+```BASH
 for variable in argument-list
 do
-	commands
+	#commands
+done
+```
+
+**OR**
+
+```bash 
+for (( i=x; i<y; i++ )) 
+do #IT IS NECESSARY TO HAVE IT ON A NEW LINE !!
+	#commands
 done
 ```

@@ -10,7 +10,7 @@ When the CPU removes a process that havent finished its job, the process context
 It's the number of processes in the ready states at time `t`.
 
 # Process state transition diagram
-![[Process State transition diagram.jpg | 500]]
+![[Process State transition diagram.jpg | 700]]
 - `1` The scheduler / dispatcher chooses the process to execute
 - `2` process time expires / depends on priority
 - `3` process requests I/O data
@@ -45,7 +45,11 @@ It's the number of processes in the ready states at time `t`.
 # CPU Scheduling
 ## Scheduling criteria:
 - `CPU utilization`: ideally the CPU would be busy 100% of time (in reality between 40 and 90%)
+	- **(1 - idle/total) x 100**
+		- idle = total of time the cpu wasnt working
+		- total = theTimeWhenTheLastProcessFinishes
 - `Throughput`: The number of processes completed by unit of time
+	- **Throughput = numOfProcesses/theTimeWhenTheLastProcessFinishes**
 - `Turnarround Time:`  explained
 - `Waiting time:` explained (load average = average WT)
 - `Response time:`  The time taken in an intermediate program from the issuance of a command to the commence of a response to that command
@@ -57,7 +61,7 @@ It's the number of processes in the ready states at time `t`.
 - Minimize WT
 - Minimize RT
 
-**`Scheduling:`**
+**`Scheduling / Dispatcher:`**
 A short term scheduler / dispatcher manages the scheduling.
 (Where) It functions from the ready state till the running states.
 (When) when a process moves from:
@@ -67,10 +71,12 @@ A short term scheduler / dispatcher manages the scheduling.
 - new -> ready
 - wait -> ready
 
+![[Pasted image 20220409154355.png | 500]]
+
 # Scheduling Algorithms
 ## FCFS: First Come First Served
-criteria: arrival time (The criteria means which processes to run first)
-Mode: Non-preemptive (Because of this, the response time is the waiting time)
+**Criteria**: arrival time `(The criteria means which processes to run first)`
+**Mode**: Non-preemptive `(Because of this, the response time is the waiting time)`
 The scheduler gives to the CPU the processes in respect with their arrival time to ready queue
 
 Example:
@@ -86,10 +92,10 @@ Gives the priority to the process with the least BT
 - mode: non-preemptive
 
 At instant `t`, the algorithm chooses from the ready queue, the process with minimum BT
-![[Example on SJF.jpg | 400]]
+![[Example on SJF.jpg | 600]]
 Theres still a problem with this algorithm is that if the first process arrived to the the ready queue with a long CPU time then all of the next short ones will have a long wait time 
 
-`Efficiency =` (1 - throughput) x 100  = % time the CPU is used
+**`Efficiency =` (1 - throughput) x 100  = % time the CPU is used**
 
 ## `SJF with prediction`
 SJF is not used because we can't know ahead of time the BT of the process.
@@ -126,8 +132,8 @@ Where, **α** is the smoothening factor, where **0<= α <=1**. It controls and m
 ## Round Robin Algorithm
 This is the most popular algorithm. It is similar FCFS, we start executing the processes that arrive in turn but we used `Quantum Time (qt)`.
 
-- Mode: Preemptive
-- Criteria: AT and QT
+- **Mode**: Preemptive
+- **Criteria**: AT and QT
 
 How it works:
 ![[Round Robin Algorithm.jpg | 500]]
@@ -144,14 +150,15 @@ The second type of types are the following types: (wtf...)
 `non-preemptive:` the process with the highest priority is running until completion
 `preemptive:` the process with highest priority is running until  completion except if another process with higher priority arrives 
 
-Non preemptive example
+Non preemptive example (Remember, no context switching !!)
 ![[Pasted image 20220104183335.png | 500]]
 
 Preemptive example
 ![[Pasted image 20220104184352.png | 600]]
 Another example
 ![[Pasted image 20220120181015.png | 600]]
-CPU efficiency = 1 - idleTime/TotalTime x 100 
+**`CPU efficiency`** **= 1 - idleTime/TotalTime x 100** 
+
 ## Shortest Job First (preemptive) Algorithm
 The first process that arrives executes for 1 unit, if a new process arrives with lower BT we execute it if not we continue with P1 again for one unit. If we execute P2 we also doing it for 1 unity each till a new process with lower BT arrives and so on. 
 Example:
@@ -166,20 +173,21 @@ Its the same as above but at the moment a process finishes its first BT, we add 
 ![[Pasted image 20220120184654.png | 500]]
 This algorithm creates multiple queues and each one has its algorithm. The queues on the top have higher priority from the one below them means they should always execute first. Each process enters a queue and cant switch between queues.
 
-# Multi-level feedback scheduling algorithm 
+## Multi-level feedback scheduling algorithm 
 This algorithm avoids starvation and at the same time preference will be given to higher priority processes
 Processes may be moved from one queue to another for several reasons:
 - process characteristics change from CPU intensive to I/O intensive
 - if the age is incorporated the a process that waits for a long time may change its queue and its priority increase
 ![[Pasted image 20220125184250.png | 400]]
+
 MLFQ Rules:
-- if priority P1 > P2 then P1 runs
-- if P1 = P2 then the algorithm runs in a round robin fashion 
-- when a process arrives it is placed at the highest priority queue
-- when a process uses up its time allotment at a given level (regardless of how many times it has given the CPU), its priority  is reduced (i.e. moves down one queue)
-	- if a process uses up an entire time slice while running, its priority is reduced
-	- if a process gives up the CPU before the time slice is up, then it stays in the same queue / priority
-- After some period "t" of time, move all the processes to the topmost queue.
+- if priority `P1 > P2` then` P1 runs`
+- if `P1 = P2` then the algorithm runs in a `round robin` fashion 
+- when a process arrives it is placed at the `highest priority queue`
+- when a process `uses up its time allotment` at a given level (regardless of how many times it has given the CPU), i`ts priority  is reduced` (i.e. moves down one queue)
+	- if a process uses up an entire time slice while running, `its priority is reduced`
+	- if a process gives up the CPU before the time slice is up, then it `stays in the same queue / priority`
+- After some period "t" of time, `move all the processes to the topmost queue.` 
 
 Example
 ![[Pasted image 20220125185309.png | 600]]

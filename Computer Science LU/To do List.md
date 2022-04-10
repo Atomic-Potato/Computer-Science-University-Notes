@@ -7,6 +7,12 @@
 
 # ==Today==
 ### `I2203`
+- [x] ch 1 co
+- [x] ch 1 ex
+- [x] ch 2 co
+- [x] ch 2 ex
+- [x] ch 3 co
+- [x] ch 3 ex
 
 ##### I2202
 - [x] Chap 2 co
@@ -21,7 +27,7 @@
 - [x] Chap 6 ex
 - [x] Chap 7&8 co
 - [x] Chap 7&8 ex
-- [ ] Do some finals exercises 
+- [x] Do some finals exercises 
 - [x] how to use single precision floating to convert to hexadecimal
 
 ### `I2201`
@@ -77,6 +83,7 @@
 - [x] the calculator
 - [x] print your id paper
 - [ ] ask dad about the pc
+- [ ] change phone sfx
 - [ ] Kanji
 	- [ ] Read furigana
 - [ ] Potato Punch

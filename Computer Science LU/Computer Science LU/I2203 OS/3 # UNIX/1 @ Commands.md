@@ -10,16 +10,22 @@ man [command]
 which will print out the manual of that command.
 
 ## Some Basic Commands
-- `passwd`  - Changes password
-- `ls` - lists files
-- `less` - show contents of file
-- `logout` - logouts from system
-- `date` - displays date and time
-- `who` - displays who is on the system
-- `clear` - clears the terminal screen
-- `script` - make record of a terminal session
-- `uname -a` - prints current OS details (version etc.)
-- `man` - find and display system manual pages
+- Actually useful:
+	- `man` - find and display system manual pages
+	- `cat` - displays the content of a file
+	- `ls` - lists files in current directory 
+	- `date` - displays date and time
+	- `who` - displays who is on the system
+	- `clear` - clears the terminal screen
+	- `wc` counts words`[-w]` lines`[-l]` and characters`[-m]`
+	- `head -n "max_line" file` catches the lines from first line to the line we decide
+	- `tail -n "max_line" file` same as above but from the bottom, not that the indexing starts from 1 
+- Not so used:
+	- `passwd`  - Changes password
+	- `less` - show contents of file
+	- `logout` - logouts from system
+	- `script` - make record of a terminal session
+	- `uname -a` - prints current OS details (version etc.)
 
 ### What does the command `man` contain
 ![[Pasted image 20220129145331.png | 400]]
@@ -170,7 +176,7 @@ Syntax
 mkdir [-p] directory-list
 ```
 `directory-list:` the new folder path
-`-p` if any folders in the path are created, they will be created
+`-p` if any folders in the path are not created, they will be created
 note that on folder creation, the current execution path will not change
 
 Avoid the following characters when creating a name for a folder or a file

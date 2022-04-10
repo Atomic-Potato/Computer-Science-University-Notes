@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "10cd93b1b6a46a5e",
+        "id": "9dd5f8ac56a301a7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "d flip flop",
+                "query": "find",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,17 +223,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "10cd93b1b6a46a5e",
+  "active": "9dd5f8ac56a301a7",
   "lastOpenFiles": [
     "To do List.md",
-    "Computer Science LU/I2202 Digital Fundamentals/Chapter 2 Conversions/Chapter 2 Conversions.md",
-    "Computer Science LU/I2202 Digital Fundamentals/Chapter 2 Conversions/Exercises.md",
-    "Computer Science LU/I2202 Digital Fundamentals/Chapter 7 Latches and Flip-Flops/Course.md",
-    "Computer Science LU/I2201 Web Dev/Chp 8 Javascript.md",
-    "Computer Science LU/I2201 Web Dev/Chp 7 Forms.md",
-    "Computer Science LU/I2202 Digital Fundamentals/Chapter 6 Functions of Combinational Logic/Course.md",
-    "Computer Science LU/I2202 Digital Fundamentals/Chapter 5 Combinational logic Analysis/Ch 5.md",
-    "Pasted image 20220405205057.png",
-    "Pasted image 20220406174059.png"
+    "Pasted image 20220410194002.png",
+    "Computer Science LU/I2203 OS/3 # UNIX/1 @ Commands.md",
+    "Computer Science LU/I2203 OS/Chp 2 Process Scheduling.md",
+    "Computer Science LU/I2203 OS/3 # UNIX/7 @ AWK.md",
+    "Computer Science LU/I2203 OS/3 # UNIX/5 @ Bash Programming.md",
+    "Computer Science LU/I2203 OS/3 # UNIX/GENERAL NOTES.md",
+    "Computer Science LU/I2203 OS/3 # UNIX/2 @ Redirection and Piping.md",
+    "Computer Science LU/I2203 OS/3 # UNIX/3 @ Shell Jobs.md",
+    "Computer Science LU/I2203 OS/3 # UNIX/6 @ REGEX.md"
   ]
 }
