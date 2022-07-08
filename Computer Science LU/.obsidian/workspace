@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd5f8ac56a301a7",
+        "id": "99f846af4bd41e53",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To do List.md",
+            "file": "Computer Science LU/Year 2/Semester 2/ToDo List.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find",
+                "query": "xor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312
+    "width": 370.0036334991455
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -62,7 +62,6 @@
       {
         "id": "d1eb603264a35059",
         "type": "tabs",
-        "dimension": 10,
         "children": [
           {
             "id": "0dfbfde7802b1ebe",
@@ -70,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do List.md",
+                "file": "Computer Science LU/Year 2/Semester 2/ToDo List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -86,7 +85,6 @@
       {
         "id": "67274d14f708fcb0",
         "type": "tabs",
-        "dimension": 10,
         "children": [
           {
             "id": "9ddef163ee69f062",
@@ -101,7 +99,6 @@
       {
         "id": "bf081f5d05708a87",
         "type": "tabs",
-        "dimension": 10,
         "children": [
           {
             "id": "ff14638a940f03a4",
@@ -116,7 +113,6 @@
       {
         "id": "f5bdf78596dcb479",
         "type": "tabs",
-        "dimension": 10,
         "children": [
           {
             "id": "8ebd7af058c877f9",
@@ -131,7 +127,6 @@
       {
         "id": "9205b03ed8f2bc2c",
         "type": "tabs",
-        "dimension": 10,
         "children": [
           {
             "id": "a718b1990c63865d",
@@ -146,7 +141,6 @@
       {
         "id": "1d5b548f659bf8f3",
         "type": "tabs",
-        "dimension": 10,
         "children": [
           {
             "id": "6e166ee41b6af6cf",
@@ -161,7 +155,6 @@
       {
         "id": "eb5afcbba39f8e92",
         "type": "tabs",
-        "dimension": 10,
         "children": [
           {
             "id": "3a45e610062f5a10",
@@ -176,7 +169,6 @@
       {
         "id": "c0f38a32bd925bd5",
         "type": "tabs",
-        "dimension": 10,
         "children": [
           {
             "id": "51ba77f197b81575",
@@ -191,7 +183,6 @@
       {
         "id": "2bdf8975bddcd28f",
         "type": "tabs",
-        "dimension": 10,
         "children": [
           {
             "id": "3ffe810e195eaf98",
@@ -206,10 +197,23 @@
       {
         "id": "ad6930f954bbdff1",
         "type": "tabs",
-        "dimension": 10,
         "children": [
           {
             "id": "c94fcb64305a1292",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "47bbf26964c7f168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "549ec6ff949c46fa",
             "type": "leaf",
             "state": {
               "type": "ob_comments",
@@ -223,17 +227,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9dd5f8ac56a301a7",
+  "active": "99f846af4bd41e53",
   "lastOpenFiles": [
-    "To do List.md",
-    "Pasted image 20220410194002.png",
-    "Computer Science LU/I2203 OS/3 # UNIX/1 @ Commands.md",
-    "Computer Science LU/I2203 OS/Chp 2 Process Scheduling.md",
-    "Computer Science LU/I2203 OS/3 # UNIX/7 @ AWK.md",
-    "Computer Science LU/I2203 OS/3 # UNIX/5 @ Bash Programming.md",
-    "Computer Science LU/I2203 OS/3 # UNIX/GENERAL NOTES.md",
-    "Computer Science LU/I2203 OS/3 # UNIX/2 @ Redirection and Piping.md",
-    "Computer Science LU/I2203 OS/3 # UNIX/3 @ Shell Jobs.md",
-    "Computer Science LU/I2203 OS/3 # UNIX/6 @ REGEX.md"
+    "Computer Science LU/Year 2/Semester 2/ToDo List.md",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/5 # Image Filtering/1 @ RGB-Gray conversion.md",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/5 # Image Filtering/2 @ Filtering.md",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/5 # Image Filtering/i2234 5# pics/Pasted image 20220708194520.png",
+    "Computer Science LU/Year 2/Semester 2/I2207 - Computer Architecture/4-9 # MIPS/5 @ Functions.md",
+    "Computer Science LU/Year 2/Semester 2/I2207 - Computer Architecture/4-9 # MIPS/4 @ Strings.md",
+    "Computer Science LU/Year 2/Semester 2/I2207 - Computer Architecture/2 # Instruction Set Architecture (ISA)/2 @ Instruction Formats.md",
+    "Computer Science LU/Year 2/Semester 2/I2207 - Computer Architecture/4-9 # MIPS/3 @ Arrays.md",
+    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/5 # Data Link Layer & Error Control/2 @ Error Detection & Correction.md",
+    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/5 # Data Link Layer & Error Control/1 @ Data Link Layer.md"
   ]
 }

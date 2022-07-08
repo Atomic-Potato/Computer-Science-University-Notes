@@ -1,0 +1,4 @@
+- When using either the [[3 @ Quine & Reduction Algorithms#Davis and Putnam Algorithm|Davis and Putnam]] or [[4 @ Resolution Principle|Resolution Principle]] algorithm to prove a tautology of a clause you take the negation of that clause and prove that the clause is inconsistent
+-  In both [[3 @ Quine & Reduction Algorithms#Davis and Putnam Algorithm|Davis and Putnam]] or [[4 @ Resolution Principle|Resolution Principle]] to get the set `S` from the `implication expression` you transform it as you normally would using the [[3 @ Quine & Reduction Algorithms#Normalization Algorithm |Normalization algorithm]] and if you get the "`AND`" sign, then this is where you split each expression from the other
+	*Example:* 
+	(q OR b) AND !c will give us S = {q OR b, !c}

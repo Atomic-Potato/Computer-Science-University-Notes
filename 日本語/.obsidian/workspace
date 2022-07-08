@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "75264a44f7e119ee",
+        "id": "a136f60ef1e58d61",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日本語/Others/Anime Watch List.md",
+            "file": "日本語/雑多(ざった)/Anime Watch List.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語/Others/Anime Watch List.md",
+                "file": "日本語/雑多(ざった)/Anime Watch List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75264a44f7e119ee",
+  "active": "a136f60ef1e58d61",
   "lastOpenFiles": [
-    "日本語/Others/Anime Watch List.md",
-    "日本語/Others/IRL Watch List.md",
-    "日本語/Others/Apps Download List.md",
-    "日本語/Others/Game download List.md",
-    "日本語/Studying/KANJI COUNTER.md",
-    "日本語/Others/Untitled.md",
-    "r-animepiracy - AnimePahe's host, kwik.cx changed their strategy and now all the anime downloaders are broke. BUT....md",
-    "ReadItLater Inbox/Youtube - Obsidian Web Clipper How to capture web pages in one click with this bookmarklet - YouTube.md",
-    "ReadItLater Inbox/Youtube - Sounds of the Mandelbrot Set - YouTube.md",
-    "ReadItLater Inbox/2022-03-09 21-16-53.md"
+    "日本語/雑多(ざった)/Anime Watch List.md",
+    "日本語/雑多(ざった)/Game download List.md",
+    "日本語/学 (がく)/0 @ ToDo List.md",
+    "日本語/学 (がく)/Articles to check out.md",
+    "日本語/学 (がく)/2 @ Listening Practice.md",
+    "日本語/学 (がく)/KANJI COUNTER.md",
+    "日本語/学 (がく)/- PHASE #3 -.md",
+    "日本語/学 (がく)/Pics/Pasted image 20220630001920.png",
+    "日本語/学 (がく)/Pics/Pasted image 20220630003253.png",
+    "日本語/学 (がく)/1 @ How To study.md"
   ]
 }

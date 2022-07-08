@@ -1,0 +1,43 @@
+# Movies
+- [ ] Patlabor (Movies)
+- [ ] Aoki Uru (Uru in Blue) [RSF sequel, said to be premiered this year]
+- [ ] The garden of words
+- [ ] weathering with you
+- [ ] a silent voice
+- [ ] summer wars
+- [ ] I wanna eat your pancreas
+- [x] Grave of The Fireflies $-------------------(10/10)$
+- [x] Royal space force $------------------(9/10)$
+- [x] The Tale of The Princess Kaguya $----------(9/10)$
+- [x] From up on Poppy Hill $-----------------(8.75/10)$
+- [x] The Wind Rises $-------------------(8.75/10)$
+- [x] Your Name $-------------------(8.75/10)$
+- [x] kono sekai no katasumi ni$--------------(8.5/10)$
+- [x] sword of the stranger $---------------(8.25/10)$
+- [x] The boy an the beast $---------------(8/10)$
+- [x] Spirited Away $-------------------(7.75/10)$
+- [x] Castle In the sky $------------------(7.75/10)$
+- [x] Howl's Moving Catle $----------------(7.5/10)$
+- [x] My Neighbor Totoro  $----------------(7.5/10)$
+- [x] Josee to tora $--------------------(7.5/10)$
+- [x] Redline $----------------------(7.5/10)$
+- [x] 未来のミライ $-------------------(7.5/10)$
+- [x] a whisker away $------------------(7/10)$
+- [x] Millenium Actress $-----------------(7/10)$
+- [x] Arrietty $-------------------(6.5/10)$
+- [x] Roujin Z $-------------------(6/10)$
+- [x] メアリと魔女の花 $----------------(5.5/10)$
+
+
+# Series
+- [ ] Golden Boy
+- [ ] Evangelion
+- [ ] Re:Zero
+- [ ] Dororo
+- [ ] Cowboy Bebop
+- [ ] Handa-kun
+- [ ] Angel Densetsu 
+- [ ] Mysetrious Girlfriend X
+- [ ] saga of tanya the evil
+- [x] Kimetsu no yaiba 1 (8.5/10)
+- [x] Samurai Champloo (7.25/10)
