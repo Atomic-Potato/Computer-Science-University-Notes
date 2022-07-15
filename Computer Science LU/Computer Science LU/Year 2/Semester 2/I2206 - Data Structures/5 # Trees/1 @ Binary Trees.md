@@ -1,5 +1,8 @@
 A binary tree has 0,1 or 2 children
 
+- `Depth:` of a node = length of the path from the **root** to the node 
+- `Height:` of a node = length of the path from the node to the deepest node
+- `Height of the tree` is the max height among all the nodes in the tree and depth of the tree is the max depth among all the nodes in the tree 
 # Types of binary trees
 - `Strict Binary Tree:` Each node has 2 children or none at all
 - `Full Binary Tree:` Each node has 2 children and all leaf nodes are on the same level

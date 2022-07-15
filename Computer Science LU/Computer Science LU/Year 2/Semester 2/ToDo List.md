@@ -3,14 +3,11 @@
 
 # Due
 ### `L2200`
-- [ ] Recorded sessions
-- [ ] Presentation
+
 
 ### `I2206`
 - [ ] 5/29th big O lecture
 - [ ] Quiz 1 solutions
-- [ ] Trees practice 2
-- [ ] Trees Lab 2
 - [ ] Solve all the exercises about Asymptotic Analysis
 	- [x] 1
 	- [x] 2
@@ -37,29 +34,39 @@
 	- [ ] 23
 	      
 ### `I2207`
-- [x] lab 3
-- [x] Lecture 9
+
+- [x] Lab 4
+- [x] Lecture 10
 
 ### `I2208`
-
-
+- [ ] 7/13 Lecture
+- [ ] 7/14 lecture
 
 ### `I2209`
-- [ ] download Prolog Interpreter
-- [ ] session 13
 
 ### `I2210`
-- [ ] Download Power designer or some alternative
-- [ ] 5/30th, write down the course
+- [x] session 10
+- [ ] session 11
+- [ ] session 12
+- [ ] session 13
+- [ ] session 14
+- [ ] session 15
+- [ ] session 16
+- [ ] session 17
+- [ ] session 18
+- [ ] session 19
+- [ ] session 20
+- [ ] session 21
+- [ ] session 22
+- [ ] session 23
+- [ ] session 24
 ### `I2211`
-- [ ] 6/1 packages last 20 mins
+- [ ] session 8
+- [ ] session 9
 
 ### `I2234`
 - [ ] Solve lecture 3 questions
-- [x] install Octave and solve a little
-- [ ] Lab 1
-- [ ] Lab 2
-- [x] Lecture 5
+
       
 # Personal
 - [ ] see how catto converted the mouse keys into media buttons
@@ -76,6 +83,10 @@
 
 # Done
 ![[WhatsApp Image 2022-05-18 at 10.54.08 PM.jpeg | 600]]
+
+### `200`
+- [x] Recorded sessions
+- [x] Presentation **BIIIIIIIIIIITCH AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH**
 
 ### `01`
 - [x] read big O
@@ -97,6 +108,8 @@
 - [x] Queues exercies
 - [x] Queues lab
 - [x] Trees session
+- [x] Trees practice 2
+- [x] Trees Lab 2
 
 ### `07`
 - [x] write lecture 1
@@ -108,6 +121,8 @@
 - [x] lecture 8
 - [x] lecture 7
 - [x] lab 2
+- [x] lab 3
+- [x] Lecture 9
 ### `08`
 - [x] Start studying it you idiot, you only got 2 months before exams!!
 - [x] session 1
@@ -116,6 +131,7 @@
 - [x] session 4.1
 - [x] session 4.2
 - [x] session 5
+- [x] Last chapter 5 session
 
 ### `09`
 - [x] Ch1 session 1
@@ -133,22 +149,32 @@
 - [x] lab1
 - [x] session 11
 - [x] session 12
+- [x] session 13
+- [x] download Prolog Interpreter (not gonna)
 
 ### `10`
 - [x] Write down the important stuff from the last course
 - [x] 19-5 lecture
 - [x] Try to build an ERD leading to mange sale-operations is a given supermarket
-
-
+- [x] Download Power designer or some alternative
+- [x] session 8
+- [x] 5/30th, write down the course
+- [x] session 9
 ### `11`
 - [x] note down the things from your images
 - [x] 20-5 lecture
 - [x] Install NetBeans
 - [x] Check for any shenanigans in the java intro lecture
 - [x] Introduction to java programming book by Daniel Liang
+- [x] 6/1 packages last 20 mins
+- [x] session 7
 
 ### `34`
 - [x] lecture 1
 - [x] lecture 2
 - [x] lecture 3
 - [x] Lecture 4
+- [x] install Octave and solve a little
+- [x] Lab 1
+- [x] Lecture 5
+- [x] Lab 2

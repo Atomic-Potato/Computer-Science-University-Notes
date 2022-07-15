@@ -99,7 +99,7 @@ Reminder: [[1 @ Propositional Logic#Tautology and logical Consequence | Logical 
 
 F is a `Logical consequence` of P (P |= F) iff F is true in all of P’s models (Mod(P) ⊆ Mod(F))
 
-- **Theorem:** P |= F iff P ∧ ¬F is `inconsistent`
+- **Theorem:** P |= F iff P ∧ ¬F is `inconsistent` **`IMPORTANT`**
 
 # Logical Equivalence
 Let F, G, ∀xH(x) be formulas. F and G are logically equivalent (F ≡ G) iff I |= σ F exactly when I |= σ G.

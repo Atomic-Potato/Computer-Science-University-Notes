@@ -5,10 +5,10 @@ Easy enough
 Easy enough
 
 # Ex 3
-![[Computer Science LU/Year 2/Semester 1/DONE - I2202 Digital Fundamentals/Chapter 3 Logic Gates/Pictures/ex 3.jpg]]
+![[Computer Science LU/Year 2/Semester 1/DONE[53.00](4) - I2202 Digital Fundamentals/Chapter 3 Logic Gates/Pictures/ex 3.jpg]]
 # Ex 4
 
-![[Computer Science LU/Year 2/Semester 1/DONE - I2202 Digital Fundamentals/Chapter 3 Logic Gates/Pictures/ex 3.jpg | 400]]
+![[Computer Science LU/Year 2/Semester 1/DONE[53.00](4) - I2202 Digital Fundamentals/Chapter 3 Logic Gates/Pictures/ex 3.jpg | 400]]
 
 
 # Ex 7

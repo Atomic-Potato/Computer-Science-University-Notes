@@ -74,10 +74,10 @@ But here in image **e** we can see that we can still not detect the error becaus
 
 ---
 
-# Polynomial Code
+# Polynomial Code (CRC)
 Let `T = 1011` be the original message. We want to add redundant to help us detect errors at the receiver
 Let `T' = 1011 000 (4,7) - (k,n)` be the message with redundant bits *(000)* where `k` is the **size of the original message** and `n` the **size with redundant bits**
-
+(Return to this note after reading all of it: These 3 bits are **shifted** depending on the degree of the generator which has a degree of 3)
 - `Polynom generator:` is a polynom that will generate the redundant bits
 	- The generator `G` must be predefined, take for example in this case $\large G = x^3+1$
 	1. Write `T` as polynom: $\large 1x^0+1x^1+1x^2+1x^3 = x^3+x^2+1$
@@ -90,3 +90,47 @@ Let `T' = 1011 000 (4,7) - (k,n)` be the message with redundant bits *(000)* whe
 	5. At the receiver simply check if `G` divides `T'`
 		- If yes then the message is correct
 		- otherwise its not correct
+
+`Note:` when adding polynoms, we divide by 2 the result, then we take the remainder, so $x^2+x^2 = 0x^2 = 0$ and $x^2 + x^2 + x^2 = 3x^2 = x^2$ (Same for subtraction)
+
+## Shifting
+![[Pasted image 20220712175455.png]]
+
+## CRC at the receiver end
+In this method, there's a chance that the code cannot be detected.
+Let `E(x) = T(x) - T'(x)` *(this will extract the error)*, if **E(x)**  can be divided by the generator **G(x)**, then the error cannot be detected.
+
+*Example on E(x):*
+![[Pasted image 20220712192034.png | 400]]
+
+Here's some well known generators that are reliable:
+![[Pasted image 20220712192122.png | 400]]
+
+---
+
+# Checksum
+Take the set of numbers _(7, 11, 12, 0, 6)_ as the message that we want to send. There are two methods we can do this:
+- `method 1:`
+	- Add all the numbers for the set to become _(7, 11, 12, 0, 6, 36)_
+	- Convert the sum to binary
+	- Here all the numbers can be represented in **4 bits** (take it as `n`) except for the last one that takes which needs **6 bits**. So we add zeros at the left so it would become a **multiple of n**. Now split the result in half, and add both halfs, then convert the result using [[Chapter 2 Conversions#Complements|1's complement]] by adding a row of 1's
+- `method 2:`
+	- Convert all numbers to binary
+	- add them up
+	- convert to 1's complement
+
+- SENDER SIDE:
+	1. The message is divided into 16-bit words.
+	2. The value of the checksum word is set to 0.
+	3. All words including the checksum are added using one’s complement addition.
+	4. The sum is complemented and becomes the checksum.
+	5. The checksum is sent with the data.
+- RECEIVER SIDE:
+	1. The message (including checksum) is divided into 16-bit words.
+	2. All words are added using one’s complement addition.
+	3. The sum is complemented and becomes the new checksum.
+	4. If the value of checksum is 0, the message is accepted; otherwise, it is rejected.
+
+## How to read the sequence
+If he tells you that the check sum is 16 bits, you divide it in half, each half is 16 bits 
+![[Pasted image 20220712200037.png]]

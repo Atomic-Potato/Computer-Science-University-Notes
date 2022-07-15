@@ -19,7 +19,7 @@ The unification algorithm calculates a mgu for a set of expressions. Let W be a 
 	- $V_k$ is a variable
 	- $t_k$ is a [[1 @ Predicate Logic#Terms|term]] that doesn’t contain $V_k$
 	Then go to to `Step 4`; Otherwise W is non unifiable
-	**`BIG FAT NOTE: if you get a variable(Capital) and a constant(Small letter) then you substitute the variable with the constant, if you get a variable and a variable then it doesnt matter`**
+	**`BIG FAT NOTE: if you get a variable(Capital) and a constant(Small letter) then you substitute the variable with the constant, if you get a variable and a variable then it doesnt matter. You also cant substitue constants by terms and vice verca`**
 - `Step 4` $\large σ_{k+1} = \{V_k /t_k \} ◦ σ_k$
 	$\large W_{k+1} = W_{k\{V_k /t_k \}}$
 - `Step 5` k = k + 1; Go to `Step 2`

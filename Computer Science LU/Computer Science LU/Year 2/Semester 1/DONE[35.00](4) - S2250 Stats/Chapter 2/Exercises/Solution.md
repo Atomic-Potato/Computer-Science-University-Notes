@@ -5,7 +5,7 @@
 ![[ex 1 c.jpg | 500]]
 
 # Ex 4
-![[Computer Science LU/Year 2/Semester 1/DONE[35.00] - S2250 Stats/Chapter 2/Exercises/Pictures/ex 4.jpg | 500]]
+![[Computer Science LU/Year 2/Semester 1/DONE[35.00](4) - S2250 Stats/Chapter 2/Exercises/Pictures/ex 4.jpg | 500]]
 
 # Ex 5
 ![[ex 5.jpg | 500]]

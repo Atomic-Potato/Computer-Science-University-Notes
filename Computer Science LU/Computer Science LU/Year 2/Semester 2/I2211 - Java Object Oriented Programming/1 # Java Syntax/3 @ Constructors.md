@@ -5,7 +5,7 @@ A constructor has the same name of the class and doesnt take any return types, n
 ```java
 class Potato
 {
-	int var;
+	int variable;
 
 	//An empty constructor is the default constructor
 	//that is made even if you create other constructors

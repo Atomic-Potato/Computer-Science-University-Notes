@@ -1,4 +1,4 @@
-![[Computer Science LU/Year 2/Semester 1/DONE[35.00] - S2250 Stats/Chapter 2/Exercises/Pictures/ex 4.jpg]]
+![[Computer Science LU/Year 2/Semester 1/DONE[35.00](4) - S2250 Stats/Chapter 2/Exercises/Pictures/ex 4.jpg]]
 
 # Ex 1
 - (A)

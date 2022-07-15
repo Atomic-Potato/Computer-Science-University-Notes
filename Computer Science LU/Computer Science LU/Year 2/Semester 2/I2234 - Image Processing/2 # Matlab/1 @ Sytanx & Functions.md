@@ -83,7 +83,7 @@ Number_of_pixels= imhist (M);
 Intensity=0:255;
 ```
 
-# Binarization
+# Binarization / Binary Image
 Converting a grayscale image into a binary / pure black and white image
 The basic method is having a threshold in the grayscale to decide what value is back and what value is white
 ![[Pasted image 20220625233350.png]]
