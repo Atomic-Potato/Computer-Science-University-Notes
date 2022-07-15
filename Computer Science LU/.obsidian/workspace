@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/5 # Relational Model/2 @ Formal Languages.md",
+            "file": "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/2 # Entity-Relationship Model/Extra notes.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/5 # Relational Model/2 @ Formal Languages.md",
+                "file": "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/2 # Entity-Relationship Model/Extra notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,15 +229,15 @@
   },
   "active": "66b50644e136eaa5",
   "lastOpenFiles": [
+    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/2 # Entity-Relationship Model/PowerDesigner.md",
+    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/2 # Entity-Relationship Model/2 @ ERD to RDM Mapping.md",
+    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/2 # Entity-Relationship Model/1 @ E-R Diagram.md",
     "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/5 # Relational Model/1 @ Data Definition Language (DDL).md",
     "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/5 # Relational Model/2 @ Formal Languages.md",
     "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/5 # Relational Model/Exercises/UniLib DDL.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/2 # Entity-Relationship Model/2 @ ERD to RDM Mapping.md",
     "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/5 # Relational Model/i2210 #5 pics/Pasted image 20220715132832.png",
     "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/5 # Relational Model/i2210 #5 pics/Pasted image 20220715132847.png",
     "Computer Science LU/Year 2/Semester 1/[13.36]To do List.md",
-    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/9 # Flow Control/i2208 9# pics/Pasted image 20220714234245.png",
-    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/9 # Flow Control/1 @ Flow Control.md",
-    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/1 # Introduction/2 @ Layers.md"
+    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/9 # Flow Control/i2208 9# pics/Pasted image 20220714234245.png"
   ]
 }
