@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "=>",
+                "query": "balanced",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 366.5,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -229,15 +230,15 @@
   },
   "active": "66b50644e136eaa5",
   "lastOpenFiles": [
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/5 # Relational Model/i2210 #5 pics/Pasted image 20220715211226.png",
-    "My ideas for the game dev course.md",
-    "Computer Science LU/Year 2/Semester 2/ToDo List.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/5 # Relational Model/2 @ Formal Languages.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/5 # Relational Model/1 @ Data Definition Language (DDL).md",
-    "Personal Notes/WhatsApp Image 2022-05-18 at 10.54.08 PM.jpeg",
-    "Personal Notes/WhatsApp Image 2022-05-10 at 12.14.10 PM.jpeg",
-    "Personal Notes/WhatsApp Image 2022-03-29 at 1.56.29 PM.jpeg",
-    "Personal Notes/Mathematical Notes.md",
-    "Personal Notes/Programming Notes.md"
+    "Computer Science LU/Year 2/Semester 2/I2206 - Data Structures/6 # Sorting/i2206 6# pics/Pasted image 20220716225951.png",
+    "Computer Science LU/Year 2/Semester 2/I2206 - Data Structures/6 # Sorting/1 @ Priority Queue & Heaps.md",
+    "Computer Science LU/Year 2/Semester 2/I2206 - Data Structures/6 # Sorting/2 @ Sorting.md",
+    "Computer Science LU/Year 2/Semester 2/I2206 - Data Structures/5 # Trees/1 @ Binary Trees.md",
+    "Computer Science LU/Year 2/Semester 2/I2206 - Data Structures/5 # Trees/1.1 @ Binary Trees Traversals.md",
+    "Computer Science LU/Year 2/Semester 2/I2206 - Data Structures/5 # Trees/5 @ Expression Trees.md",
+    "Computer Science LU/Year 2/Semester 2/I2206 - Data Structures/5 # Trees/2 @ Binary Search Trees (BST).md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/1 @ Predicate Logic.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/1 # Propositional Logic/3 @ Quine & Reduction Algorithms.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/1 # Propositional Logic/1 @ Propositional Logic.md"
   ]
 }

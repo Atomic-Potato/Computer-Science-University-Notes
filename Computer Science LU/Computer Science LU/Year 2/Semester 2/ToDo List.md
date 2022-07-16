@@ -32,7 +32,17 @@
 	- [ ] 21
 	- [ ] 22
 	- [ ] 23
-	      
+	- [ ] 
+- [x] Sorting course 
+- [ ] Sorting Exercises
+- [ ] Sorting Exercises EXTRA
+- [ ] Searching course
+- [ ] Searching Exercises
+- [ ] Trees Exercises EXTRA
+- [ ] Lab 7 Trees
+- [ ] Lab 8 Heaps
+- [ ] Lab 9 Searching / hashing
+
 ### `I2207`
 
 - [x] Lab 4
