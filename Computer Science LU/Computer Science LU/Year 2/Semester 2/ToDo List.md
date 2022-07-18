@@ -1,6 +1,6 @@
 # Schedule
 ![[WhatsApp Image 2022-05-10 at 12.14.10 PM.jpeg | 800]]
-
+**Hours done:** `7` |
 # Due
 ### `L2200`
 
@@ -34,7 +34,7 @@
 	- [ ] 23
 	- [ ] 
 - [x] Sorting course 
-- [ ] Sorting Exercises
+- [x] Sorting Exercises
 - [ ] Sorting Exercises EXTRA
 - [ ] Searching course
 - [ ] Searching Exercises
@@ -42,6 +42,7 @@
 - [ ] Lab 7 Trees
 - [ ] Lab 8 Heaps
 - [ ] Lab 9 Searching / hashing
+- [ ] Quiz 8 Exercise
 
 ### `I2207`
 
@@ -50,16 +51,19 @@
 
 ### `I2208`
 - [ ] 7/13 Lecture
-- [ ] 7/14 lecture
 
 ### `I2209`
+- [ ] Prolog Session 03
 
 ### `I2210`
 - [x] session 10
-- [ ] session 11
-- [ ] session 12
-- [ ] session 13
-- [ ] session 14
+- [ ] Install MySQL
+      [https://youtu.be/C_KeaoJ6-Gc](https://youtu.be/C_KeaoJ6-Gc "https://youtu.be/c_keaoj6-gc")  
+      [https://youtu.be/KZtHbq_Ar_Y](https://youtu.be/KZtHbq_Ar_Y "https://youtu.be/kzthbq_ar_y")
+- [x] session 11
+- [x] session 12
+- [x] session 13
+- [x] session 14
 - [ ] session 15
 - [ ] session 16
 - [ ] session 17
@@ -71,8 +75,23 @@
 - [ ] session 23
 - [ ] session 24
 ### `I2211`
-- [ ] session 8
-- [ ] session 9
+- [x] session 8
+- [x] session 9
+- [x] session 10
+- [ ] 6/13
+- [x] 6/17
+- [ ] 6/20
+- [ ] 6/22
+- [ ] 6/24
+- [ ] 6/27
+- [ ] session 10 june 10
+- [ ] 6/29
+- [ ] 7/1
+- [ ] 7/4
+- [ ] 7/6
+- [ ] 7/8
+- [ ] 7/13
+- [ ] 7/15
 
 ### `I2234`
 - [ ] Solve lecture 3 questions

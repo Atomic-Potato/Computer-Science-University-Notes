@@ -87,7 +87,7 @@ int Partition(int A[], int low, int high)
 		while(A[left] <= pivot_item && left <= right)
 			left++;
 		//Move right while item > pivot
-		while(A[right] ? pivot_item && left <= right)
+		while(A[right] > pivot_item && left <= right)
 			right--;
 		
 		if(left < right)

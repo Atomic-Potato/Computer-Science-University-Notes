@@ -3,9 +3,19 @@ import java.util.Scanner
 
 public class ClassName
 {
+	//ARRAYS
+
+	//same syntax for an array of a class
 	int[] array = new int[69];
 	//or
 	int[] arr = {1, 2, 3};
+	//When declaring an array of classes, you dont put a copy of the object inside the array, 
+	//you put a reference to that object. 
+	//(Pretty much the same in normal arrays 
+	//when you think of the pointer notation of an array)
+
+
+	//CODE EXECUTION
 	
 	//Equivalent for main function, used for testing the class
 	public static void main(String[] agrs)
@@ -14,13 +24,15 @@ public class ClassName
 		System.out.println("I love phat potatoes");
 		//Input
 		Scanner input = new Scanner(System.in /*read from the keyboard*/)
+		int a = input.nextInt();
+		double b = input.nextDouble();
 	}
 }
 ```
 
 - The `new` keyword is like the `malloc()` but we dont really have to do all of that stuff for malloc. So you can conclude that a lot of things in java variables are pointers.
 
-![[Pasted image 20220520163940.png]]
+![[Pasted image 20220520163940.png | 800]]
 
 # The `static` keyword
 - The `static` keyword in `function` declaration means this function can be accessed using the **class name** instead of having to use it with a variable from that class
