@@ -1,3 +1,6 @@
+*The database we will be working with in this note:*
+![[Screenshot 2022-07-19 144731.png | 400]]
+
 # Query Languages
 **Language in which user requests information from the database.**
 And it has 2 categories:
@@ -72,6 +75,9 @@ $\large \color{pink} \Pi_{table.column}(....)$
 
 *Example:*
 ![[Pasted image 20220715211226.png | 300]]
+
+**Alternative definition:**
+![[Pasted image 20220719163210.png | 500]]
 
 ### `Outer Join`
 An extension of the `join` operation that avoids loss of information.
@@ -151,3 +157,79 @@ A `predicate formula`  contains:
 - Set of quantifiers, `there exists` and `for all`
 
 **`Note:`** its not favorable for `t` to have 2 variable types in `P(t)`, in other words, belong to 2 sets
+
+### Safety of Expressions
+To avoid writing tuples that can generate **infinite** relations *(e.g. $\large \{t \space | \space !t \in r\}$ )* , we restrict the set of allowable expressions to `safe expressions`.
+
+An expression is **safe** if **every component of `t` appears in `one` of the relations, tuples, or constants that appear in `P`**
+
+---
+
+## Domain Relational Calculus (DRC) / `non-procedural`
+ `DRC` is a nonprocedural query language equivalent in power to `TRC`,  with the form:
+ $$\huge \color{cyan} \{<x_1,x_2,...,x_n> | \space P(x_1,x_2,...,x_n)\}$$
+ $\color{red}\large x_1,x_2,...,x_n$  represent domain variables
+`P` represents a formula similar to that of the [[1 @ Predicate Logic |predicate calculus]]. 
+
+*Example:*
+![[Pasted image 20220719130517.png | 450]]
+
+### Safety of Expressions
+An expression is **safe** if:
+- All values that appear in tuples of the expression are values from `dom(P)` *(that is, the values appear either in `P` or in a tuple of a relation mentioned in `P`).*
+- For every **“there exists”** sub-formula of the form $\large \color{magenta} \exists x(P_1(x))$, the sub- formula is true if an only if $\large P_1(x)$ is true for all values `x` from $\large \color{red} dom(P_1)$.
+- For every **“for all”** subformula of the form $\large \color{magenta} \forall x(P_1(x))$, the sub-formula is true if and only if $\large P_1(x)$ is true for all values `x` from $\large \color{red} dom(P_1)$. 
+
+---
+
+# Extra
+## Formal modification of the database
+### `Deletion`
+The selected tuples are removed from the database. But it cannot delete values on only particular attributes
+
+**Syntax:** $\large \color{pink} table \leftarrow table - E$ ,  where `E` is a relational algebra query.
+
+*Example:*
+![[Pasted image 20220719144014.png | 400]]
+
+### `Insertion`
+To insert data into a table, we either:
+-  specify a tuple to be inserted
+-  write a query whose result is a set of tuples to be inserted
+
+**Syntax:** $\large \color{pink} table \leftarrow table \cup E$ ,  where `E` is a relational algebra query.
+
+The insertion of a single tuple is expressed by letting `E` be a **constant relation containing one tuple**.
+![[Pasted image 20220719150050.png | 450]]
+
+### `Updating`
+Change a value in a tuple without charging *all* values in the tuple
+
+**Syntax:** $\large \color{pink} table \leftarrow  \Pi_{F1,F2,...}(table)$  Each `F`, is either the ith attribute of the table, if the ith attribute is not updated, or, if the attribute is to be updated.
+
+`Fi` is an expression, involving only constants and the attributes of the table, which gives the new value for the attribute
+
+*Example:*
+![[Pasted image 20220719151339.png | 450]]
+
+---
+
+## Views
+A database `view` is a subset of a database and is based on a **query** that runs on one or more database tables. Database views are saved in the database as named queries and can be used to save frequently used, complex queries.
+
+`View` definition is not the same as creating a new `relation` by evaluating the query expression.
+Rather, a view definition causes the saving of an expression to be substituted into **queries** using the view.
+
+**Syntax:** $\large \color{pink} create \space view \space v  \space as \space <query \space expression>$
+![[Pasted image 20220719153452.png | 450]]
+
+Note that views can be created from other views, even if it was from itself  *(then it would be called a recursive view)*
+
+- **`Updates` Through View:**
+It's pretty much the same, we just use the view instead of the table
+*Example:*
+![[Pasted image 20220719153947.png | 450]]
+
+---
+
+**`Tip:`** Try writing the formula in a general way *(something like pseudo code but for predicate)* before writing it in one of the languages

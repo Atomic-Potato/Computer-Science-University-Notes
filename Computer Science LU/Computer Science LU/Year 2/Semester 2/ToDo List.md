@@ -1,6 +1,9 @@
 # Schedule
 ![[WhatsApp Image 2022-05-10 at 12.14.10 PM.jpeg | 800]]
-**Hours done:** `7` |
+**Hours done:** `7` | `6.8` |
+
+# **FIND SCHOLARSHIPS !!!**  `AAAAHH !`
+
 # Due
 ### `L2200`
 
@@ -64,7 +67,7 @@
 - [x] session 12
 - [x] session 13
 - [x] session 14
-- [ ] session 15
+- [x] session 15
 - [ ] session 16
 - [ ] session 17
 - [ ] session 18

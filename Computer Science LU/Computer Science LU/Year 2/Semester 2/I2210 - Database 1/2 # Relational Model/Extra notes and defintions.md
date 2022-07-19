@@ -1,0 +1,1 @@
+- A `query` : A query can either be **a request for data results from your database or for action on the data, or for both**.
