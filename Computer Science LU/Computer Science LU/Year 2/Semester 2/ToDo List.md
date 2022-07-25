@@ -1,6 +1,8 @@
 # Schedule
 ![[WhatsApp Image 2022-05-10 at 12.14.10 PM.jpeg | 800]]
-**Hours done:** `7` | `6.8` |
+![[1631c066-1b2e-4f3e-90b5-191c853e79f7 1.jpg | 250]]
+
+**Hours done:** `7` | `6.8` | `4.5` | `4.1` | `5.3` | `5.3` | `1` | `3`
 
 # **FIND SCHOLARSHIPS !!!**  `AAAAHH !`
 
@@ -56,36 +58,39 @@
 - [ ] 7/13 Lecture
 
 ### `I2209`
-- [ ] Prolog Session 03
+- [x] Prolog Session 02
+- [x] Write session 2
+- [x] Prolog Session 03
+- [ ] Write session 3
 
 ### `I2210`
 - [x] session 10
-- [ ] Install MySQL
-      [https://youtu.be/C_KeaoJ6-Gc](https://youtu.be/C_KeaoJ6-Gc "https://youtu.be/c_keaoj6-gc")  
-      [https://youtu.be/KZtHbq_Ar_Y](https://youtu.be/KZtHbq_Ar_Y "https://youtu.be/kzthbq_ar_y")
+- [ ] Install MySQL **OR** use Online SQL or SQL Fiddle
 - [x] session 11
 - [x] session 12
 - [x] session 13
 - [x] session 14
 - [x] session 15
-- [ ] session 16
-- [ ] session 17
-- [ ] session 18
-- [ ] session 19
-- [ ] session 20
+- [x] session 16
+- [x] session 17
+- [x] session 18
+- [x] session 19
+- [x] session 20
 - [ ] session 21
 - [ ] session 22
 - [ ] session 23
 - [ ] session 24
+- [ ] session 25
+- [ ] session 26
 ### `I2211`
 - [x] session 8
 - [x] session 9
 - [x] session 10
-- [ ] 6/13
+- [x] 6/13
 - [x] 6/17
-- [ ] 6/20
-- [ ] 6/22
-- [ ] 6/24
+- [x] 6/20
+- [x] 6/22
+- [x] 6/24
 - [ ] 6/27
 - [ ] session 10 june 10
 - [ ] 6/29

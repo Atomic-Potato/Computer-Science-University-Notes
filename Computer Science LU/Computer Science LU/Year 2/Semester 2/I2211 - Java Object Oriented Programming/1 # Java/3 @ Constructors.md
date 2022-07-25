@@ -26,6 +26,8 @@ class Potato
 }
 ```
 
+Constructors can be **private** so you cant create any object from their class. so just accessing the functions they offer *(e.g. the Math class)*
+
 # Calling constructors
 Just like how you would create a `new` object of the class, but you just give it the arguments it demands, not necessary btw
 ```java

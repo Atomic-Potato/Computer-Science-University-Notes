@@ -1,4 +1,4 @@
 - To declare a **constant** we use the `final` keyword.
 - **Booleans** use the keyword `boolean`
-- `@Override` : In any object-oriented programming language, Overriding is **a feature that allows a subclass or child class to provide a specific implementation of a method that is already provided by one of its super-classes or parent classes**. *(By default the classes we create  inherit from a supper class)*
+
 - Remember to create variables inside the main method in the **Testing Class** 

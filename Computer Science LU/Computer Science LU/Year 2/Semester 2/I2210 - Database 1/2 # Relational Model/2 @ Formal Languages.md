@@ -52,7 +52,7 @@ $\large \sigma_{branch=cse}(student)$ will display all the students in the stude
 ### `Cartesian Product`
 **it combines table1 and table 2 without any condition**
 
-**Syntax:** $\large \color{pink} Table_1\space  X \space Table_2$ which is equal to $\large \color{pink} degree\_Table_1\space  + \space degree\_Table_2$ where degree is the total number of columns
+**Syntax:** $\large \color{pink} Table_1\space  \times \space Table_2$ which is equal to $\large \color{pink} degree\_Table_1\space  + \space degree\_Table_2$ where degree is the total number of columns
 
 *Example:*
 ![[Pasted image 20220715182945.png | 500]]
@@ -101,9 +101,13 @@ Suited to queries that include the phrase “for all.”
 
 **Syntax:** $\large \color{pink} table_1 \div table_2$
 
+Extra:
+Lets take the last example. It took the blue and the red because they have both **B1** and **A1**. and it did not take the green one because it has only **A1** and not **B1**
+
 *Examples:*
 ![[Pasted image 20220715212819.png | 500]]
-![[Pasted image 20220715213142.png | 300]]
+![[Pasted image 20220715213142.png | 450]]
+![[Pasted image 20220725152022.png | 400]]
 
 ### `Assignment`
 The assignment operation `(<-)` provides a convenient way to express complex queries by storing intermediate results into **temporary** variable.

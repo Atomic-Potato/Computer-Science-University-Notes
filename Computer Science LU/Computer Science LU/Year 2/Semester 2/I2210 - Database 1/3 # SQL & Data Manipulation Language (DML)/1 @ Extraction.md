@@ -96,7 +96,7 @@ order by cname
 ---
 
 ## Set Operations
-We can use the `union` $\cup$, `intersect`$\cap$, and `excpet` $-$ operations in SQL. This operations **eliminate duplicates**, however we can add the keyword `all` after them to keep them included, however its different for each operations.
+We can use the `union` $\cup$, `intersect`$\cap$, and `except` $-$ operations in SQL. This operations **eliminate duplicates**, however we can add the keyword `all` after them to keep them included, however its different for each operations.
 Suppose a tuple occurs m times in r and n times in s, then, it occurs:
 - **m + n** times in r `union all` s
 - **min(m,n)** times in r `intersect all` s
