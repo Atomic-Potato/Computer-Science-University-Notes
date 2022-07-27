@@ -56,6 +56,8 @@ i think it preforms the operation on `t1` and `t0` and then stores the result in
 	- **lw:** load word : load whats in `x` into `$t0`
 	- **sw:** store word : store whats in `$t0` into `x`
 	- **la:** load address : put the address of `x` in `$t0`
+	- **lb:** load byte: same as `lw` but for bytes / characters
+	- **sb:** store byte: same as `sw` but for bytes / characters
 - `immediate value:`
 	Theres two types of operands:
 	- **2 registers, 1 immediate value**

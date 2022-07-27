@@ -1,8 +1,6 @@
 # Schedule
 ![[WhatsApp Image 2022-05-10 at 12.14.10 PM.jpeg | 800]]
-![[1631c066-1b2e-4f3e-90b5-191c853e79f7 1.jpg | 250]]
-
-**Hours done:** `7` | `6.8` | `4.5` | `4.1` | `5.3` | `5.3` | `1` | `3`
+**Hours done:** `7` | `6.8` | `4.5` | `4.1` | `5.3` | `5.3` | `1` | `3` | `2.8` | `0`
 
 # **FIND SCHOLARSHIPS !!!**  `AAAAHH !`
 
@@ -48,11 +46,13 @@
 - [ ] Lab 8 Heaps
 - [ ] Lab 9 Searching / hashing
 - [ ] Quiz 8 Exercise
-
+- [ ] See how to reverse the log2
 ### `I2207`
-
 - [x] Lab 4
 - [x] Lecture 10
+- [x] Lab 5
+- [x] Lab 6
+- [x] Lecture 11
 
 ### `I2208`
 - [ ] 7/13 Lecture
@@ -64,18 +64,7 @@
 - [ ] Write session 3
 
 ### `I2210`
-- [x] session 10
 - [ ] Install MySQL **OR** use Online SQL or SQL Fiddle
-- [x] session 11
-- [x] session 12
-- [x] session 13
-- [x] session 14
-- [x] session 15
-- [x] session 16
-- [x] session 17
-- [x] session 18
-- [x] session 19
-- [x] session 20
 - [ ] session 21
 - [ ] session 22
 - [ ] session 23
@@ -83,14 +72,7 @@
 - [ ] session 25
 - [ ] session 26
 ### `I2211`
-- [x] session 8
-- [x] session 9
-- [x] session 10
-- [x] 6/13
-- [x] 6/17
-- [x] 6/20
-- [x] 6/22
-- [x] 6/24
+
 - [ ] 6/27
 - [ ] session 10 june 10
 - [ ] 6/29
@@ -103,12 +85,15 @@
 
 ### `I2234`
 - [ ] Solve lecture 3 questions
-
+- [ ] Lab 3
+- [x] Lecture 6
+- [ ] Lab 4
+- [x] Lecture 7
       
 # Personal
 - [ ] see how catto converted the mouse keys into media buttons
-- [ ] Kanji
-	- [ ] Read furigana
+- [x] Kanji
+- [ ] Read & Speak Japanese
 - [ ] Potato Punch
 - [ ] Pixel art
 - [ ] Keyboard touch typing
@@ -197,6 +182,18 @@
 - [x] session 8
 - [x] 5/30th, write down the course
 - [x] session 9
+- [x] session 10
+- [x] session 11
+- [x] session 12
+- [x] session 13
+- [x] session 14
+- [x] session 15
+- [x] session 16
+- [x] session 17
+- [x] session 18
+- [x] session 19
+- [x] session 20
+
 ### `11`
 - [x] note down the things from your images
 - [x] 20-5 lecture
@@ -205,6 +202,14 @@
 - [x] Introduction to java programming book by Daniel Liang
 - [x] 6/1 packages last 20 mins
 - [x] session 7
+- [x] session 8
+- [x] session 9
+- [x] session 10
+- [x] 6/13
+- [x] 6/17
+- [x] 6/20
+- [x] 6/22
+- [x] 6/24
 
 ### `34`
 - [x] lecture 1

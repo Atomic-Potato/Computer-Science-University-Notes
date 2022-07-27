@@ -63,3 +63,7 @@ The address of the first byte in $RL_i = i*line\_length$
 	![[Pasted image 20220714171229.png]]
 	Otherwise simply move $RL_i$ to $CL_j$
 	- $v_j = 1$  |  $d_j = 0$ | $t_j = tag$
+
+--- 
+
+The disadvantage of `direct mapping` that some cache lines may not be used

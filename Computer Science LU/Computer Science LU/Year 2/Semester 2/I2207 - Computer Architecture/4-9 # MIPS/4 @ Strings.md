@@ -19,7 +19,7 @@ A string is terminated by the null character `‘\0’`. The null character has 
 - Method 1:
 \$v0 <- 8
 \$a0 <- address of the String
-\$a1 <- Number of characters to read syscall
+\$a1 <- Number of characters to read syscall **`(NOTE THAT YOU NEED AN EXTRA BYTE FOR THE \0)`**
 
 - Method 2:
 Use a loop including:

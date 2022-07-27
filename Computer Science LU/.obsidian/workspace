@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Computer Science LU/Year 2/Semester 2/ToDo List.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aggre",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5107650756836,
-    "collapsed": true
+    "width": 411.5107650756836
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -230,15 +229,15 @@
   },
   "active": "f085ad324dcafab5",
   "lastOpenFiles": [
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/3 # SQL & Data Manipulation Language (DML)/3 @ Data Extraction.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/3 # SQL & Data Manipulation Language (DML)/1 @ Extraction.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/2 # Relational Model/2 @ Formal Languages.md",
-    "Pasted image 20220725152022.png",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/7 # Edge Detection/i2234 7# pics/Pasted image 20220727231547.png",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/7 # Edge Detection/2 @ Background Subtraction.md",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/7 # Edge Detection/i2234 7# pics/Pasted image 20220727230927.png",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/7 # Edge Detection/1 @ Edge Detection.md",
     "Computer Science LU/Year 2/Semester 2/ToDo List.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/3 # SQL & Data Manipulation Language (DML)/2 @ Insertion, Updating, Deletion.md",
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/1 # Propositional Logic/1 @ Propositional Logic.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/2 # Relational Model/1 @ Data Definition Language (DDL).md",
-    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/7 # Network Layer/1 @.md",
-    "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/0 @ OOP Philosophies.md"
+    "Untitled.md",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/2 # Matlab/2 @ Function Decleration.md",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/2 # Matlab/1 @ Sytanx & Functions.md",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/6 # Noise Filtering/i2234 6# pics/Pasted image 20220727225711.png",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/6 # Noise Filtering/1 @ Noise.md"
   ]
 }
