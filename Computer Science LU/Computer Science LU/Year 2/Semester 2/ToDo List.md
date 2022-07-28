@@ -1,6 +1,6 @@
 # Schedule
 ![[WhatsApp Image 2022-05-10 at 12.14.10 PM.jpeg | 800]]
-**Hours done:** `7` | `6.8` | `4.5` | `4.1` | `5.3` | `5.3` | `1` | `3` | `2.8` | `0`
+**Hours done:** `7` | `6.8` | `4.5` | `4.1` | `5.3` | `5.3` | `1` | `3` | `2.8` | `6.9`
 
 # **FIND SCHOLARSHIPS !!!**  `AAAAHH !`
 
@@ -65,8 +65,8 @@
 
 ### `I2210`
 - [ ] Install MySQL **OR** use Online SQL or SQL Fiddle
-- [ ] session 21
-- [ ] session 22
+- [x] session 21
+- [x] session 22
 - [ ] session 23
 - [ ] session 24
 - [ ] session 25
