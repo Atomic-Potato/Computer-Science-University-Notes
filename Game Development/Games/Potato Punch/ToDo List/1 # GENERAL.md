@@ -1,10 +1,21 @@
 # Specific Tasks
-#### Player
-- | | M o v e m e n t | |
-	- [ ] Max `-y` velocity
+## Technical
+- [ ] 
 
-- | | V i s u a l s | |
+## Main
+#### Player
+- `Movement`
+	- [ ] Max `-y` velocity
+	- [ ] Put the delay timer above the dashes count 
+	- [ ] Dashing cancels rolling and dashes
+
+- `Visuals`
 	- [ ] Better square sprite
+- `Bugs`
+	- [ ] can dash while rolling
+	- [ ] keeps rolling when colliding with a wall
+	- [ ] dont switch to the companion unless your speed is greater than 1 (thats the fix not the bug)
+
 - [x] [[Grappling Hook]]
 - [x] [[Roll]]
 - [x] [[Dash]]
@@ -20,7 +31,7 @@
 - [x] Create  a small world for the slow player test
 
 #### User interface (UI)
-- [ ] On scene load animation
+- [x] On scene load animation
 - [x] add an icon for dashing delay
 - [x] Put in the menu an option to increase the amount of dashes
 - [x] change the grappling icon
@@ -28,10 +39,8 @@
 - [x] fix timer appears when unpausing
 - [x] fix menu readability 
 
-- | | **P l a y e r** | |
-	- [ ] Put the delay timer above the dashes count 
 
-- | | **P a u s e   M e n u ** | |
+- `Pause Menu`
 	- [x] Add a reload level button
 	- [ ] Mute Music Button
 	- [ ] Mute SFX Button
@@ -39,20 +48,32 @@
 	- [ ] Credits
 
 ##### Audio
-- [ ] Build an audio manager
-- [ ] ambience
+- `Audio Manager`
+	- [x] Setup
+	- [ ] PauseWithTag() & PlayWithTag()
+	- [ ] FadeOut/InWithTag()
+	- [ ] Dynamic Audio that adapts with speed  (Increase speed and pitch as player gets faster and in reverse as he gets slower)
+		 https://answers.unity.com/questions/25139/how-i-can-change-the-speed-of-a-song-or-sound.html
+- `ambience`
 	- [ ] wind
 	- [ ] hawk
 	- [ ] owl
 	- [ ] crickets
-- [ ] SFX
+	- [ ] birds
+- `SFX`
 	- [x] Movement
-	- [ ] Dashing (bowling ball)
-	- [ ] Jumping
-	- [ ] grounded
-	- [ ] Grappling
-	- [ ] Shooting
-	- [ ] ability loaded
+	- [x] Dashing 
+	- [x] Rolling
+	- [x] Jumping
+	- [x] On Grounded
+	- [x] Grappling
+	- [x] On Grappling
+	- [x] On Grapple Break
+	- [x] On Grappling Finish
+	- [x] Shooting
+	- [x] Ability loaded
+	- [ ] High Speed Wind
+		
 - [x] ambient music 
 	- [x] Training area
 	- [x] Speed Test area

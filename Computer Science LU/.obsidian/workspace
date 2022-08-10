@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3f538b02c048e5a8",
+        "id": "b7377846fe9a3586",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/2 @ Normal Forms.md",
-            "mode": "preview",
-            "source": false
+            "file": "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/I2211 1# Pics/Pasted image 20220810222034.png"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "final path:java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/2 @ Normal Forms.md",
+                "file": "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/I2211 1# Pics/Pasted image 20220810222034.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,23 +219,37 @@
             }
           }
         ]
+      },
+      {
+        "id": "677b202f6d784a61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebf09fbf56c2d10d",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3f538b02c048e5a8",
+  "active": "a133da79ec1f1a5a",
   "lastOpenFiles": [
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/i2210 4# pics/Pasted image 20220728223514.png",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/i2210 4# pics/Pasted image 20220728223529.png",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/2 @ Normal Forms.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/1 @ Normaliztion Process.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/i2210 4# pics/Pasted image 20220728172821.png",
+    "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/10 @ Exceptions.md",
+    "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/11 @ Files.md",
+    "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/Extra Notes.md",
+    "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/Untitled.md",
+    "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/9 @ Abstract & Interfaces.md",
+    "Computer Science LU/Year 2/Semester 2/I2206 - Data Structures/1 # Asymptotic Analysis/Asymptotic Analysis.md",
     "Computer Science LU/Year 2/Semester 2/ToDo List.md",
-    "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/7 @ ArrayList & Gregorian Calendar.md",
-    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/7 # Edge Detection/i2234 7# pics/Pasted image 20220727231547.png",
-    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/7 # Edge Detection/2 @ Background Subtraction.md",
-    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/7 # Edge Detection/i2234 7# pics/Pasted image 20220727230927.png"
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/2 # Matlab/1 @ Sytanx & Functions.md",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/4 # Look Up Table/2 @ Gray-RGB conversion.md",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/6 # Noise Filtering/1 @ Noise & Filtering.md"
   ]
 }

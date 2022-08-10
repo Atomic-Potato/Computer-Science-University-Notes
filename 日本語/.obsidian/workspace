@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日本語/雑多(ざった)/Anime Watch List.md",
-            "mode": "preview",
+            "file": "For potatoes sake get me out of here.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "901b2a22cf477f0e",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語/雑多(ざった)/Anime Watch List.md",
+                "file": "For potatoes sake get me out of here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

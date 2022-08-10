@@ -1,6 +1,6 @@
 # Schedule
 ![[WhatsApp Image 2022-05-10 at 12.14.10 PM.jpeg | 800]]
-**Hours done:** `7` | `6.8` | `4.5` | `4.1` | `5.3` | `5.3` | `1` | `3` | `2.8` | `6.9`
+**Hours done:** `7` | `6.8` | `4.5` | `4.1` | `5.3` | `5.3` | `1` | `3` | `2.8` | `6.9` | `4` | `6`
 
 # **FIND SCHOLARSHIPS !!!**  `AAAAHH !`
 
@@ -19,27 +19,23 @@
 	- [ ] 5
 	- [ ] 6
 	- [x] 7
-	- [ ] 8
-	- [ ] 9
+	- [x] 8
+	- [x] 9
 	- [ ] 10
 	- [ ] 11
 	- [ ] 12
 	- [ ] 13
-	- [ ] 14
-	- [ ] 15
-	- [ ] 16
-	- [ ] 17
+	- [x] 14
+	- [x] 15
+	- [x] 16
+	- [x] 17
 	- [ ] 18
 	- [ ] 19
 	- [ ] 20
 	- [ ] 21
 	- [ ] 22
 	- [ ] 23
-	- [ ] 
-- [x] Sorting course 
-- [x] Sorting Exercises
 - [ ] Sorting Exercises EXTRA
-- [ ] Searching course
 - [ ] Searching Exercises
 - [ ] Trees Exercises EXTRA
 - [ ] Lab 7 Trees
@@ -48,36 +44,25 @@
 - [ ] Quiz 8 Exercise
 - [ ] See how to reverse the log2
 ### `I2207`
-- [x] Lab 4
-- [x] Lecture 10
-- [x] Lab 5
-- [x] Lab 6
-- [x] Lecture 11
+
 
 ### `I2208`
 - [ ] 7/13 Lecture
 
 ### `I2209`
-- [x] Prolog Session 02
-- [x] Write session 2
-- [x] Prolog Session 03
+
 - [ ] Write session 3
 
 ### `I2210`
 - [ ] Install MySQL **OR** use Online SQL or SQL Fiddle
-- [x] session 21
-- [x] session 22
 - [ ] session 23
 - [ ] session 24
 - [ ] session 25
 - [ ] session 26
 ### `I2211`
 
-- [ ] 6/27
-- [ ] session 10 june 10
-- [ ] 6/29
-- [ ] 7/1
-- [ ] 7/4
+
+- [x] 7/4
 - [ ] 7/6
 - [ ] 7/8
 - [ ] 7/13
@@ -132,6 +117,9 @@
 - [x] Trees session
 - [x] Trees practice 2
 - [x] Trees Lab 2
+- [x] Sorting course 
+- [x] Sorting Exercises
+- [x] Searching course
 
 ### `07`
 - [x] write lecture 1
@@ -145,6 +133,12 @@
 - [x] lab 2
 - [x] lab 3
 - [x] Lecture 9
+- [x] Lab 4
+- [x] Lecture 10
+- [x] Lab 5
+- [x] Lab 6
+- [x] Lecture 11
+
 ### `08`
 - [x] Start studying it you idiot, you only got 2 months before exams!!
 - [x] session 1
@@ -156,6 +150,9 @@
 - [x] Last chapter 5 session
 
 ### `09`
+- [x] Prolog Session 02
+- [x] Write session 2
+- [x] Prolog Session 03
 - [x] Ch1 session 1
 - [x] Ch1 session 2
 - [x] Ch2 session 1
@@ -193,7 +190,8 @@
 - [x] session 18
 - [x] session 19
 - [x] session 20
-
+- [x] session 21
+- [x] session 22
 ### `11`
 - [x] note down the things from your images
 - [x] 20-5 lecture
@@ -210,6 +208,10 @@
 - [x] 6/20
 - [x] 6/22
 - [x] 6/24
+- [x] 6/27
+- [x] session 10 june 10
+- [x] 6/29
+- [x] 7/1
 
 ### `34`
 - [x] lecture 1

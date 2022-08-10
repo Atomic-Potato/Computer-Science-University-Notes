@@ -6,5 +6,11 @@
   "foldIndent": true,
   "showLineNumber": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "A5",
+    "landscape": true,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }

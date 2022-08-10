@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Youtube/Videos Ideas.md",
-            "mode": "preview",
+            "file": "- C# & Unity/Shaders.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Youtube/Videos Ideas.md",
+                "file": "- C# & Unity/Shaders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1c4d0c74da05cff3",
   "lastOpenFiles": [
+    "0 # Things to learn.md",
+    "- Math & Physics/By Sebastian Lague/Kinematic Equations.md",
+    "- C# & Unity/Delegates.md",
     "Games/Potato Punch/ToDo List/1 # GENERAL.md",
-    "Games/Potato Punch/ToDo List/Player/Roll.md",
-    "Quick Games Ideas.md",
-    "Games/Potato Punch/Info about objects.md",
-    "Stream ToDo List.md",
-    "Games/Potato Punch/ToDo List/2 # Bug Hunting.md",
-    "Games/Potato Punch/ToDo List/Player/Dashing/Dash, attempt.md",
-    "Games/Potato Punch/ToDo List/Player/Dash.md",
-    "Games/Potato Punch/ToDo List/Player/Dashing/Dash, attempt #2.md",
-    "Games/Potato Punch/ToDo List/Enemies & AI/Rocketato.md"
+    "- C# & Unity/Generics.md",
+    "Untitled.md",
+    "- C# & Unity/ref Keyword.md",
+    "1 # Experience i dont want to forget.md",
+    "- C# & Unity/Couroutines.md",
+    "C# & Unity/Lambda Expressions.md"
   ]
 }

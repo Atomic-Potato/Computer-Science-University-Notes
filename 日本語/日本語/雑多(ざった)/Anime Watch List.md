@@ -30,6 +30,7 @@
 
 
 # Series
+- [ ] Kill La Kill
 - [ ] Golden Boy
 - [ ] Evangelion
 - [ ] Re:Zero

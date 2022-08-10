@@ -39,7 +39,9 @@ Where:
 A kernel is usually a 3\*3 matrix
 ![[Pasted image 20220727225711.png]]
 
-So its like $\large \color{cyan} F(i,j)=sum(sum(K(u,v))*N(i+u,j+v)))$ 
+So its like $\large \color{cyan} F(i,j)=sum(sum(K(u,v)*N(i+u,j+v)))$ 
+The first sum adds each entry with its equivalent in position in the second row
+Second sum adds all entries of the matrix
 
 Each pixel in the output image contains the average value in a 3-by-3 neighborhood (kernel size) around the corresponding pixel in the input image.
 ![[Pasted image 20220727225939.png | 500]]
