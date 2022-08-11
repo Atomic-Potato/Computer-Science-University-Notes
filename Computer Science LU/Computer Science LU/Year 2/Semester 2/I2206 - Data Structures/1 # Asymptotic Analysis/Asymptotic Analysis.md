@@ -1,6 +1,7 @@
-**Extra resources**
+**Suggested Resources:**
+- If you still having trouble > https://youtu.be/9TlHvipP5yA
 - Why do we use log > https://youtu.be/M4ubFru2O80
-
+--- 
 # How to compare Algorithms
 ![[Pasted image 20220513232712.png | 700]]
 
