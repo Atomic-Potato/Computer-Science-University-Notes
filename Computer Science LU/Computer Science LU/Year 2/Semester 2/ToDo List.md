@@ -47,7 +47,10 @@
 
 
 ### `I2208`
-- [ ] 7/13 Lecture
+- [x] 7/13 Lecture
+- [x] 7/20 Lecture
+- [ ] 7/25 Lecture
+- [ ] 8/1 Lecture
 
 ### `I2209`
 

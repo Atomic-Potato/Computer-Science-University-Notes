@@ -7,9 +7,11 @@
         "id": "b7377846fe9a3586",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/I2211 1# Pics/Pasted image 20220810222034.png"
+            "file": "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/3 # Prolog/9 @ Advanced Prolog.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -51,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5107650756836
+    "width": 411.5107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/I2211 1# Pics/Pasted image 20220810222034.png",
+                "file": "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/3 # Prolog/9 @ Advanced Prolog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,17 +242,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a133da79ec1f1a5a",
+  "active": "b7377846fe9a3586",
   "lastOpenFiles": [
+    "Computer Science LU/Year 2/Semester 2/ToDo List.md",
+    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/7 # Network Layer/1 @ Network Layer & Addressing.md",
+    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/7 # Network Layer/i2208 7# pics/Pasted image 20220811121911.png",
+    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/1 # Introduction/2 @ Layers.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/3 # Prolog/8 @ Cuts & Negation.md",
+    "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/I2211 1# Pics/Pasted image 20220810222034.png",
     "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/10 @ Exceptions.md",
     "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/11 @ Files.md",
     "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/Extra Notes.md",
-    "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/Untitled.md",
-    "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/9 @ Abstract & Interfaces.md",
-    "Computer Science LU/Year 2/Semester 2/I2206 - Data Structures/1 # Asymptotic Analysis/Asymptotic Analysis.md",
-    "Computer Science LU/Year 2/Semester 2/ToDo List.md",
-    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/2 # Matlab/1 @ Sytanx & Functions.md",
-    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/4 # Look Up Table/2 @ Gray-RGB conversion.md",
-    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/6 # Noise Filtering/1 @ Noise & Filtering.md"
+    "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/Untitled.md"
   ]
 }

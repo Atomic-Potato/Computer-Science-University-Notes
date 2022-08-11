@@ -5,21 +5,25 @@
 
 # Countries
 - [ ] Japan
+- [ ] France
 - [ ] Netherlands
 - [ ] Sweeden
 - [ ] Germany
 
 # Unis
-- **Maybe (Masters)**
+- `!!` **Maybe (Masters)**
 	- `AI`
-		- [ ] Dauphine Universite Paris https://dauphine.psl.eu/en/training/masters-degrees/computer-science/m2-artificial-intelligence-systems-data
-		- [ ] Telecom Paristech https://www.telecom-paris.fr/en/masters/ip-paris
+		- [ ] Dauphine Universite Paris https://dauphine.psl.eu/en/training/masters-degrees/computer-science/m2-artificial-intelligence-systems-data ==FR== 
+		- [ ] Telecom Paristech https://www.telecom-paris.fr/en/masters/ip-paris ==FR==
 	- `ML`
-		- [ ] Telecom Paristech https://www.telecom-paris.fr/en/masters/ip-paris **(Only Matser 2)**
+		- [ ] Telecom Paristech https://www.telecom-paris.fr/en/masters/ip-paris **(Only Matser 2)** ==FR==
 	- `GD`
-- **Maybe (3rd Year)**
-	- [ ] Dauphine Universite Paris (https://dauphine.psl.eu/en/training/bachelors-degrees/bachelors-degree-in-organizational-computer-science)
-- **Nope**
+		- [ ] CNAM-ENJMIN https://enjmin-en.cnam.fr/international-affairs-1178201.kjsp?RH=1487090762878&RF=1586331977640
+- `!!` **Maybe (3rd Year)**
+	- [ ] Dauphine Universite Paris (https://dauphine.psl.eu/en/training/bachelors-degrees/bachelors-degree-in-organizational-computer-science) ==FR==
+- `!!` **Undergraduate:**
+	- [ ] Staffordshire University https://www.staffs.ac.uk ==UK==
+- **~~Nope~~**
 	- [x] Melbourne Uni (Only in CS and Software engineering) $NotAPPLIED$
 	- [x] Sorbonne Universite
 	- [x] Universite Grenoble Alpes (UGA)
