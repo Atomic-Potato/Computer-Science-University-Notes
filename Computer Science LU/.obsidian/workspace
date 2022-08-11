@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/3 # Prolog/9 @ Advanced Prolog.md",
+            "file": "Computer Science LU/Year 2/Semester 2/ToDo List.md",
             "mode": "preview",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
+    "width": 334.5,
     "collapsed": true
   },
   "right": {
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/3 # Prolog/9 @ Advanced Prolog.md",
+                "file": "Computer Science LU/Year 2/Semester 2/ToDo List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,15 +230,15 @@
   },
   "active": "3f538b02c048e5a8",
   "lastOpenFiles": [
-    "Pasted image 20220811140710.png",
-    "Pasted image 20220811140722.png",
     "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/2 @ Normal Forms.md",
+    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/i2210 4# pics/Pasted image 20220811174010.png",
+    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/1 @ Normaliztion Process.md",
+    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/! Important Definitions & Notes !.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/3 # Prolog/I2209 3# Pics/Pasted image 20220811140722.png",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/3 # Prolog/9 @ Advanced Prolog.md",
+    "Pasted image 20220811140710.png",
     "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/i2210 4# pics/Pasted image 20220728223514.png",
     "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/i2210 4# pics/Pasted image 20220728223529.png",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/1 @ Normaliztion Process.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/i2210 4# pics/Pasted image 20220728172821.png",
-    "Computer Science LU/Year 2/Semester 2/ToDo List.md",
-    "Computer Science LU/Year 2/Semester 2/I2211 - Java Object Oriented Programming/1 # Java/7 @ ArrayList & Gregorian Calendar.md",
-    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/7 # Edge Detection/i2234 7# pics/Pasted image 20220727231547.png"
+    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/i2210 4# pics/Pasted image 20220728172821.png"
   ]
 }

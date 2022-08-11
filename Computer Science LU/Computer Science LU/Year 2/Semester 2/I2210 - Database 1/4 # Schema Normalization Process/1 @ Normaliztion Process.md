@@ -35,7 +35,7 @@ To avoid having problems when decomposing we use:
 
 # Functional Dependencies
 - `Existence dependencies:` The existence of B depends on A
-- `Functional dependence:` he value of B depends on the value of A
+- `Functional dependence:` The value of B depends on the value of A
 	*Example:*
 	- Student-Name is functionally dependent on Student-Id
 	- Given the Student-Id, I can tell you the Student-Name
@@ -48,13 +48,15 @@ Consider the following relation R = (A,B,C,D) and x = A,B,C and y = C,D and $\la
 **Properties:**
 - Whenever any two tuples t1 and t2 of R agree on the attributes x, they also agree on the attributes y.
 	That is: $\large \color{pink} t_1[x] = t_2[x] \implies t_1[y] = t_2[y]$ 
--  `K` is a **super key** for relation schema R if and only if $\large \color{pink} K \rightarrow R$ **(make sure that K contains the least amount of attributes possible)**
+-  `K` is a **super key** for relation schema R if and only if $\large \color{pink} K \rightarrow R$ **(make sure that K contains the least amount of attributes possible)** ^superKey
 
 If a relation **r is legal under a set F** of functional dependencies, we say that **r satisfies F** `(F |= r).`
 
 # Closure of a set of FDs
 The set of all functional dependencies logically implied by F is the closure of F
 We denote the closure of F by  $\large \color{red}F^+$
+
+>>Alternative definition: The Closure Of Functional Dependency means **the complete set of all possible attributes that can be functionally derived from given functional dependency using the inference rules known as Armstrong's Rules**
 
 We can find all of $F^+$ by applying  **`Armstrong’s Axioms`**:
 - If $\large \beta \subset \alpha$ then $\large \alpha \rightarrow \beta$ `(reflexivity)` 
@@ -76,6 +78,8 @@ $$\large \color{cyan} \alpha \rightarrow \beta \space is \space in \space F^+ \i
 	- Then for each dependency in F, if the key belongs to the set of attributes
 	- Then we add the attributes that depend on the key to the set
 
+*Example:*
+![[Pasted image 20220811174010.png | 350]]
 
 - **Checking if a set is minimal:**
 	Take *R = (A,B,C,D,G,H,I)*

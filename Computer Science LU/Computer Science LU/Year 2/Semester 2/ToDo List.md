@@ -54,7 +54,7 @@
 
 ### `I2209`
 
-- [ ] Write session 3
+- [x] Write session 3
 
 ### `I2210`
 - [ ] Install MySQL **OR** use Online SQL or SQL Fiddle
@@ -66,8 +66,8 @@
 
 
 - [x] 7/4
-- [ ] 7/6
-- [ ] 7/8
+- [x] 7/6
+- [x] 7/8
 - [ ] 7/13
 - [ ] 7/15
 
