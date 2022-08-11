@@ -32,13 +32,14 @@ max(X,Y,Z) :- ( X =< Y -> Z = Y; Z = X ).
 
 # Towers of Hanoi
 ![[Pasted image 20220811140722.png | 300]]
-In this game we have to move the disks on the left stick to the right stick, however we cannot put a larger disk on a smaller disk.
+In this game we have to move the discs on the left stick to the right stick, however we cannot put a larger disc on a smaller disc.
 
 The solution is as follows:
 ```prolog
 hanoi(N) :- move(N, left, right, center).
 
 move(0, _, _, _) :- !.
+
 move(N, A, B, C) :-
 	M is N-1,
 	move(M, A, C, B),
@@ -79,4 +80,56 @@ Yes
 ```
 
 ## `move(0, _, _, _):-!.`
-Move 0 discs from any pole to any pole using any pole is true and should stop any backtracking
+Move 0 discs from any pole to any pole using any pole is true and should stop any backtracking.  Whatever the poles are, this rule is true, the only restriction is the number of discs (0). Sort of like the stopping condition in a recursive function.
+
+## `move(N, A, B, C) :-` 
+To move N discs from A to B:
+- first move the top N-1 discs from A to C
+- then move the bottom disc from A to B
+- then move the N-1 discs from C to B
+
+--- 
+# Extra predicates
+## `between/3`
+```prolog
+between(Low, High, Value)
+```
+Generates values between high and low or checks if `Value` is between high and low
+
+## Collecting solutions
+### `findall/3`
+```prolog
+?-findall(Objects,GoalOrCondition,List).
+```
+`finall` puts all the possible Objects that satisfy the Goal inside a List.
+This predicate:
+- always succeeds
+- The goal G might be a compound goal
+- Unifies L with empty list if G cannot be satisfied
+
+*Example:*
+![[Pasted image 20220811153624.png | 450]]
+
+### `bagof/3`
+```prolog
+?- bagof(O,G,L).
+```
+Pretty much the same as `findall` but produces multiple lists for each case 
+
+*Example:*
+![[Pasted image 20220811154032.png | 450]]
+
+If we dont want to generate a list for a specific case we use `^` 
+![[Pasted image 20220811154300.png | 450]]
+
+**Combining the Lists into a single list of lists**
+![[Pasted image 20220811154603.png | 450]]
+
+### `setof/3`
+```prolog
+?- setof(O,G,L).
+```
+Same as `bagof` but sorts the list and removes duplicates
+
+*Example:*
+![[Pasted image 20220811154816.png | 450]]
