@@ -3,7 +3,7 @@ S is `inconsistent` iff *the empty clause `[]` is a logical consequence of S*.
 
 **`Reslution Rule:`** $\color{cyan}  \{A ∨ X,B ∨ ¬X\} ⊢ A ∨ B$
 
-$\color{cyan} s_1 ∈ S$ and $\color{cyan} s_2 ∈ S$ and `l` is a literal. If$\color{cyan}  l ∈ s_1$and $\color{cyan} ¬l ∈ s_2$ , then the clause $\color{cyan} R = (s_1 \ {l}) ∨ (s_2 \ {¬l})$ is a `logical consequence` of the normal form of `S`
+$\color{cyan} s_1 ∈ S$ and $\color{cyan} s_2 ∈ S$ and `l` is a literal. If $\color{cyan}  l ∈ s_1$and $\color{cyan} ¬l ∈ s_2$ , then the clause $\color{cyan} R = (s_1 \ {l}) ∨ (s_2 \ {¬l})$ is a `logical consequence` of the normal form of `S`
 
 **r** is called the `resolvant` of $s_1$ and $s_2$
 

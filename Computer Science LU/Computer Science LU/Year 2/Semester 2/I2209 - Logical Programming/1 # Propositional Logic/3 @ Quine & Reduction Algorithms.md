@@ -19,8 +19,18 @@ respecting the following conditions:
 - **`The formula is consistent if for at least one leaf, the value obtained is true.`**
 
 # Quine Algorithm (for optimization)
-If all possible extensions of a partial interpretation attribute the same truth value to the formula tested, then
-there is no need to construct the sub-graph issued from the node corresponding to this partial interpretation
+If all possible extensions of a partial interpretation attribute the same truth value to the formula tested, then there is no need to construct the sub-graph issued from the node corresponding to this partial interpretation
+
+**Steps:** _(With an example)_
+`[((p ∧ q) → r) ∧ (p → q)] → (p → r)`
+- Order the set `{p, q, r}`
+- First consider interpretations that **make `p` true** (a.k.a Replace p with true in the formula and reduce it). Thus partially interpreted, the formula becomes 
+	`[(q → r) ∧ q] → r`
+	- Now let `q` be true, and reduce, the resulting formula is a tautology
+	- Now let `q` be false, and reduce, the resulting formula is a tautology
+- Now make `p` false and repeat the steps of when p was true, which leads to a tautology
+
+And so **each path of a semantic tree leads to a tautology**, thus the formula is `valid`.
 
 # Reduction Algorithm (for optimization)
 Prove by `contradiction` the validity of a formula.
@@ -29,7 +39,7 @@ $$[(p ∧ q) → r] → [p → (q → r)]$$
 - Suppose that an interpretation I assign the value F to this formula. From the truth table of the implication, a
 conditional is false if and only if the second part is false and the first part is true. we deduce that:
 $$I((p ∧ q) → r) = T, \space I(p → (q → r)) = F$$
-- he same rule, applied to the first line, establish I; we obtain:
+- The same rule, applied to the first line, establish I; we obtain:
 $$I(p) = T, I(q) = T, I(r) = F$$
 ⇒ contradiction with I((p ∧ q) → r) = T. This contradiction proves the validity of the formula.
 

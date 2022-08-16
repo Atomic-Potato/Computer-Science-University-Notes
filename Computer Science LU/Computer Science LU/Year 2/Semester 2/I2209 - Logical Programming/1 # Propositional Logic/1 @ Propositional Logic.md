@@ -19,7 +19,9 @@ The truth values of a formula and its constituents can be represented by a table
 ![[Pasted image 20220519143950.png | 400]]
 
 An `interpretation` is a function that associates to each proposition p a truth value. ^interpretation
+
 An `interpretation` that makes a formula `true` is a `model` of that formula. ^model
+
 A `literal` is an elementary proposition or the `negation` of a proposition; literals p and ¬p are opposes.
 
 Two formulas A and B are `logically equivalent` (written A ∼ B), if and only if, they have `identical truth values` for each possible substitution of formulas for their variables.

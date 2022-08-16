@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3f538b02c048e5a8",
+        "id": "861343ec3cf9b3e5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/Year 2/Semester 2/ToDo List.md",
-            "mode": "preview",
+            "file": "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/1 # Propositional Logic/4 @ Resolution Principle.md",
+            "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "089f90632ea03307",
+        "id": "2e570ee47d07f0dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/Year 2/Semester 2/I2206 - Data Structures/1 # Asymptotic Analysis/Asymptotic Analysis.md",
+            "file": "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/4 @ Unifier.md",
             "mode": "preview",
             "source": false
           }
@@ -52,12 +52,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conjunction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
+    "width": 411.5107650756836,
     "collapsed": true
   },
   "right": {
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 2/Semester 2/ToDo List.md",
+                "file": "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/4 @ Unifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,23 +234,37 @@
             }
           }
         ]
+      },
+      {
+        "id": "677b202f6d784a61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebf09fbf56c2d10d",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3f538b02c048e5a8",
+  "active": "2e570ee47d07f0dc",
   "lastOpenFiles": [
-    "Computer Science LU/Year 2/Semester 2/I2206 - Data Structures/1 # Asymptotic Analysis/Asymptotic Analysis.md",
-    "Computer Science LU/Year 2/Semester 2/ToDo List.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/2 @ Normal Forms.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/i2210 4# pics/Pasted image 20220811174010.png",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/1 @ Normaliztion Process.md",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/! Important Definitions & Notes !.md",
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/3 # Prolog/I2209 3# Pics/Pasted image 20220811140722.png",
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/3 # Prolog/9 @ Advanced Prolog.md",
-    "Pasted image 20220811140710.png",
-    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/4 # Schema Normalization Process/i2210 4# pics/Pasted image 20220728223514.png"
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/5 @ Resolution.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/1 # Propositional Logic/4 @ Resolution Principle.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/1 @ Predicate Logic.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/Extra notes.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/1 # Propositional Logic/1 @ Propositional Logic.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/1 # Propositional Logic/2 @ Logical Reasoning.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/3 # Prolog/1 @ SWI Prolog.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/2 @ Substitutions and Instances.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/3 @ Unification.md",
+    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/4 @ Unifier.md"
   ]
 }
