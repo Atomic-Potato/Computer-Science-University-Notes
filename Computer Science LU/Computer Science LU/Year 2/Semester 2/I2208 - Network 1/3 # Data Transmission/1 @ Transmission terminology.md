@@ -23,7 +23,9 @@ Time domain concepts
 # Analog and Digital
 Data can be `analog` or `digital`. 
 The term `analog` data refers to information that is **continuous**. ^andlogData
+
 `Digital` data refers to information that has **discrete** states. ^digitalData
+
 **Analog** data take on **continuous** values. **Digital** data take on **discrete** values.
 
 *[[1 @ Transmission terminology#^signal|signals]] can be analog or digital.

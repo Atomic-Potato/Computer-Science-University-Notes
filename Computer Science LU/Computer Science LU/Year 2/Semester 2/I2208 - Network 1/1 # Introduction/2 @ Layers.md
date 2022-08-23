@@ -1,6 +1,6 @@
 ![[Pasted image 20220702120558.png]]
 
-# Layers `Semi-Important`
+# Layers
 ## Physical Layer
 **The physical layer is responsible for transmitting individual bits from one node to the next.**
 

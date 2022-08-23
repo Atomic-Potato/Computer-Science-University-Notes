@@ -17,5 +17,6 @@ _The acknowledgement is the next number in the sequence_
 
 ### Bandwidth-delay product
 Bandwidth-delay product is a measure of the number of bits we can send out of our system while waiting for news from the receiver.
-$$\large \color{pink} Bandwidth-delay \space product = Bandwidth*delay \space time$$
+$$\large \color{pink} Bandwidth-delay \space product = Bandwidth(bits)*delay(seconds) \space time$$
+(bandwidth delay product is in bits)
 $$\large \color{purple}Utilization \space percentage \space of \space the \space link = \frac{frame \space length}{Bandwidth-delay \space product} * 100$$

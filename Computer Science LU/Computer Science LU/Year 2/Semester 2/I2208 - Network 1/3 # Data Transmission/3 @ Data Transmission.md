@@ -21,7 +21,7 @@ Some of the electrical energy in the signal is converted to heat.
 
 **To calculate the attenuation (loss of power) we use the following formula:**
 $$\large 10*log_{10}(\frac{P_2}{P_1})$$
-Where $P_2$ is the received signal and $P_1$ is the originally sent signal 
+Where $P_2$ is the received signal and $P_1$ is the originally sent signal (i think it should be in watt, so make sure to convert to that)
 - `Some notes:`
 	- The result is in decibel
 	- $\large 10log_{10}$ converts the input to decibel
@@ -74,7 +74,7 @@ Where `B` is the `bandwidth` (The result is in **bps**)
 # Calculation notes
 - Units to smallen the results
 ![[table-bits-bytes-k-m-g-t.png | 500]]
-
+	Milli: $/ 1000$
 - To convert back from `dB` to `Hz` 
 	- we divide by 10 
 	- Raise 10 to the power of the result

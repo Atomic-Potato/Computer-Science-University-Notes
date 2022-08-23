@@ -75,14 +75,15 @@ But here in image **e** we can see that we can still not detect the error becaus
 ---
 
 # Polynomial Code (CRC)
-Let `T = 1011` be the original message. We want to add redundant to help us detect errors at the receiver
+Let `T = 1011` be the original message. We want to add redundant bits to help us detect errors at the receiver
 Let `T' = 1011 000 (4,7) - (k,n)` be the message with redundant bits *(000)* where `k` is the **size of the original message** and `n` the **size with redundant bits**
-(Return to this note after reading all of it: These 3 bits are **shifted** depending on the degree of the generator which has a degree of 3)
+(Return to this note after reading the later steps.... : These 3 bits are **shifted** depending on the degree of the generator which has a degree of 3)
 - `Polynom generator:` is a polynom that will generate the redundant bits
 	- The generator `G` must be predefined, take for example in this case $\large G = x^3+1$
-	1. Write `T` as polynom: $\large 1x^0+1x^1+1x^2+1x^3 = x^3+x^2+1$
-	2. **Shift** `T` with 3 bits, i.e. multiply by $\large x^3$: `T'` = $x^3 * (x^3+x^2+1) = x^6 +x^5+x^3$
-	3. To generate redundant bits, divide `T'` by the polynom generator to get `R = T'/G` using **Euclidean division** (in our case `R = x^2`)
+	1. Write `T` as polynom: $\large 1x^0+0x^1+1x^2+1x^3 = x^3+x^2+1$
+	 ![[Pasted image 20220823145743.png | 500]]
+	3. **Shift** `T` with 3 bits, i.e. multiply by $\large x^3$: `T'` = $x^3 * (x^3+x^2+1) = x^6 +x^5+x^3$
+	4. To generate redundant bits, divide `T'` by the polynom generator to get `R = T'/G` using **Euclidean division** (in our case `R = x^2`)
 	![[Pasted image 20220707200513.png | 300]]
 	(The `XOR` here means that if they are equal then their addition is 0, pretty much the same if you just reduce them from eachother)
 	4. `T' = T' + R` = $\large x^6 +x^5+x^3+x^2$ <=> $\large 1x^6 + 1x^5 + 0 + 1x^3 + 1x^2 + 0 + 0$ <=> 1101100 which is now our new message to be sent
