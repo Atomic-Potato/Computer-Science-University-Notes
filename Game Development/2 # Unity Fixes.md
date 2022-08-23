@@ -1,11 +1,11 @@
 - Velocity never reaches 0 while using smooth damp
-```
-Put full friction when idle
-```
+	```
+	Put full friction when idle
+	```
 - Velocity on the y axis is never 0 while moving
-```
-if you are using composite colliders for the tilemap, set the "Offset distance value" to 0
-```
+	```
+	if you are using composite colliders for the tilemap, set the "Offset distance value" to 0
+	```
 - if you want to have a custom 2D sprite material then create a standard material and assign the sprite to the to the *Albedo* variable and then switch the shader to *"Sprites->Default"*
 
 - Raycasts will always cast to the center of the world if they are not hitting anything 

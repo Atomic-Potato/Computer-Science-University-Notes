@@ -38,3 +38,12 @@ public class ClassName
 - The `static` keyword in `function` declaration means this function can be accessed using the **class name** instead of having to use it with a variable from that class
 - The `static` keyword in `variable` declaration means every object that belongs to this class has this variable in common. So if *object1* changes it, it changes for all the other objects. Also you can access this value directly from the class.
 `Just note that you can use the "const" keyword to make it public but without the ability for it to be changed by any object.`
+
+
+# Functions
+```java
+public int function(Class var){return 0;}
+```
+
+Just want to point out that when you pass in a variable you are passing a **copy not the reference**
+And if this function is contained in class **X** and the parameter is of type **X** then you can access the private variables of this **copy** and modify them.

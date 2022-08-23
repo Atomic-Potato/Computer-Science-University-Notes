@@ -1,5 +1,5 @@
 - `Rule 1:` Each entity becomes a table
-- `Rule 2:` Find the **one-to-many** relationships and put an arrow from the table of the **one** to the **many** table, and put the **primary key** of the parent as a **foreign** *(use `#` before the key to mark it as foreign)* key for the child. If the relation has any attributes it goes to the child.
+- `Rule 2:` Find the **one-to-many** relationships and put an arrow from the table of the **one** to the **many** table, and put the **primary key** of the parent as a **foreign** *(use `#` before the key to mark it as foreign)* key for the child. If the **relation** has any attributes it goes to the child.
 	- Note that if theres multiple relations, you add the same parent key again as foreign key but you name it something like the relation name
 - `Rule 3:` For **many-to-many** relationships, take the relation (diamond) and make it as a table, keep its attributes, and it takes as **foreign keys** the primary keys of the tables it connects. **These to foreign keys form the primary key** (use `underline` to mark a primary key), and now put arrows from this table to the tables it connects.
 - `Rule 4:` If an entity is inheriting from another entity, this entity takes all the attributes its inheriting and the old one gets deleted

@@ -1,15 +1,23 @@
 # Domain Types in SQL
 ```sql
 char(n) --Fixed length character string, with user-specified length n.
+
 varchar(n) /*Variable length character string, with user-specified maximum length n.*/
+
 int integer /*(a finite subset of the integers that is machine-dependent).*/
+
 smallint /*Small integer (a machine-dependent subset of the integer domain type).*/
+
 Numeric(p,d) /*Fixed point number, with user-specified precision of p digits, with d digits to the right of decimal point.*/
+
 real, double precision /*Floating point and double-precision floating point numbers, with machine-dependent precision.*/
+
 float(n) /*Floating point number, with user-specified precision of at least n digits.*/
+
 date /*Dates, containing a (4 digits) year, month and date.*/
 	--Example
 	date ‘2001-7-27’
+
 time /*Time of day, in hours, minutes and seconds.*/
 	--Ex
 	time ’09:00:30’

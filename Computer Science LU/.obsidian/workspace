@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "861343ec3cf9b3e5",
+        "id": "d67c1bf412fdd2a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/1 # Propositional Logic/4 @ Resolution Principle.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "2e570ee47d07f0dc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/4 @ Unifier.md",
+            "file": "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/7 # Network Layer/1 @ Network Layer & Addressing.md",
             "mode": "preview",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conjunction",
+                "query": "subnetwork",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5107650756836,
-    "collapsed": true
+    "width": 353.5036334991455
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/4 @ Unifier.md",
+                "file": "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/7 # Network Layer/1 @ Network Layer & Addressing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,17 +241,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2e570ee47d07f0dc",
+  "active": "d67c1bf412fdd2a6",
   "lastOpenFiles": [
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/5 @ Resolution.md",
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/1 # Propositional Logic/4 @ Resolution Principle.md",
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/1 @ Predicate Logic.md",
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/Extra notes.md",
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/1 # Propositional Logic/1 @ Propositional Logic.md",
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/1 # Propositional Logic/2 @ Logical Reasoning.md",
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/3 # Prolog/1 @ SWI Prolog.md",
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/2 @ Substitutions and Instances.md",
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/3 @ Unification.md",
-    "Computer Science LU/Year 2/Semester 2/I2209 - Logical Programming/2 # Predicate Logic/4 @ Unifier.md"
+    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/6 # Ethernet/1 @ Ethernet.md",
+    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/7 # Network Layer/1 @ Network Layer & Addressing.md",
+    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/9 # Flow Control/1 @ Flow Control.md",
+    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/5 # Data Link Layer & Error Control/1 @ Data Link Layer.md",
+    "Computer Science LU/Year 2/Semester 2/I2208 - Network 1/5 # Data Link Layer & Error Control/2 @ Error Detection & Correction.md",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/2 # Matlab/1 @ Sytanx & Functions.md",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/1 # Intro To Image Processing/1 @ Intro.md",
+    "Computer Science LU/Year 2/Semester 2/I2234 - Image Processing/2 # Matlab/2 @ Function Decleration.md",
+    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/2 # Relational Model/1 @ Data Definition Language (DDL).md",
+    "Computer Science LU/Year 2/Semester 2/I2210 - Database 1/2 # Relational Model/2 @ Formal Languages.md"
   ]
 }

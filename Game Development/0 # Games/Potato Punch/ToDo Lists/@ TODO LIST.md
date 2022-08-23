@@ -1,13 +1,15 @@
 # Specific Tasks
 ## Technical
-- [ ] 
+- [ ] Key mapping
 
 ## Main
 #### Player
+- `Code`
+	- [ ] Clean it, especially the dash
 - `Movement`
 	- [ ] Max `-y` velocity
 	- [ ] Put the delay timer above the dashes count 
-	- [ ] Dashing cancels rolling and dashes
+	- [ ] Dashing cancels rolling and dashes (i think i meant grappling)
 
 - `Visuals`
 	- [ ] Better square sprite
@@ -55,11 +57,11 @@
 	- [ ] Dynamic Audio that adapts with speed  (Increase speed and pitch as player gets faster and in reverse as he gets slower)
 		 https://answers.unity.com/questions/25139/how-i-can-change-the-speed-of-a-song-or-sound.html
 - `ambience`
-	- [ ] wind
-	- [ ] hawk
-	- [ ] owl
-	- [ ] crickets
-	- [ ] birds
+	- [x] wind
+	- [x] hawk
+	- [x] owl
+	- [x] crickets
+	- [x] birds
 - `SFX`
 	- [x] Movement
 	- [x] Dashing 

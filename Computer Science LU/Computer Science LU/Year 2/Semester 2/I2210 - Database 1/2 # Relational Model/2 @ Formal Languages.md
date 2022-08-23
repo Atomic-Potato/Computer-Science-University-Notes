@@ -4,11 +4,11 @@
 # Query Languages
 **Language in which user requests information from the database.**
 And it has 2 categories:
-- `procedural`
+- `procedural` _(a.k.a. `Relational Algebra`)_
 - `non-procedural`
 
-## Procedural
-The basic operators:
+## Procedural (a.k.a. Relational Algebra)
+The basic operators: 
 
 #### `Select`
 **It displays the records that satisfy a condition (`p`).**
