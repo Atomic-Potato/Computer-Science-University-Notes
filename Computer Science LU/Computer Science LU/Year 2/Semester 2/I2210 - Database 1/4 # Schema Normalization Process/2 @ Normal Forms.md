@@ -33,6 +33,42 @@ A relation is in second normal form if and only if:
 
 ## `BCNF`
 if for all functional dependencies in `F+` of the form  X->Y , where X belongs to R and  Y belongs to R, at least one of the following holds:
-- X->Y is trivial (i.e. Y belongs to X)
-- X is super-key for R
+- a->b is trivial (i.e. b belongs to a, or a is b)
+- a is [[! Important Definitions & Notes !#^superKey|super key]] for R
 
+## `3NF`
+It is basically BCNF but it helps us decompose any relation with an extra condition
+- a->b is trivial (i.e. b belongs to a, or a is b) **(BCNF)**
+- a is super-key for R **(BCNF)**
+- **Each** attribute A in `b-a` (*example:* AB->BC => BC-AB = B, but most of the times its just b) is contained in  [[! Important Definitions & Notes !#^candidateKey |candidate key]] for R.
+
+# Decomposition
+## `BCNF` decomposition
+![[Pasted image 20220830180151.png | 150]]
+
+>If a relation is not in BCNF we decompose it with the following steps:
+>- For every FD that is not in BCNF, make 2 relations
+>	- First relation contains the attributes in the FD that is not in BCNF (calll it X) and the FDs that contain attributes from the attributes of X only. Which makes this relation automatically in BCNF.
+>	- Second Relation contains the attributes of all FDs that are **not in the First Relation**
+>	- Repeat same steps for the second relation if its not in BCNF
+
+(However this decomposition is not always successful, because sometimes the decomposition will fail to preserve some FD when [[2 @ Formal Languages#Natural Join|naturally joint]] back)
+*Example of a non preserving relation decomposition:*
+![[Pasted image 20220830182131.png | 200]]
+Where JK->L cannot be preserved no matter how we decompose it
+
+*Example on this decomposition:*
+![[Pasted image 20220830181746.png | 500]]
+
+
+
+## `3NF` decomposition
+This decomposition solves the problem of BCNF decomposition
+![[Pasted image 20220830182250.png | 250]]
+
+>- Get the  [[1 @ Normaliztion Process#Canonical Cover F_c|canonical cover]] $F_c$ of F
+>- Turn each each `FD` in $F_c$ into a relation with the attributes of the FD
+>- At the end if none of the schemas/relations contains a candidate key for R then make a relation containing the attributes of the candidate key (which is $R_{n+1}$)
+
+*Example:*
+![[Pasted image 20220830182728.png | 500]]

@@ -40,7 +40,7 @@ To avoid having problems when decomposing we use:
 	- Student-Name is functionally dependent on Student-Id
 	- Given the Student-Id, I can tell you the Student-Name
 
-A `functional dependency` is a generalization of the notion of a `key`.
+**A `functional dependency` is a generalization of the notion of a `key`.**
 
 **Notation:**
 Consider the following relation R = (A,B,C,D) and x = A,B,C and y = C,D and $\large \color{pink} x \rightarrow y$  (x determines y).
@@ -56,7 +56,7 @@ If a relation **r is legal under a set F** of functional dependencies, we say th
 The set of all functional dependencies logically implied by F is the closure of F
 We denote the closure of F by  $\large \color{red}F^+$
 
->>Alternative definition: The Closure Of Functional Dependency means **the complete set of all possible attributes that can be functionally derived from given functional dependency using the inference rules known as Armstrong's Rules**
+>Alternative definition: The Closure Of Functional Dependency means **the complete set of all possible attributes that can be functionally derived from given functional dependency using the inference rules known as Armstrong's Rules**
 
 We can find all of $F^+$ by applying  **`Armstrong’s Axioms`**:
 - If $\large \beta \subset \alpha$ then $\large \alpha \rightarrow \beta$ `(reflexivity)` 

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1c4d0c74da05cff3",
+        "id": "72601f17ad148496",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 # Math & Physics/Trajectory Equations.md",
-            "mode": "source",
+            "file": "0 # Games/Potato Punch/1 @ Ideas.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#rocketatol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 301,
+    "collapsed": true
   },
   "right": {
     "id": "ef5825733a24bdce",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 # Math & Physics/Trajectory Equations.md",
+                "file": "0 # Games/Potato Punch/1 @ Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,16 +89,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c4d0c74da05cff3",
+  "active": "72601f17ad148496",
   "lastOpenFiles": [
-    "2 # Unity Fixes.md",
+    "0 # Games/Potato Punch/1 @ Ideas.md",
     "2 # Math & Physics/Trajectory Equations.md",
+    "2 # Unity Fixes.md",
     "Stream ToDo List.md",
     "0 # Games/Quick Games Ideas.md",
     "1 # Experience.md",
     "0 # Games/Potato Punch/New build changes (delete).md",
     "0 # Games/Potato Punch/2 @ Info about objects.md",
-    "0 # Games/Potato Punch/1 @ Ideas.md",
     "Games/Potato Punch/Resources.md",
     "0 # Games/Potato Punch/ToDo Lists/@ TODO LIST.md"
   ]

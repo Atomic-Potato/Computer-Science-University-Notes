@@ -23,6 +23,7 @@
 	- [ ] Dauphine Universite Paris (https://dauphine.psl.eu/en/training/bachelors-degrees/bachelors-degree-in-organizational-computer-science) ==FR==
 - `!!` **Undergraduate:**
 	- [ ] Staffordshire University https://www.staffs.ac.uk ==UK==
+	- [ ] RUBIKA https://en.rubika-edu.com/fees ==FR==
 - **~~Nope~~**
 	- [x] Melbourne Uni (Only in CS and Software engineering) $NotAPPLIED$
 	- [x] Sorbonne Universite
@@ -36,3 +37,30 @@
 - **Check**
 	- [ ] Rikkyo University
 	- [ ] Digi Pen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

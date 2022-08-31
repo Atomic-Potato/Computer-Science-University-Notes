@@ -7,7 +7,7 @@ idk didnt really get much explanation on it:
 
 ![[Pasted image 20220823195235.png]]
 - `VER:`  IP protocol version number
-- `HLEN:` header length (bytes)
+- `HLEN:` header length (bytes) **`convert the bits in here to decimal and multiply by 4 to get the actual length`**
 - `Service:` “type” of data
 - `Total Length:` The length in bytes of the data this layer is encapsulating
 - `Flags:` Marks if this encapsulation is part of a fragmentation or the end of one
@@ -24,10 +24,15 @@ Network links have a MTU (max transfer size/unit).
 So large IP datagram divided (“fragmented”) within a network and only “reassembled” only at final destination.
 IP header bits used to identify and order related fragments. (`Flags` and `Offset`)
 
+A more formal definition of fragmentation:
+- **IP fragmentation is an Internet Protocol (IP) process that breaks packets into smaller pieces (fragments), so that the resulting pieces can pass through a link with a smaller maximum transmission unit (MTU) than the original packet size.**
+
+
 >**Steps of fragmentation:**
 >1) Subtract 20 from original length: _(bytes of "IP header data")_
 >2) Subtract 20 from the `MTU`: _(max. bytes of data in each fragment)_
->3) Divide "maximum data bytes" by `8`: **to get offset increment**
+>3) Divide the previous data length by `8`: **to get offset increment** 
+>	_(In case the offset is rational, then reduce 4 from the previous packet and add them to this one)_
 >4) Offset of each fragment "n" (n = 0, 1, 2, ...) = n x "offset increment"
 >5) Length of each fragment (except last) = 20 + "max. data bytes“
 >6) Length of last fragment = 20 + remaining data bytes

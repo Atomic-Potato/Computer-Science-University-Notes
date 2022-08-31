@@ -22,7 +22,7 @@ Note: Changing the foreign keys names is fine as long as you can tell the parent
 ![[Pasted image 20220713165303.png]]
 - `Solution 2:`
 ![[Pasted image 20220713165352.png]]
-Sometimes if the woman if more dominant (hot) we put only an arrow from woman to man
+Sometimes if the woman is more dominant (hot) we put only an arrow from woman to man
 
 if we have:
 ![[Pasted image 20220713165538.png | 400]]

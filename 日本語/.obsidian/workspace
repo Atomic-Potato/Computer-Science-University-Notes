@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "For potatoes sake get me out of here.md",
+            "file": "日本語/雑多(ざった)/Anime Watch List.md",
             "mode": "preview",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.5036334991455
   },
   "right": {
     "id": "901b2a22cf477f0e",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "For potatoes sake get me out of here.md",
+                "file": "日本語/雑多(ざった)/Anime Watch List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a136f60ef1e58d61",
   "lastOpenFiles": [
-    "日本語/雑多(ざった)/Anime Watch List.md",
-    "日本語/雑多(ざった)/Game download List.md",
-    "日本語/学 (がく)/0 @ ToDo List.md",
-    "日本語/学 (がく)/Articles to check out.md",
+    "日本語/学 (がく)/Grammar/By Tae Kim/3 # Basic Grammar/2 @ Expressing State-of-Being.md",
+    "日本語/学 (がく)/Grammar/By Tae Kim/Vocab.md",
+    "For potatoes sake get me out of here.md",
+    "日本語/学 (がく)/Grammar/By Tae Kim/3 # Basic Grammar.md",
+    "日本語/学 (がく)/1 @ How To study.md",
     "日本語/学 (がく)/2 @ Listening Practice.md",
-    "日本語/学 (がく)/KANJI COUNTER.md",
-    "日本語/学 (がく)/- PHASE #3 -.md",
-    "日本語/学 (がく)/Pics/Pasted image 20220630001920.png",
-    "日本語/学 (がく)/Pics/Pasted image 20220630003253.png",
-    "日本語/学 (がく)/1 @ How To study.md"
+    "日本語/学 (がく)/0 @ ToDo List.md",
+    "日本語/雑多(ざった)/Game download List.md",
+    "日本語/雑多(ざった)/IRL Watch List.md",
+    "日本語/雑多(ざった)/Anime Watch List.md"
   ]
 }

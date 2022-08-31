@@ -38,8 +38,8 @@
 - [ ] Sorting Exercises EXTRA
 - [ ] Searching Exercises
 - [ ] Trees Exercises EXTRA
-- [ ] Lab 7 Trees
-- [ ] Lab 8 Heaps
+- [x] Lab 7 Trees
+- [x] Lab 8 Heaps
 - [ ] Lab 9 Searching / hashing
 - [ ] Quiz 8 Exercise
 - [ ] See how to reverse the log2
