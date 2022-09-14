@@ -110,11 +110,11 @@ A canonical or minimal cover for a set F of functional dependencies FDs is a set
 - The closure $\large \color{cyan} F^+$ is equal to the closure $\large \color{cyan} F_c^+$ .
 
 ## Algorithm
-- `Put the FDs in standard from:` Obtain a collection F c of equivalent FDs with a single attribute on the right side (using the decomposition axiom of Armstrong).
-- `Minimize the left side of each FD:` For each FD in F c , check each attribute in the left side to see if it can be deleted while preserving equivalence to F + .
-- `Delete redundant FDs:` Check each remaining FD in F c to see if it can be deleted while preserving equivalence to F + .
+- `Put the FDs in standard from:` Obtain a collection $F_c$ of equivalent FDs with a single attribute on the right side (using the decomposition axiom of Armstrong).
+- `Minimize the left side of each FD:` For each FD in $F_c$ , check each attribute in the left side to see if it can be deleted while preserving equivalence to $F^+$.
+- `Delete redundant FDs:` Check each remaining FD in $F_c$ to see if it can be deleted while preserving equivalence to $F^+$.
 
-### _Or what i got from the course is by removing the `Extraneous` attributes_
+### Extraneous attributes
 Attribute A is `extraneous` if A is remove, then the set of functional dependencies implied by F doesn’t change.
 The tow forms that dont affect F are:
 - A`B` --> C & A --> C. Then `B` is extraneous

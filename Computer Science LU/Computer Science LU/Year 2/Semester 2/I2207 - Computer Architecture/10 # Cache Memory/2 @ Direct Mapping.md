@@ -1,3 +1,8 @@
+_Previous:_ [[1 @ Cache Memory]]
+_Next:_ [[3 @ Fully & Set Associative Mapping]]
+
+---
+
 In `direct mapping` **the data of a memory address is stored in only one location in the cache.**
 
 Throughout this note, we will work with the following example: 
@@ -67,3 +72,8 @@ The address of the first byte in $RL_i = i*line\_length$
 --- 
 
 The disadvantage of `direct mapping` that some cache lines may not be used
+
+---
+
+_Previous:_ [[1 @ Cache Memory]]
+_Next:_ [[3 @ Fully & Set Associative Mapping]]

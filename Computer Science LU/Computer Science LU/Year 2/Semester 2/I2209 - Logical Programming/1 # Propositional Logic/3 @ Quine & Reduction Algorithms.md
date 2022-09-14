@@ -35,6 +35,7 @@ And so **each path of a semantic tree leads to a tautology**, thus the formula i
 # Reduction Algorithm (for optimization)
 Prove by `contradiction` the validity of a formula.
 `Advantageous when the formula has numerous implications.`
+In this algorithm since implication has only one case where it is false, we try to find a contradiction in that case to prove that this case will never happen no matter what combo of predicates (true or false) will lead to this case and so the formula will be valid in all cases.
 $$[(p ∧ q) → r] → [p → (q → r)]$$
 - Suppose that an interpretation I assign the value F to this formula. From the truth table of the implication, a
 conditional is false if and only if the second part is false and the first part is true. we deduce that:
@@ -42,6 +43,8 @@ $$I((p ∧ q) → r) = T, \space I(p → (q → r)) = F$$
 - The same rule, applied to the first line, establish I; we obtain:
 $$I(p) = T, I(q) = T, I(r) = F$$
 ⇒ contradiction with I((p ∧ q) → r) = T. This contradiction proves the validity of the formula.
+
+
 
 # Normal Forms
 - **Clauses and Conjunctive Normal Form**

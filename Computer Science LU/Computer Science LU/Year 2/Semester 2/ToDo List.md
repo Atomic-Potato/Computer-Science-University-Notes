@@ -1,9 +1,10 @@
 # Schedule
-![[WhatsApp Image 2022-05-10 at 12.14.10 PM.jpeg | 800]]
-**Hours done:** `7` | `6.8` | `4.5` | `4.1` | `5.3` | `5.3` | `1` | `3` | `2.8` | `6.9` | `4` | `6`
-
-# **FIND SCHOLARSHIPS !!!**  `AAAAHH !`
-
+![[WhatsApp Image 2022-05-10 at 12.14.10 PM.jpeg | 300]]
+![[Final Exams Program.png | 300]]
+![[Pasted image 20220913170226.png | 300]]
+![[Pasted image 20220913170444.png | 300]]
+i'll maybe give 20th for 6 as well
+At 22 its 33 not 7
 # Due
 ### `L2200`
 
@@ -31,15 +32,14 @@
 	- [x] 17
 	- [x] 18
 	- [x] 19
-	- [ ] 20
-	- [ ] 21
-	- [ ] 22
+	- [x] 20
+	- [x] 21
+	- [x] 22
 	- [ ] 23
 - [ ] Sorting Exercises EXTRA
 - [ ] Searching Exercises
 - [ ] Trees Exercises EXTRA
-- [x] Lab 7 Trees
-- [x] Lab 8 Heaps
+
 - [ ] Lab 9 Searching / hashing
 - [ ] Quiz 8 Exercise
 - [ ] See how to reverse the log2
@@ -47,14 +47,10 @@
 
 
 ### `I2208`
-- [x] 7/13 Lecture
-- [x] 7/20 Lecture
-- [ ] 7/25 Lecture
-- [ ] 8/1 Lecture
+
 
 ### `I2209`
 
-- [x] Write session 3
 
 ### `I2210`
 - [ ] Install MySQL **OR** use Online SQL or SQL Fiddle
@@ -64,12 +60,6 @@
 - [ ] session 26
 ### `I2211`
 
-
-- [x] 7/4
-- [x] 7/6
-- [x] 7/8
-- [ ] 7/13
-- [ ] 7/15
 
 ### `I2234`
 - [ ] Solve lecture 3 questions
@@ -85,7 +75,7 @@
 - [ ] Potato Punch
 - [ ] Pixel art
 - [ ] Keyboard touch typing
-- [ ] Make a linkedin
+- [x] Make a linkedin
 - [ ] buy Tayto Potato and send it to mike (https://www.smokonow.com/products/couch-potato-light)
       
 
@@ -123,6 +113,8 @@
 - [x] Sorting course 
 - [x] Sorting Exercises
 - [x] Searching course
+- [x] Lab 7 Trees
+- [x] Lab 8 Heaps
 
 ### `07`
 - [x] write lecture 1
@@ -151,6 +143,10 @@
 - [x] session 4.2
 - [x] session 5
 - [x] Last chapter 5 session
+- [x] 7/13 Lecture
+- [x] 7/20 Lecture
+- [x] 7/25 Lecture
+- [x] 8/1 Lecture
 
 ### `09`
 - [x] Prolog Session 02
@@ -173,6 +169,7 @@
 - [x] session 12
 - [x] session 13
 - [x] download Prolog Interpreter (not gonna)
+- [x] Write session 3
 
 ### `10`
 - [x] Write down the important stuff from the last course
@@ -215,6 +212,11 @@
 - [x] session 10 june 10
 - [x] 6/29
 - [x] 7/1
+- [x] 7/4
+- [x] 7/6
+- [x] 7/8
+- [x] 7/13 (didnt really need to watch)
+- [x] 7/15 (didnt really need to watch)
 
 ### `34`
 - [x] lecture 1

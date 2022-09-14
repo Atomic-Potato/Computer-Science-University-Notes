@@ -140,7 +140,7 @@ First we take a formula in [[1 @ Predicate Logic#Prenex normal form PNF |PNF]] a
 - Proposition
 If, before transformation, F = F 1 ∧ F 2 ∧ ... ∧ F n Then the clausal form $\large S_F = S_F1 ∪ S_F2 ∪ ... ∪ S_Fn$
 
-## Proving validity with clausal from
+## `Proving validity with clausal from`
 Skolem maintain the inconsistency
 F valid ⇔ ¬F inconsistent ⇔ pnf (¬F) inconsistent ⇔ sf (¬F) ⇔ clausal form (¬F) inconsistent
 

@@ -1,3 +1,7 @@
+_Previous:_ [[2 @ Direct Mapping]]
+
+---
+
 # Fully Associative Mapping
 In this type of mapping **a RAM line can be moved to any cache line** and the filed **index is removed**
 
@@ -6,7 +10,7 @@ Instead the memory address is decomposed into 2 fields:
 - `tag:` $\large \color{pink} size(tag) = size(MemoryAddress) - size(offset)$
 ## Pseudo-algorithm
 ![[Pasted image 20220727201035.png | 400]]
-
+(The first line in **Check** means loop over all the lines of the cache)
 **In case of a `cache miss`** 
 -  Determine the RAM line $\large RL_i$ to be moved where **`i` = tag**
 -  Determine the Cache line $\large CL_j$ to be replaced
@@ -14,7 +18,7 @@ Instead the memory address is decomposed into 2 fields:
 	In case of **LFU** each cache line must have an indicator: `Number Of Hits (NH).` _(At the beginning all NHs must be 0)_
 	And at each `cache hit` increase the NH by 1 for that line.
 	Now To determine `j`, select the cache line with the **lowest NH**.
-- if $d_j = 1$ (dirty bit)  move $\large CL_J$ to the corresponding RAM line $\large RL_k$ where $\large k = t_j$ (tag)
+- if $d_j = 1$ (dirty bit)  move $\large CL_J$ to the corresponding RAM line $\large RL_k$ where $\large k = t_j$ (tag of $CL_j$)
 	$v_j = 1$
 	$d_j = 1$
 	$t_j = tag$
@@ -39,9 +43,13 @@ The address is decomposed into 3 fields:
 - `set:` $\large \color{pink} size(set) = log_2(NumberOfSets)$
 - `tag:` $\large \color{pink} size(tag) = size(MemoryAddress) - size(offset) - size(set)$
 
-The set field in address determines the corresponding set Sp where p[0, q-1] where q is the number of setts
+The set field in address determines the corresponding set Sp where p[0, q-1] where q is the number of sets
 Consider Sp and apply the fully associative algorithm.
 
+**`NOTE:`** in case of a cache miss in this mapping (after moving the dirty bit, if there was any)
+- In order to determine the RL we use **both** the `tag` and the `set` bits 
+- And to get the CL we just multiply the number of sets by the number of lines in each set + the number of the line with the tag to be moved (starting from 0)
+- And then move from RL to CL 
 ## Replacement algorithm
 We have three algorithms we can use:
 - `FIFO`
@@ -79,3 +87,6 @@ for (i=0; i<N; i++)
 - Instructions:
 	- Consecutive instructions: spatial locality.
 	- Loop (beq, j for, etc.): temporal locality.
+
+---
+_Previous:_ [[2 @ Direct Mapping]]

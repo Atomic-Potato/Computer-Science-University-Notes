@@ -7,7 +7,10 @@ How it works:
 - Append the heads to the start of the second list as you go back in recursion 
 	```prolog
 	append([], L, L).
-	apend([H|L1], L2, [H|L3]):- append(L1, L2, L3).
+	append([H|L1], L2, [H|L3]):- append(L1, L2, L3).
+	
+	% query
+	append([1],[2,3], K).
 	```
 	Best explained with a search tree
 	![[Pasted image 20220722151108.png | 450]]

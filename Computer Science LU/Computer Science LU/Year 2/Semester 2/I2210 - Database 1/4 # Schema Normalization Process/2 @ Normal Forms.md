@@ -25,7 +25,7 @@ A relation is in `1NF` if every attribute **contains only atomic values**, that 
 ## `2NF`
 A relation is in second normal form if and only if:
 - It is in first normal schema
-- None of not key attributes depends on a part of the key (elementary functional dependency)
+- None of not key attributes depends on a part of a key (elementary functional dependency)
 	*Example:*
 	R=(A,B,C,D)
 	Key = {A,B} -> R

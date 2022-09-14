@@ -1,3 +1,7 @@
+_Next:_ [[2 @ Direct Mapping]]
+
+---
+
 Exchanging data between the CPU and the RAM takes time and performance, so before the CPU accesses the RAM, it searches for the requested data in the **Cache memory** 
 
 ![[Pasted image 20220714161829.png]]
@@ -10,3 +14,6 @@ There are three strategies for data transformation:
 1. *Direct mapping*
 2. *Fully associative*
 3. *Set associative*
+
+---
+_Next:_ [[2 @ Direct Mapping]]

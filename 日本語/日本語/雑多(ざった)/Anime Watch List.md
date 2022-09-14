@@ -30,6 +30,7 @@
 
 
 # Series
+- [ ] Nichijou
 - [ ] Kill La Kill
 - [ ] Golden Boy
 - [ ] Evangelion
