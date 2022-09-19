@@ -113,8 +113,9 @@ How to get the quotient and the remainder:
 	- Just divide the numbers and your integer value of the result will be the quotient
 - Remainder:
 	- Subtract the divisor from the dividend repeatedly until your result is less than the divisor, this will be your remainder
-	  Or you can use the equation `quotient*divisor + y = dividend` where y will be the remainder, best used when the divisor is greater than the dividend   
-
+	  Or you can use the equation `quotient*divisor + y = dividend` where y will be the remainder, best used when the divisor is greater than the dividend  
+	  _For example:_
+		![[Pasted image 20220916232910.png | 300]]
 
 **Theorem 2**
 Let a,b are two non-zero integers (we can assume that a,b > 0 without losing generality) then `(a ∧ b)(a ∨ b) = ab`.

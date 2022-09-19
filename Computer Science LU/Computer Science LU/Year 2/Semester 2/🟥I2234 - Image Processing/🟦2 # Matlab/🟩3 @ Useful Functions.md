@@ -1,0 +1,7 @@
+- `mean()` gets the average of an array. If the input is a matrix, then it returns an array with the average of each row
+- `logical()` converts the value into true or false. So values greater than 0 are true, and 0 is false
+- `uint8()` converts values of the matrix to unsigned integers between $[0,2^8-1]$ (0-255)
+- `double()` converts values into doubles
+- `zeros()` fills matrix with zeros
+- `ones()` fills matrix with ones
+- `sort()` sorts an array. **To sort a matrix do: M = sort(sort(M,2));**

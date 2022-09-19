@@ -1,7 +1,7 @@
 # Schedule
 ![[WhatsApp Image 2022-05-10 at 12.14.10 PM.jpeg | 300]]
 ![[Final Exams Program.png | 300]]
-![[Pasted image 20220913170226.png | 300]]
+![[Pasted image 20220917133547.png | 300]]
 ![[Pasted image 20220913170444.png | 300]]
 i'll maybe give 20th for 6 as well
 At 22 its 33 not 7
