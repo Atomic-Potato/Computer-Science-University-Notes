@@ -78,6 +78,8 @@ Character attributes can be compared to a pattern:
 -  `%` matches any substring.
 -  `_` matches any single character.
 
+**`Note:`** Theres no difference between capital and lowercase letters so `%m%` = `%M%`
+
 *Example:*
 ```sql
 -- Find the name of all customers whose street includes the substring ‘Main’.

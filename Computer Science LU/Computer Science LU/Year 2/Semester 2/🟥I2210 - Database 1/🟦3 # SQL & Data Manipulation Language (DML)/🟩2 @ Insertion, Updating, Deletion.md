@@ -11,20 +11,44 @@ where bname = "Perryridge"
 
 **`NOTE:`** if you're using aggregate functions, make sure to store the returned value of the function in a variable, otherwise it will keep updating as we delete *(unless thats what you want of course)*
 
+## `drop`
+$$\huge \color{pink} drop \space table \space TableName$$
+To delete an entire table (as well as views, but change the type from `table` to `view`)
+
+---
+
 # Insertion
 The `insertion` command comes generally in the form
 $$\huge \color{pink} insert \space into \space table \space values \space (NewTuple)$$
 - adding a **new tuple** to a relation/table
 	```sql
-	insert into account values (“Perryridge”, A-9732, 1200)
+	insert into account values (“Perryridge”, A-9732, 1200) -- tuple must be in the same order of the table
 	```
 - To **reorder attributes**, specify attribute names explicitly:
 	```sql
 	insert into account (bname , balance, accid)
-	values (“Perryridge”, 1200, A-9732)
+	values ("Perryridge", 1200, A-9732)
+	```
+- You can also **add multiple values at once:**
+	```sql
+	insert into account (bname , balance, accid)
+	values  ("Perryridge", 1200, A-9732),
+			("Potato", 69, 420)
 	```
 
 (You can set the values to `null`)
+
+## `into` alone
+SELECT INTO statement is **used to create a table from an existing table by copying the existing table's columns** (A HARD COPY, not a reference like views). It is important to note that when creating a table in this way, the new table will be populated with the records from the existing table (based on the SELECT Statement).
+```sql
+select *
+into SCopy
+from S
+where B = 69
+```
+
+
+---
 
 # Updation ( jk: Updating )
 The `updating` command comes generally in the form:
@@ -42,6 +66,8 @@ update account
 
 **`NOTE:`** note how the order of the expressions matter, because if it was in reverse some accounts balance would go over 1000, and so they will increase again in the second expression.
 
+---
+
 # More on Views
 (I STILL DONT GET THE DIFFERENCE FROM VARIABLES AAAAAAAAAH !) (EDIT: i get it now) anyways 
 
@@ -54,4 +80,14 @@ create view branch-loan as
 
 -- Add a new tuple to branch-loan
 insert into branch-loan values(“Perryridge”, “L-307”)
+```
+
+---
+
+# Altering
+```sql
+alter table TableName
+add constraint keyName primary key (attribute0, attribute1,...)
+--or
+drop column columnName 
 ```
