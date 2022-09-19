@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩2 @ Insertion, Updating, Deletion.md",
+            "file": "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩3 @ Data Extraction.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "group by",
+                "query": "clock algorithm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩2 @ Insertion, Updating, Deletion.md",
+                "file": "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩3 @ Data Extraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,15 +243,15 @@
   },
   "active": "d67c1bf412fdd2a6",
   "lastOpenFiles": [
-    "Scratch.md",
     "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩2 @ Insertion, Updating, Deletion.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/i22010 #3 Pics/Pasted image 20220919144041.png",
     "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩1 @ Extraction.md",
     "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩3 @ Data Extraction.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦4 # Schema Normalization Process/🟩2 @ Normal Forms.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦4 # Schema Normalization Process/🟩1 @ Normaliztion Process.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦2 # Relational Model/i2210 #2 pics/Pasted image 20220918180330.png",
     "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦2 # Relational Model/🟩2 @ Formal Languages.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦2 # Relational Model/🟩1 @ Data Definition Language (DDL).md"
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦2 # Relational Model/🟩1 @ Data Definition Language (DDL).md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2207 - Computer Architecture/10 # Cache Memory/3 @ Fully & Set Associative Mapping.md",
+    "Scratch.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/i22010 #3 Pics/Pasted image 20220919144041.png",
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦4 # Schema Normalization Process/🟩2 @ Normal Forms.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦4 # Schema Normalization Process/🟩1 @ Normaliztion Process.md"
   ]
 }
