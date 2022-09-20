@@ -75,11 +75,23 @@ The rules in determining the running time of an algorithm:
 # Calculation notes
 ![[Pasted image 20220513232851.png | 700]]
 
+$\huge n^n\rightarrow n!\rightarrow k^n \rightarrow n^r \rightarrow n^{1/r} \rightarrow log$
+
 ![[Pasted image 20220514001529.png | 250]]
 
 ### Commonly used logarithms and summations
 ![[Pasted image 20220514004221.png | 500]]
 ![[Pasted image 20220514004236.png | 500]]
 
+**Extra series:**
+$\huge \sum^n_{i=0}i=\frac{n(n+1)}{2}$
+$\huge \sum^n_{i=0}i^2=\frac{n(n+1)(2n+1)}{2}$
 # Strategies
 - Add a second reversed loop, and add their sum then devide by 2 to remove that extra loop
+- To check if one of 2 numbers is greater, try logging both sides and see whos greater
+
+# Math rules
+- To cancel $log_2$ raise 2 to the power of log
+- $\huge a^{b*c} = a^{b^c}$
+- Exponential rules
+![[Pasted image 20220920164629.png | 400]]
