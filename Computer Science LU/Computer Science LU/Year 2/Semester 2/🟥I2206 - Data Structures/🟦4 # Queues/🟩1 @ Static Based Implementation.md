@@ -15,7 +15,7 @@ typedef struct
 	element data[N];
 	int front;
 	int rear;
-}queue;
+}*queue;
 ```
 
 **`Queue.h`**
