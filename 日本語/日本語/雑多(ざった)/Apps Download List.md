@@ -1,3 +1,0 @@
-- [ ] Notepad++
-- [x] taskbar centering
-- [x] more advanced windows file explorer extension

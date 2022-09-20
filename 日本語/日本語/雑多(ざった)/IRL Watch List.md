@@ -1,7 +1,0 @@
-- [ ] Back to the future
-- [ ] Silicon valley
-- [ ] Naked gun
-- [x] top gear dude japan trip
-- [ ] American Phsyco
-- [ ] HitchHikers gide to a galaxy
-- [ ] Annihilation

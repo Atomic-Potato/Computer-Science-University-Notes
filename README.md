@@ -7,11 +7,8 @@ If you like you can upload the notes for the first year and ill apply the change
 
 Just make sure you got obsidian installed.
 
-Plus theres the vaults "日本語" and "Game Dev" which are just my personal interests notes. 
-I was just lazy to remove them from here since i was just making this public for my friends and i doubt they will be any use to anyone.
-
 ## How to setup
-- Download the project (unfortunately theres no way to exclude the 日本語　and Game Dev folders as far as i know)
+- Download the project
 - Download Obsidian
 - Open Obsidian
 - Click on open folder as vault
