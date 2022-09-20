@@ -57,6 +57,28 @@ K=[1 1 1;1 1 1;1 1 1]/9;
 R=sum(sum(W.*K))
 ```
 
+**Average filter function:**
+```matlab
+function [im] = AvgFilter(G, windowSize)
+	boundarySize = (windowSize-1)/2;
+	
+	im = zeros(2*boundarySize+size(G,1), 2*boundarySize+size(G,2)); %%an empty matrix with boundaries
+	im(boundarySize+1:size(im,1)-boundarySize, boundarySize+1:size(im,2)-boundarySize) = G; %%fill the matrix with G except for the boundaries
+	
+	W = ones(windowSize, windowSize) / (windowSize*windowSize);
+
+	for i=boundarySize+1 : size(im,1)-boundarySize
+		for j=boundarySize+1 : size(im,2)-boundarySize
+			currentWindow = im(i-boundarySize:i+boundarySize , j-boundarySize:j+boundarySize);
+			im(i,j) = sum(sum(currentWindow.*W));
+		end
+	end
+
+	im = uint8(im); % converting the matrix to int values
+	im = im(boundarySize+1:size(im,1)-boundarySize, boundarySize+1:size(im,2)-boundarySize) %removing the crust aka the boundaries
+end
+```
+
 ## Non-linear Filtering: Median
 Replace each pixel in the noisy image with the median of its neighbors.
 - create the corresponding window `N(i-1:i+1, j-1:j+1)`
@@ -66,6 +88,27 @@ Replace each pixel in the noisy image with the median of its neighbors.
 Each pixel in the output image contains the median value in a 3-by-3 neighborhood (window size)around the corresponding pixel in the input image.
 ![[Pasted image 20220727230412.png | 500]]
 
+
+**Median filter function:**
+```matlab
+function [im] = MedFilter(G, windowSize)
+	boundarySize = (windowSize-1)/2;
+	
+	im = zeros(2*boundarySize+size(G,1), 2*boundarySize+size(G,2)); %%an empty matrix with boundaries
+	im(boundarySize+1:size(im,1)-boundarySize, boundarySize+1:size(im,2)-boundarySize) = G; %%fill the matrix with G except for the boundaries
+	
+	for i=boundarySize+1 : size(im,1)-boundarySize
+		for j=boundarySize+1 : size(im,2)-boundarySize
+			currentWindow = im(i-boundarySize:i+boundarySize , j-boundarySize:j+boundarySize);
+			currentWindow = sort(sort(M,2));
+			im(i,j) = median(median(currentWindow));
+		end
+	end
+
+	im = uint8(im); % converting the matrix to int values
+	im = im(boundarySize+1:size(im,1)-boundarySize, boundarySize+1:size(im,2)-boundarySize) %removing the crust aka the boundaries
+end
+```
 
 # HOW TO ADD BOUNDARIES
 ![[Pasted image 20220916214547.png | 700]]
