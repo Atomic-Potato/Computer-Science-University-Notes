@@ -6,7 +6,7 @@
 
 Note: Changing the foreign keys names is fine as long as you can tell the parent 
 
-*Example*
+*Example* (idk why he didnt mark the foreign keys here neither by italic nor with a #)
 - ERD
  ![[Pasted image 20220712160909.png | 400]]
  - P.D. Model
@@ -16,15 +16,15 @@ Note: Changing the foreign keys names is fine as long as you can tell the parent
 
 
 # Bijective case
-![[Pasted image 20220713165233.png | 400]]
+- **1,1 to 1,1** case:
+	![[Pasted image 20220713165233.png | 400]]
+	- `Solution 1:`
+	![[Pasted image 20220713165303.png]]
+	- `Solution 2:`
+	![[Pasted image 20220713165352.png]]
+	Sometimes if the woman is more dominant (hot) we put only an arrow from woman to man
 
-- `Solution 1:`
-![[Pasted image 20220713165303.png]]
-- `Solution 2:`
-![[Pasted image 20220713165352.png]]
-Sometimes if the woman is more dominant (hot) we put only an arrow from woman to man
-
-if we have:
-![[Pasted image 20220713165538.png | 400]]
-we put an arrow from man to woman
+- **0,1 to 1,1** case:
+	![[Pasted image 20220713165538.png | 400]]
+	we put an arrow from man to woman and we give the woman key to man as foreign
 

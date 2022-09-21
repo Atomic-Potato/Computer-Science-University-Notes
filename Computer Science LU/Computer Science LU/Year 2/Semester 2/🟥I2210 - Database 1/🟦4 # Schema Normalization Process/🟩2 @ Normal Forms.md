@@ -36,11 +36,15 @@ if for all functional dependencies in `F+` of the form  X->Y , where X belongs t
 - a->b is trivial (i.e. b belongs to a, or a is b)
 - a is [[! Important Definitions & Notes !#^superKey|super key]] for R
 
+(Plus it has to be in 2NF)
+
 ## `3NF`
 It is basically BCNF but it helps us decompose any relation with an extra condition
 - a->b is trivial (i.e. b belongs to a, or a is b) **(BCNF)**
 - a is super-key for R **(BCNF)**
 - **Each** attribute A in `b-a` (*example:* AB->BC => BC-AB = B, but most of the times its just b) is contained in  [[! Important Definitions & Notes !#^candidateKey |candidate key]] for R.
+
+(Plus it has to be in 2NF)
 
 # Decomposition
 ## `BCNF` decomposition

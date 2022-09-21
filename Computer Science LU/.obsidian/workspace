@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/Year 2/Semester 2/🟥I2206 - Data Structures/🟦6 # Sorting/🟩2 @ Sorting.md",
+            "file": "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩2 @ Insertion, Updating, Deletion.md",
             "mode": "preview",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 465.5036334991455
+    "width": 465.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 2/Semester 2/🟥I2206 - Data Structures/🟦6 # Sorting/🟩2 @ Sorting.md",
+                "file": "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩2 @ Insertion, Updating, Deletion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,17 +242,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a133da79ec1f1a5a",
+  "active": "d67c1bf412fdd2a6",
   "lastOpenFiles": [
-    "Computer Science LU/Year 2/Semester 2/🟥I2206 - Data Structures/🟦6 # Sorting/🟩1 @ Priority Queue & Heaps.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2206 - Data Structures/🟦5 # Trees/🟩5 @ Expression Trees.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2206 - Data Structures/🟦5 # Trees/🟩4 @ AVL Trees (Adelson-Velskii & Landis).md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2206 - Data Structures/🟦5 # Trees/🟩3 @ Balanced Binary Search Trees.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2206 - Data Structures/🟦5 # Trees/🟩1 @ Binary Trees.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2206 - Data Structures/🟦5 # Trees/🟩2 @ Binary Search Trees (BST).md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2206 - Data Structures/🟦5 # Trees/🟩1.1 @ Binary Trees Traversals.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2206 - Data Structures/🟦4 # Queues/🟩2 @ Dynamic Based Implementation.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2206 - Data Structures/🟦4 # Queues/🟩1 @ Static Based Implementation.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2206 - Data Structures/🟦3 # Stacks/I2206 #3 Pics/Pasted image 20220610144445.png"
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦2 # Relational Model/🟩1 @ Data Definition Language (DDL).md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦1 # Entity-Relationship Model/Extra notes.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦1 # Entity-Relationship Model/🟩1 @ E-R Diagram.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩2 @ Insertion, Updating, Deletion.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦1 # Entity-Relationship Model/🟩2 @ ERD to RDM Mapping.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩3 @ Data Extraction.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦4 # Schema Normalization Process/🟩2 @ Normal Forms.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/! Important Definitions & Notes !.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦4 # Schema Normalization Process/🟩1 @ Normaliztion Process.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩1 @ Extraction.md"
   ]
 }

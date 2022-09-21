@@ -11,6 +11,9 @@ where bname = "Perryridge"
 
 **`NOTE:`** if you're using aggregate functions, make sure to store the returned value of the function in a variable, otherwise it will keep updating as we delete *(unless thats what you want of course)*
 
+**`NOTE:`** if you need to delete a key, make sure you join this tables with the tables that contain this key as foreign so it would also get deleted from these tables as well
+![[Pasted image 20220921214918.png | 700]]
+
 ## `drop`
 $$\huge \color{pink} drop \space table \space TableName$$
 To delete an entire table (as well as views, but change the type from `table` to `view`)
@@ -85,6 +88,7 @@ insert into branch-loan values(“Perryridge”, “L-307”)
 ---
 
 # Altering
+_Already talked about here: [[🟩1 @ Data Definition Language (DDL)#Drop and Alter Table Constructs|Drop and Alter Table Constructs]]_
 ```sql
 alter table TableName
 add constraint keyName primary key (attribute0, attribute1,...)
