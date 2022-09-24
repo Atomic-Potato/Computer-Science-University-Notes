@@ -48,5 +48,5 @@ ___
 ---
 # REGEX
 ```java
-"potato".matches("patter"); //returns true or false
+"potato".matches("pattern"); //returns true or false
 ```

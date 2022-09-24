@@ -1,4 +1,4 @@
-`Daya Encapsulation` is basically using only getters and setters to alter the values of the array, so we have control over the values that go in and out.
+`Data Encapsulation` is basically using only getters and setters to alter the values of the class, so we have control over the values that go in and out.
 
 # Immutable Class
 For a class to be immutable, it must satisfy the three properties:

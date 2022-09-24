@@ -7,11 +7,11 @@ To make a class inherit from another class we use the keyword `extend`
 public class X extends Y { /*...*/}
 ```
 
-Class X is usually called: *super class* or *parent class*
-Class Y is usually called: *subclass*
+Class Y is usually called: *super class* or *parent class*
+Class X is usually called: *subclass*
 
 **What if we have constructors in the `super class`:**
-In the `subclass` constructor, the first the constructor does is **call the empty constructor of the super class.** *(This is done behind the scene, and cant be done manually)* 
+In the `subclass` constructor, first the constructor **calls the empty constructor of the super class.** *(This is done behind the scene, and cant be done manually)* 
 Unless we call the function `super(var1, var2);` which calls the constructor of the super class with relevant variables.
 
 *Example:*

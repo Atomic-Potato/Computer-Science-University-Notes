@@ -69,7 +69,7 @@ function [im] = AvgFilter(G, windowSize)
 
 	for i=boundarySize+1 : size(im,1)-boundarySize
 		for j=boundarySize+1 : size(im,2)-boundarySize
-			currentWindow = im(i-boundarySize:i+boundarySize , j-boundarySize:j+boundarySize);
+			currentWindow = A(i-boundarySize:i+boundarySize , j-boundarySize:j+boundarySize);
 			im(i,j) = sum(sum(currentWindow.*W));
 		end
 	end
@@ -99,7 +99,7 @@ function [im] = MedFilter(G, windowSize)
 	
 	for i=boundarySize+1 : size(im,1)-boundarySize
 		for j=boundarySize+1 : size(im,2)-boundarySize
-			currentWindow = im(i-boundarySize:i+boundarySize , j-boundarySize:j+boundarySize);
+			currentWindow = A(i-boundarySize:i+boundarySize , j-boundarySize:j+boundarySize);
 			currentWindow = sort(sort(M,2));
 			im(i,j) = median(median(currentWindow));
 		end
@@ -110,5 +110,10 @@ function [im] = MedFilter(G, windowSize)
 end
 ```
 
-# HOW TO ADD BOUNDARIES
+---
+
+# Notes
+
+- **`NOTE:`** notice how im doing the calculations over the original image and just changing the values in a copy of the image
+- How to add boundaries
 ![[Pasted image 20220916214547.png | 700]]

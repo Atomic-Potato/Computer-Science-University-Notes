@@ -82,3 +82,5 @@ Start from the first bit and then traverse the tree until a leaf is found. Give 
 *Example:*
 Decode the sequence 011011010 using the previous tree.
 Result: ACACAB
+
+**If you dont reach a leaf then the sequence is just considered incomplete**

@@ -43,10 +43,11 @@ Move S over B, placing origin at each pixel.
 `B:`
 ![[Pasted image 20220727232629.png | 150]]
 
-- Using `Dialiation:`
+- Using `Diliation:`
 If at least one 1-pixel matches any entries from `S` after overlapping it with `B` then the corresponding pixel is set to 1. Otherwise 0.
 ![[Pasted image 20220727232847.png | 100]]
 - Using `Erosion:`
 If all 1-pixels match then the corresponding pixel is set to 1. Otherwise 0.
 ![[Pasted image 20220727232906.png | 100]]
 
+**`NOTE:`** note that here that if we update a pixel we dont compare the new matrix with the structuring element but we only compare it with the original, so you have to make a copy of the matrix of which you make the changes to

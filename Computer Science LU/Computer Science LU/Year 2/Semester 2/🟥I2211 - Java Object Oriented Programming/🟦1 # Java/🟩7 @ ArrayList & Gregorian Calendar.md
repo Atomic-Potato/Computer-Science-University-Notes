@@ -1,5 +1,5 @@
 # ArrayList
-its a non primitive data type unlike the normal array, it stores only objects and no primitive type variables. And it includes many methods for array manipulation.
+its a non primitive data type unlike the normal array, it stores only objects and non primitive type variables. And it includes many methods for array manipulation.
 
 ## Decleration
 ```java
@@ -46,6 +46,8 @@ myNumber.add(new Integer(69));
 **`NOTES:`**
 - The array adds a **reference** to the objects and doesnt actually contain the object
 	And so **equals()** should be overridden in a class since the equals by the object class compares addresses, and in the array we a give a new object of a new address
+- **Normal arrays** seem to behave the same way as an **ArrayList**, the only difference is the fancy functions
+- An empty spot in an array has a value of `null`
 # Gregorian Calendar
 The Gregorian calendar inherits form the Calendar class
 ```java

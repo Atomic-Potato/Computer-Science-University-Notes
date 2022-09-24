@@ -32,9 +32,9 @@ long length2 = ((String)obj).length();      //Correct
 										
 long length3 = ((ArrayList)obj).lentg();    //Runtime Error
 											//The compiler doesnt catch this error 
-											//because it assumes ArrayList inherits from oBject
+											//because it knows that ArrayList inherits from Object
 											//However when typecasting, it doesnt find it equal to the actual type 
-											//and results in an erro
+											//and results in an error
 ```
 This is called `Dynamic Binding`
 

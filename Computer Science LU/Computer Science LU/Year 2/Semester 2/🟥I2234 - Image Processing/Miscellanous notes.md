@@ -1,0 +1,1 @@
+- Remember that each number in an image is 1 byte, RGB or gray, unless its binary i think

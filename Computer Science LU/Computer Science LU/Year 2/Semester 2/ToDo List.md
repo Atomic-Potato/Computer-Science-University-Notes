@@ -11,7 +11,7 @@ At 22 its 33 not 7
 
 ### `I2206`
 - [ ] 5/29th big O lecture
-- [ ] Quiz 1 solutions
+- [x] Quiz 1 solutions
 - [ ] Solve all the exercises about Asymptotic Analysis
 	- [x] 1
 	- [x] 2
@@ -79,7 +79,18 @@ At 22 its 33 not 7
 - [ ] buy Tayto Potato and send it to mike (https://www.smokonow.com/products/couch-potato-light)
       
 
-
+# Setup
+- [x] folder and IDs and money, your notebook
+- [x] Calculator, extra battery and a screwdriver
+- [x] Pencils, sharpener and an eraser
+- [ ] Update obsidian's vault on your phone
+- [x] Music
+- [ ] Alarm
+- [ ] PDFs
+- [ ] chargers
+- [x] podcasts
+- [ ] MASKS !!!
+- [ ] WOTAH !!!
 
 # Done
 ![[WhatsApp Image 2022-05-18 at 10.54.08 PM.jpeg | 600]]
