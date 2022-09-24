@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩11 @ Files.md",
+            "file": "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩0 @ OOP Philosophies.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩11 @ Files.md",
+                "file": "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩0 @ OOP Philosophies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,15 +243,15 @@
   },
   "active": "d67c1bf412fdd2a6",
   "lastOpenFiles": [
+    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩5 @ UML Class Diagram.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩0 @ OOP Philosophies.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩6 @ Inhertiance.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/Extra Java Notes.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩4 @ Data Encapsulation.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1.md",
+    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩11 @ Files.md",
     "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩2 @ Strings.md",
     "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩9 @ Abstract & Interfaces.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩11 @ Files.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩1 @ Basic Syntax.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩0 @ OOP Philosophies.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩7 @ ArrayList & Gregorian Calendar.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩5 @ UML Class Diagram.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩4 @ Data Encapsulation.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩8 @ Polymorphism & Dynamic Binding.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩10 @ Exceptions.md"
+    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩1 @ Basic Syntax.md"
   ]
 }

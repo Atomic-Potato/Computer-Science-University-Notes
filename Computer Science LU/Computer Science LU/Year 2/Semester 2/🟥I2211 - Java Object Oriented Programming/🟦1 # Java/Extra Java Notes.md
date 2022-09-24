@@ -9,6 +9,6 @@
 
 
 - **Protected VS Private**
-	- `protected`: private for outside and public for subclasses
+	- `protected`: private for outside and public for subclasses ^protected
 	- `private`: private for outside and private for subclasses
 
