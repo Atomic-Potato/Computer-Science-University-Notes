@@ -13,3 +13,6 @@ Just make sure you got obsidian installed.
 - Open Obsidian
 - Click on open folder as vault
 - Select the `Computer Science LU` folder
+
+---
+Ayo little update, imma drop out of uni and probably wont finish my CS degree so i guess thats all for now folks
