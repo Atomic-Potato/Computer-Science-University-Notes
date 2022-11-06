@@ -1,4 +1,6 @@
 {
-  "baseFontSize": 14,
-  "translucency": false
+  "baseFontSize": 15,
+  "translucency": false,
+  "cssTheme": "Obsidian gruvbox",
+  "accentColor": ""
 }

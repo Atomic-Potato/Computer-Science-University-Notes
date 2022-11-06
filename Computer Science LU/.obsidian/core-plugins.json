@@ -7,8 +7,10 @@
   "page-preview",
   "note-composer",
   "command-palette",
+  "starred",
   "markdown-importer",
-  "word-count",
+  "outline",
+  "slides",
   "file-recovery",
   "sync"
 ]

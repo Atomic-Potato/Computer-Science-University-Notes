@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d67c1bf412fdd2a6",
+        "id": "049d98233c72c53d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩0 @ OOP Philosophies.md",
+            "file": "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩2 @ Counting.md",
             "mode": "preview",
             "source": false
           }
@@ -40,20 +40,29 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clock algorithm",
-                "matchingCase": false,
+                "query": "logical consequence",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse"
               }
             }
+          },
+          {
+            "id": "38da78edebdae252",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 465.5036334991455
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -69,14 +78,24 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩0 @ OOP Philosophies.md",
-                "collapseAll": false,
+                "file": "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩2 @ Counting.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81b589d42c942de0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩2 @ Counting.md"
               }
             }
           }
@@ -241,17 +260,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d67c1bf412fdd2a6",
+  "active": "049d98233c72c53d",
   "lastOpenFiles": [
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩5 @ UML Class Diagram.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩0 @ OOP Philosophies.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩6 @ Inhertiance.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/Extra Java Notes.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩4 @ Data Encapsulation.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩11 @ Files.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩2 @ Strings.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩9 @ Abstract & Interfaces.md",
-    "Computer Science LU/Year 2/Semester 2/🟥I2211 - Java Object Oriented Programming/🟦1 # Java/🟩1 @ Basic Syntax.md"
+    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/General notes.md",
+    "Computer Science LU/Year 2/Semester 2/🟥DONE [90.00](5) % I2206 - Data Structures/🟦1 # Asymptotic Analysis/🟩Asymptotic Analysis.md",
+    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩5 # Bayse Rule.md",
+    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩4 # Conditional Probability and independence.md",
+    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩3 @ Probability Basics.md",
+    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩2 @ Counting.md",
+    "Excalidraw/Drawing 2022-10-01 14.12.07.excalidraw.md",
+    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩1 @ Sample Space and Events.md",
+    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 4 Couple random variables/🟩3 @ Mathematical expectation.md",
+    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 4 Couple random variables/🟩2 @ Marginal Distributions.md"
   ]
 }

@@ -205,6 +205,8 @@ x = 8
 result = 188A
 ```
 
+**Subtraction example:**
+![[Pasted image 20220925151755.png | 599]]
 # Octal numbers
 ![[octal numbers.jpg | 250]]
 

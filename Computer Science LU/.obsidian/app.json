@@ -8,9 +8,10 @@
   "legacyEditor": false,
   "livePreview": true,
   "pdfExportSettings": {
-    "pageSize": "A5",
-    "landscape": true,
-    "margin": "2",
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
     "downscalePercent": 100
   }
 }

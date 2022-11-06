@@ -77,20 +77,26 @@ At 22 its 33 not 7
 - [ ] Keyboard touch typing
 - [x] Make a linkedin
 - [ ] buy Tayto Potato and send it to mike (https://www.smokonow.com/products/couch-potato-light)
-      
+- TLS & OMT 38$      
 
 # Setup
-- [x] folder and IDs and money, your notebook
-- [x] Calculator, extra battery and a screwdriver
-- [x] Pencils, sharpener and an eraser
+- [ ] folder and IDs and money, your notebook
+- [ ] Calculator, extra battery and a screwdriver
+- [ ] Pencils, sharpener and an eraser
 - [ ] Update obsidian's vault on your phone
-- [x] Music
+- [ ] Music
 - [ ] Alarm
 - [ ] PDFs
 - [ ] chargers
-- [x] podcasts
+- [ ] podcasts
 - [ ] MASKS !!!
 - [ ] WOTAH !!!
+- [ ] USB with SEB on it
+
+![[Pasted image 20220927124527.png]]
+![[Pasted image 20220927124458.png]]
+![[Pasted image 20220927123744.png | 700]]
+![[Pasted image 20220927124433.png]]
 
 # Done
 ![[WhatsApp Image 2022-05-18 at 10.54.08 PM.jpeg | 600]]
