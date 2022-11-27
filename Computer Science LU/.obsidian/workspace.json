@@ -11,12 +11,8 @@
             "id": "64f6aeaf0d8c1d2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩2 @ Counting.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩2 @ Counting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩2 @ Counting.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -337,8 +330,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64f6aeaf0d8c1d2d",
+  "active": "a133da79ec1f1a5a",
   "lastOpenFiles": [
+    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[53.00](4) - I2202 Digital Fundamentals/🟦Chapter 2 Conversions/Chap2 Pictures/converting fractional parts to binary inaccurate.jpg",
+    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[53.00](4) - I2202 Digital Fundamentals/🟦Chapter 2 Conversions/Chap2 Pictures/coverting from decimal to binary with weighted numbers.jpg",
     "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩3 @ Probability Basics.md",
     "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩1 @ Sample Space and Events.md",
     "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/General notes.md",
@@ -346,8 +341,6 @@
     "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 4 Couple random variables/🟩1 @ Joint Probability distribution function.md",
     "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 3/🟩3 @ Usual Continuous Random Variables.md",
     "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 2/🟩3 @ Some usual discrete random variables.md",
-    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 3/🟩4 @ The Normal Distribution.md",
-    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 3/Continuous random vars exercises.md",
-    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 4 Couple random variables/🟩3 @ Mathematical expectation.md"
+    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 3/🟩4 @ The Normal Distribution.md"
   ]
 }
