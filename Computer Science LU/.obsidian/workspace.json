@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "63ecc7fa7c8a9878",
+        "id": "aecef86ec4302936",
         "type": "tabs",
         "children": [
           {
-            "id": "64f6aeaf0d8c1d2d",
+            "id": "7a12933011c2e386",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/To Do List.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -46,10 +44,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poisson",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTimeReverse"
               }
@@ -67,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 480
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/To Do List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/To Do List.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -329,23 +324,48 @@
             }
           }
         ]
+      },
+      {
+        "id": "9d9e95a41ae4dedd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5570a2cc57ce3859",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "a133da79ec1f1a5a",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-comments:Show Comments Panel": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "7a12933011c2e386",
   "lastOpenFiles": [
-    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[53.00](4) - I2202 Digital Fundamentals/🟦Chapter 2 Conversions/Chap2 Pictures/coverting from decimal to binary with weighted numbers.jpg",
-    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[53.00](4) - I2202 Digital Fundamentals/🟦Chapter 2 Conversions/Chap2 Pictures/converting fractional parts to binary inaccurate.jpg",
-    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩3 @ Probability Basics.md",
-    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 1/🟩1 @ Sample Space and Events.md",
-    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/General notes.md",
-    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 4 Couple random variables/🟩2 @ Marginal Distributions.md",
-    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 4 Couple random variables/🟩1 @ Joint Probability distribution function.md",
-    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 3/🟩3 @ Usual Continuous Random Variables.md",
-    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 2/🟩3 @ Some usual discrete random variables.md",
-    "Computer Science LU/Year 2/Semester 1/🟥[35.00](4) - S2250 Stats/🟦Chapter 3/🟩4 @ The Normal Distribution.md"
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩2 @ Requirements.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦1 # Software Engineering Steps/🟩1 @ Software Engineering Steps.md",
+    "Computer Science LU/Year 3/Semester 1/- To Do List.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221228184450.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221228175457.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221228175424.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221228175337.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221228143153.png",
+    "Pasted image 20221228142152.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221228140848.png"
   ]
 }

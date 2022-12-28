@@ -32,6 +32,9 @@ You can take input from a file for a command using `<`
 you can can chain `<` and `>`
 ```c
 % ls > temp.txt; wc < temp.txt
+// Put the output of ls into temp
+// use temp as arguments for wc
+// basically use the output of ls to wc
 ```
 if you dont wanna do this we can use the middleman : `pipe`
 ```c

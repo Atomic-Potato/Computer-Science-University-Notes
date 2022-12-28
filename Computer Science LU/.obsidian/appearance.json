@@ -1,6 +1,7 @@
 {
   "baseFontSize": 15,
   "translucency": false,
-  "cssTheme": "Obsidian gruvbox",
-  "accentColor": ""
+  "cssTheme": "Mado Miniflow",
+  "accentColor": "#ff8080",
+  "theme": "obsidian"
 }

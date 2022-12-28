@@ -103,8 +103,9 @@ If we just want to wait for the child and not care about the value returned we g
 **`NOTE:`**
 The wait function `returns the pid` of the exited process while it `stores` the value of the `exit function parameter` inside the variable put in the wait function parameter.
 
+## Bits shifting
 Consider the following:
-```
+```c
 //Parent
 int st; 
 wait (&st);
@@ -112,13 +113,13 @@ wait (&st);
 //Child
 exit(status);
 ```
-the integer st is formed out of 4 bytes, each byte has 8 bits, so we can represent it as cells
+the integer `st` is formed out of **4 bytes**, each byte has 8 bits, so we can represent it as cells
 |0...0| |0...0| |0...0| |0...0|
-When the child exits  the the returned byte is stored in the second cell from right
+When the child exits, the `status` returned is **1 byte** in size instead of 4, so its stored in the second cell from right (for some reason)
 |0...0| |0...0| |returned| |0...0|
 and to fix that we do either one of the following:
-- st = st << 8; (<< means shift to the right)
-- st = WEXITSTATUS(st);
+- `st = st >> 8;` (`>> x` means shift to the right by x bits)
+- `st = WEXITSTATUS(st);` (which does the shifting for us)
 
 ##### Example question
 The question is we need to find the max of an array using 2 processes, the parent should handle the elements from 0 to 4 in the array and the child takes the rest and then the parent should print out the result
@@ -139,7 +140,7 @@ int main()
 		if(arr[i] > max)
 			max = arr[i];
 	
-	if(!fork)
+	if(!fork())
 	{
 		for(int i=5; i <= 9; i++)
 			if(arr[i] > *childMax)
@@ -149,7 +150,7 @@ int main()
 	esle
 	{
 		wait(childMax);
-		childMax = childMax << 8;
+		childMax = childMax >> 8;
 		
 		if(*childMax > max)
 			printf("%d", *childMax);

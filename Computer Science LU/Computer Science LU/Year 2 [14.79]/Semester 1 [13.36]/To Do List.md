@@ -1,5 +1,5 @@
 # ==Schedule==
-![[Schedule.png|700]]
+![[Schedule 1.png|700]]
 ![[WhatsApp Image 2022-03-29 at 1.56.29 PM.jpeg | 200]]
 
 
