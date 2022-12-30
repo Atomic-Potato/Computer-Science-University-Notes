@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "aecef86ec4302936",
+        "id": "a0640db71a6b9a27",
         "type": "tabs",
         "children": [
           {
-            "id": "7a12933011c2e386",
+            "id": "bac2fadbccab7222",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩6 @ Use Case Diagarm Creation Tips.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "elicitation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480
+    "width": 480,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩6 @ Use Case Diagarm Creation Tips.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩6 @ Use Case Diagarm Creation Tips.md"
+              }
             }
           }
         ]
@@ -355,17 +363,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "7a12933011c2e386",
+  "active": "bac2fadbccab7222",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩2 @ Requirements.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦1 # Software Engineering Steps/🟩1 @ Software Engineering Steps.md",
-    "Computer Science LU/Year 3/Semester 1/- To Do List.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221228184450.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221228175457.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221228175424.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221228175337.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221228143153.png",
-    "Pasted image 20221228142152.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221228140848.png"
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩5 @ Detailed Textual Description (DTD).md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩6 @ Use Case Diagarm Creation Tips.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩4 @ Scenarios.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩3@ Relationships Among Use Cases.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩2 @ Actors.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩1 @ Unified Modeling Language (UML).md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221230223534.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221230101951.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩6 @ Software Requirements Specification (SRS).md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩2 @ Requirements.md"
   ]
 }
