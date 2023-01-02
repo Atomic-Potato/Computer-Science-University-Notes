@@ -1,22 +1,51 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Computer Science LU/Year 2 [15.2]/Semester 2 [16.21]/🟥DONE [80.00](4) % I2209 - Logical Programming\"",
+      "color": {
+        "a": 1,
+        "rgb": 6749952
+      }
+    },
+    {
+      "query": "path:\"Computer Science LU/Year 2 [15.2]/Semester 1 [13.36]/🟥DONE[53.00](4) - I2202 Digital Fundamentals\"",
+      "color": {
+        "a": 1,
+        "rgb": 3102446
+      }
+    },
+    {
+      "query": "path:",
+      "color": {
+        "a": 1,
+        "rgb": 7885536
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.560683760683761,
-  "lineSizeMultiplier": 3.53418803418803,
+  "nodeSizeMultiplier": 0.984423976825373,
+  "lineSizeMultiplier": 1.77640199064102,
   "collapse-forces": false,
-  "centerStrength": 0.452991452991453,
-  "repelStrength": 10,
+  "centerStrength": 0.498997251726955,
+  "repelStrength": 9.50308252246899,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.10483164166237573,
-  "close": true
+  "linkDistance": 30,
+  "scale": 0.23653628745378144,
+  "close": false
 }

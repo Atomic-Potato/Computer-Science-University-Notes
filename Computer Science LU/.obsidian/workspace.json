@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0640db71a6b9a27",
+        "id": "71c00e5eeb1dd49f",
         "type": "tabs",
         "children": [
           {
-            "id": "bac2fadbccab7222",
+            "id": "b997a034f37ad65e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩6 @ Use Case Diagarm Creation Tips.md",
-                "mode": "preview",
-                "source": false
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/I3350 Pictures/Pasted image 20230102173707.png"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elicitation",
+                "query": "normal forms",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480,
-    "collapsed": true
+    "width": 441.01103591918945
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩6 @ Use Case Diagarm Creation Tips.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/I3350 Pictures/Pasted image 20230102173707.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩6 @ Use Case Diagarm Creation Tips.md"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/I3350 Pictures/Pasted image 20230102173707.png"
               }
             }
           }
@@ -363,17 +360,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "bac2fadbccab7222",
+  "active": "a133da79ec1f1a5a",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩5 @ Detailed Textual Description (DTD).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩6 @ Use Case Diagarm Creation Tips.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩4 @ Scenarios.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩3@ Relationships Among Use Cases.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩2 @ Actors.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 # UML - Use Case Diagrams/🟩1 @ Unified Modeling Language (UML).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221230223534.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20221230101951.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩6 @ Software Requirements Specification (SRS).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩2 @ Requirements.md"
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3 # Android Applications Components/🟩3 @ Dalvik VM.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3 # Android Applications Components/🟩4 @  Application Manifest.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3 # Android Applications Components/🟩2 @ Android OS & App Architecture.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟧Unorganized Notes.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦1 # Android Programming Setup/🟩1 @ Intro.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3 # Android Applications Components/🟩1 @ Main Android App Components.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦4 # Schema Normalization Process/🟩2 @ Normal Forms.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3 # Android Applications Components/🟩3 @  Application Architecture.md",
+    "Personal Notes/Developers Metting Notes.md",
+    "Pasted image 20230102124113.png"
   ]
 }
