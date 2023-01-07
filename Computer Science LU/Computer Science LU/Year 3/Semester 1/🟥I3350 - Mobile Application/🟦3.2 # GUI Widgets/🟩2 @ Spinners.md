@@ -47,7 +47,7 @@ spinner.setAdapter(new ArrayAdapter<>(this, R.layout.support_simple_spinner_drop
 ```
 
 # Spinner Event
-Now i dont get this quite yet, but ill fix it once i do.
+Now i dont get this quite yet, but ill fix it once i do. Refer to [[🟩2 @ Android Studio Basics#Listeners|Listeners]]
 
 So **i think** if we want to add custom spinner events we use the function `setOnItemSelectedListener()` that creates a new event listener for the spinner. 
 And as parameters we give it a new instance of `AdapterView.OnItemSelecedListener()` and we implement this function with the following functions/events to be triggered when the even listener gets a signal.
