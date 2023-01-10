@@ -40,6 +40,8 @@ Some of these view groups are:
 - `RecyclerView:` Contains a list of elements and enables scrolling by adding and removing elements dynamically
 
 ## Layouts
+_More about layouts here: [[🟩1 @ Layouts]]_
+
 Layouts are specific types of `ViewGroups` _(subclasses of ViewGroup)_. They contain child views and can be in a row, column, grid, table or absolute.
 
 The common layout classes:
@@ -109,6 +111,8 @@ setContentView(R.layout.main)
 `main` is the xml you have created under `res->layout->main.xml`
 
 Whenever you want to change the current look of an Activity or when you move from one Activity to another, the new Activity must have a design to show. We call [`setContentView`](https://developer.android.com/reference/android/app/Activity.html#setContentView(int)) in `onCreate()` with the desired design as argument.
+
+Also note that before executing this function, no views are created in the activity yet. So if your try to find a view by id in the view before setting the content, it will result in an error.
 
 # Best practices for view hierarchies
 Arrangement of view hierarchy affects app performance. So use smallest number of simplest views possible and keep the hierarchy flat-limit nesting of views and view groups

@@ -107,6 +107,8 @@ _For example:_
 </RadioGroup>
 ```
 
+**Useful java functions:**
+- `radioGroup.getCheckedRadioButtonId()`
 ---
 # ScrollView
 A container with scrollbars around another widget or container
