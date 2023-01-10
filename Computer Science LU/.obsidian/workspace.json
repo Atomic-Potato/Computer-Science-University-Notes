@@ -4,46 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "93a197b240bc2b0a",
+        "id": "c0ed401c3e58ead1",
         "type": "tabs",
         "children": [
           {
-            "id": "fb88d6fc661976c0",
+            "id": "07262392be8929c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦4 # Layouts/🟩2 @ Attributes.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟧Unorganized Notes.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "2bf255ec1e588c1e",
+            "id": "2ea9b5fa6e6e48d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦4 # Layouts/🟩2 @ Attributes.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦5 # Activity Lifecycle & State/🟩1 @ Activity Lifecycle & Callbacks.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "713233350dd1bc48",
+            "id": "234c90451ec0aa48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦4 # Layouts/🟩3 @ Widget Box Model.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦5 # Activity Lifecycle & State/🟩1 @ Activity Lifecycle & Callbacks.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 548.0110359191895,
-    "collapsed": true
+    "width": 548.0110359191895
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦4 # Layouts/🟩2 @ Attributes.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦5 # Activity Lifecycle & State/🟩1 @ Activity Lifecycle & Callbacks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦4 # Layouts/🟩2 @ Attributes.md"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦5 # Activity Lifecycle & State/🟩1 @ Activity Lifecycle & Callbacks.md"
               }
             }
           }
@@ -387,17 +387,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "fb88d6fc661976c0",
+  "active": "234c90451ec0aa48",
   "lastOpenFiles": [
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦5 # Activity Lifecycle & State/🟩2 @ Activity Instance State.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦5 # Activity Lifecycle & State/🟩1 @ Activity Lifecycle & Callbacks.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟧Unorganized Notes.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/I3350 Pictures/Pasted image 20230110152303.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦4 # Layouts/🟩3 @ Widget Box Model.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦4 # Layouts/🟩2 @ Attributes.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦4 # Layouts/🟩1 @ Layouts.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟧Unorganized Notes.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3.1 # Layouts & Resources For UI/🟩1 @ Views.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3.1 # Layouts & Resources For UI/🟩2 @ Layout Editor & Constraint Layout.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/I3350 Pictures/Pasted image 20230107183305.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3.2 # GUI Widgets/🟩1 @ Common Widgets.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3.2 # GUI Widgets/🟩2 @ Spinners.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/I3350 Pictures/Pasted image 20230108171039.png"
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/I3350 Pictures/Pasted image 20230107183305.png"
   ]
 }
