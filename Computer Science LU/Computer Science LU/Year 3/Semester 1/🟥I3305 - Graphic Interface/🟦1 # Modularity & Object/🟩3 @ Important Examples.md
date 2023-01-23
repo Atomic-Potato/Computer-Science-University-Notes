@@ -3,7 +3,7 @@ _Previous:_ [[🟩2 @ Object]]
 ---
 
 **_Reminder:_**
-![[Pasted image 20221208152452.png | 400]]
+![[Pasted image 20221208152452.png |400]]
 _\* in java_
 
 ---

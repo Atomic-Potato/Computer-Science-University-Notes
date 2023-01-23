@@ -37,10 +37,9 @@ interface In1 {
 // A class that implements the interface.
 class TestClass implements In1 {
 	
-	// Implementing the capabilities of
-	// interface.
+	// Implementing the capabilities of the interface.
 	public void display(){
-	System.out.println("Geek");
+		System.out.println("Geek");
 	}
 
 	// Driver Code
@@ -81,3 +80,9 @@ public class ClassName implements Comparable<ClassName>
 	}	
 }
 ```
+
+# Abstract Class VS Interface
+We use abstract classes when theres a common collection of properties _(variables and functions)_ between multiple classes. 
+We use interfaces when theres a collection of methods that are shared between multiple classes but implemented differently in each class.
+
+We can also extend a single abstract class and implement multiple interfaces _(separate them using a comma)_

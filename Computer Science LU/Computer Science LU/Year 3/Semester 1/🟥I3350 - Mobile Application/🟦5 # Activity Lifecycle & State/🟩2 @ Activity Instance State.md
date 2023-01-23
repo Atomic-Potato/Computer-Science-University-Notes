@@ -58,8 +58,7 @@ There are 2 ways to retrieve the saved `Bundle`:
 		}
 	}
 	```
-- Implement callback (called after `onStart()`)
-	`onRestoreInstanceState(Bundle mySavedState)`
+- Implement callback _(called after `onStart()`)_ `onRestoreInstanceState(Bundle mySavedState)`
 	```java
 	@Override
 	public void onRestoreInstanceState (Bundle mySavedState) {
