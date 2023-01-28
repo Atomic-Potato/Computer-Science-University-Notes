@@ -1,4 +1,4 @@
-_Next:_ [[🟩2 @ Syntax]]
+_Next:_ [[🟩2 @ Syntax & Functions]]
 
 ---
 

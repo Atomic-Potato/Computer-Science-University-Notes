@@ -24,6 +24,8 @@ You can use the html tags in the text string to make things bold `<b></b>` for e
 ?>
 ```
 
+Alternatively you can use `print_r($result)` which prints variables in a more human-readable way _(don’t use it for global variables, it will loop infinitely)_
+
 ---
 
 # `$`Variables
@@ -67,8 +69,38 @@ You can also `Typecast`  just as in C
 	$tab2 = [2, 54, 2, 87];
 	echo "$tab[0]<br>";
 	echo "$tab2[0]<br>";
+	
+	$tab[] = "Name" // pushes Name at the end of the array
 ?>
 ```
+
+Some functions:
+- `implode($str,$tab)` : returns a string containing all values in _\$tab_ separated with _\$str_
+- `explode($delim,$str)` : returns an array of strings with separator _\$delim_
+-  `shuffle($tab)` 
+
+## Associative Arrays
+Exactly like a dictionary in python
+```php
+<?php 
+	$person = array("Name"=> "Jana" , "Family"=>"Al Sabeh");
+	$person["Name"]; //returns Jana
+	$person["Family"]; //returns Al Sabeh
+	
+	// This isnt my name btw, im just copying this girls notes heh, so credits to her
+?>
+```
+
+You can loop through this array like so
+```php
+<?php
+	foreach($person as $elem){/* $elem represents the value (not keys) */}
+	foreach($person as $key =>$elem){/* Access both key and value */}
+?>
+```
+
+Some functions:
+`Array_count_values($tab)` : returns an associative array containing the values of _\$tab_ as keys and their frequencies as values _(useful to check redundancy)_
 
 ## Operators
 All of these are the same as in C:
@@ -77,6 +109,8 @@ All of these are the same as in C:
 - Logical operators (&&, ||)
 - Comparison operators
 - Ternary operator
+- `===` compares values & types
+
 
 ## Some useful functions for variables
 - `empty($var)` : returns true if the variable is empty
@@ -120,6 +154,31 @@ Its inconsistent as fuck
 # Strings
 To concatenate strings you use the `.` dot operator. You can use it like this `.=` as well for assignment.
 
+Some of the string functions:
+- `strlen($str)`
+- `strtolower($str)` 
+- `strtoupper($str)` 
+- `trim($str)` : removes extra spaces at the beginning & end of a string
+- `substr($str,$i, $j) `
+- `strcmp($str1,$str2)` 
+	- 0 if $str1 == $str2
+	- <0 if $str1 < $str2
+	- \>0 if $str1 \> $str2
+- `strpos($str, $val, [ $start]  )` : returns the first index of the _\$val_ (can be a string or a character) in _\$str_. _\$start_ is optional, it specifies where the index to begin the search. If it is negative, it searches from the end of the string
+- `addslashes($str)` : _(used mainly in forms)_ this function returns a new string with added / before the special characters (like “ or ‘ or \\) so that they don’t cause any unintentional effect
+- `ord($char)` : returns the ASCII value of the char
+
+# Number Formatting
+```php
+<?php number_format ($nbr ,[$dec, $a, $b])) ?> 
+// dec,$a, and $b are optional
+// $dec: number of values after the decimal point
+// $a: character to separate the integer part and decimal part (default is . )
+// $b: character that separates the thousands in the integer part (default is , )
+```
+
+_Example:_
+![[Pasted image 20230123090723.png|400]]
 ---
 
 # Conditional Statements & Loops
@@ -131,6 +190,7 @@ Same as C
 	else{}
 	
 	for($i=0;$i<5;$i++){break;}
+	foreach($array as $element){break;}
 	while("condition"){break;}
 	do{
 	}while("condition");
@@ -148,50 +208,18 @@ Same as in C
 ?>
 ```
 
+# Functions
+```php
+<?php
+	function someFunction($parameter){
+		echo "Some function with parameter: $parameter<br>";
+		return 1;
+	}
+?>
+```
+
+Note that we dont need to specify the arguments type nor the return type. 
+Also calling the function is case insensitive. So _someFunction()_ is the same as _Some Function()_ 
+
 ---
 
-# `Get` & `Post`
-`Get` and `Post` are used to send data to other pages (either though a form or a link).
-
-Take this form for example:
-```html
-<form action = "ActionPage.php" method = "get/post"> // For the method only use either get or post
-	Name: <input type ="text" name="username">       // This is just for example sake
-	Email: <input type="text" name="email">
-	<input type="submit" name="submit" value="send">
-</form>
-```
-<form action = "ActionPage.php" method = "get/post">
-	Name: <input type ="text" name="username">
-	Email: <input type="text" name="email">
-	<input type="submit" name="submit" value="send">
-</form>
-
-First thing, when the player (i mean user, too much game dev) presses the submit button. **He will be taken to the page specified in the `action` attribute.**
-
-Now because we specified `get` or `post` in the `method` attribute. Each value for an `<input>` tag with a `name` attribute will be sent to the `action` page in the form of a _dictionary like in python_ **where the key is the `name` and the value is well... the value of the input.** 
-
-To access the data in this dictionary we use the specified `method` as the dictionary name.
-```php
-<?php
-	// if we used the get method
-	$_GET["key_name"] // remember the key_name is the name of the <input> tag
-	// if we used the post method
-	$_POST["key_name"]
-?>
-```
-
-It's also quite **IMPORTANT** to check if the values were sent by using the `isset()` function on submit button dictionary key (`"submit"` in this case) before trying to access them.
-```php
-<?php
-	if(isset($_GET["submit"]))
-?>
-```
-
-## `GET` VS `POST` (post wins)
-- `GET`:
-	- Cons: adds the name & values of the forum in the URL
-	- Pros: I can send a variable to a page through the URL (like sending back data/errors to the page)
-	![[Pasted image 20221212190250.png]]
-- `POST`: no variables are added to the URL 
-	![[Pasted image 20221212190307.png]]

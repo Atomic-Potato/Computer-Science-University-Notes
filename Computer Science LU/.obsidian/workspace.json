@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ef5f3a02e39e710a",
+        "id": "4d0552f1ea487a41",
         "type": "tabs",
         "children": [
           {
-            "id": "1a72cd243f0d90d0",
+            "id": "f76c177e7ce465bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦2 # Forms/🟩4 @ Browsing Directories.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "807ec3f147694d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦2 # Forms/🟩5 @ Browsing Files.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interface",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.01103591918945
+    "width": 481.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦2 # Forms/🟩5 @ Browsing Files.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦2 # Forms/🟩5 @ Browsing Files.md"
+              }
             }
           }
         ]
@@ -355,17 +376,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "1a72cd243f0d90d0",
+  "active": "807ec3f147694d57",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦1 # Modularity & Object/🟩3 @ Important Examples.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [60.00](5) % I2211 - Java Object Oriented Programming/🟦1 # Java/🟩9 @ Abstract & Interfaces.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩4 @ Composite Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩5 @ Proxy Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩3 @ Bridge Pattern.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦2 # Forms/🟩4 @ Browsing Directories.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦2 # Forms/🟩3 @ Uploading Files.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦1 # PHP Language/🟩2 @ Syntax & Functions.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦1 # PHP Language/🟩1 @ What is PHP.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟧Misc Notes.md",
+    "Computer Science LU/Year 3/Semester 1/- To Do List.md",
     "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩2 @ Flyweight Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦2 # Design Patterns & The Creational Patterns/🟩3 @ Builder Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦2 # Design Patterns & The Creational Patterns/🟩1 @ Design Patterns.md"
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/I3302 Pictures/Pasted image 20230123090723.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/I3302 Pictures/Pasted image 20230124092407.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦2 # Forms/🟩2 @ Redirection To Pages.md"
   ]
 }
