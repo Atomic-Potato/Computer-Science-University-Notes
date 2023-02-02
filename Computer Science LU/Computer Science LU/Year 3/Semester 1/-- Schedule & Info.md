@@ -5,3 +5,5 @@
 - `I3302:` https://app.box.com/s/7x24o3ftpqg0ew44oq0t6tlze40keojn
 - `I3305:` https://classroom.google.com/c/NTc4MTExNzk1NjE2?cjc=7r4oz2q
 - `I3301:` https://classroom.google.com/c/NTc4MTEyODIyMTcw?cjc=o2lsjt6
+
+DB & PHP `(8th)` -> NET & SE `(14th)` -> OS & GUI `(21st)` -> ANDROID & LAW `(26th)`

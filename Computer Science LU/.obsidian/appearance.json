@@ -1,7 +1,7 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 21,
   "translucency": false,
   "cssTheme": "Mado Miniflow",
-  "accentColor": "#ff8080",
+  "accentColor": "#4ae3d9",
   "theme": "obsidian"
 }

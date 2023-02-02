@@ -41,6 +41,8 @@ It's also quite **IMPORTANT** to check if the values were sent by using the `iss
 ```
 This variable is equivalent to the name of the current script and the action indicates that the script is reloading itself.
 
+_(For some reason for me i dont have access to it, so just use the same php file name as the action)_
+
 # `GET` VS `POST` (post wins)
 - `GET`:
 	- Cons: adds the name & values of the forum in the URL

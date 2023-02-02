@@ -26,6 +26,8 @@ You can use the html tags in the text string to make things bold `<b></b>` for e
 
 Alternatively you can use `print_r($result)` which prints variables in a more human-readable way _(don’t use it for global variables, it will loop infinitely)_
 
+**_Note:_** We can echo html tags as you saw earlier 
+
 ---
 
 # `$`Variables
