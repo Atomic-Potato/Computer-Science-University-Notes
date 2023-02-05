@@ -32,7 +32,7 @@ _Next:_ [[🟩3 @ Requirement Categories]]
 - `Vague commands:` Words like minimize, maximize, improve, and optimize.
 
 # MOSCOW Method
-Requirements must be **prioritized.** If you’ve assigned costs (usually in terms of time to implement) and  priorities to the requirements, then you can defer the high‐cost, low‐priority requirements until a later release.
+Requirements must be **prioritized.** If you’ve assigned costs _(usually in terms of time to implement)_ and  priorities to the requirements, then you can defer the high‐cost, low‐priority requirements until a later release.
 
 We use the `moscow` method to split prioritization into sections:
 - `M—Must`: These are required features that must be included. They are necessary for the project to be considered a success.

@@ -26,11 +26,11 @@
 
 # Papers to sign in to the faculty (End date: unkwon)
 - [x] صورة شمسية مصدقة لدى المختار
-- [x] صورة عن بطاقة الجامعة
+- [ ] صورة عن بطاقة الجامعة
 - [ ] إفادة ضمان إذا كان الطالب مضمون وإن لم يكن مضمونا عليه إحضار رقم ضمانه من الجامعة.
-- [ ] ورقة تسجيل مواد(موجودة لدى رئيس قسم كل اختصاص)
-- [x] طابع مالي
-- [ ] طلب التسجيل 
+- [ ] Dr Zainab ورقة تسجيل مواد(موجودة لدى رئيس قسم)
+- [ ] (fi hed el 7ed el jem3a w men 3end koliyit el handase) طابع مالي
+- [ ] (men 3end majles sh2oun el tolab)طلب التسجيل 
 # Paper to apply for dorms
 - [ ] Soura 3an beta2it el tesjil aw rosoum el tesjil
 - [ ] 2ifedit naje7 men el kolliye ma3 el mo3adal

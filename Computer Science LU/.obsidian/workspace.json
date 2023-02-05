@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06ea3c49659e2037",
+            "id": "abf479ca53aac6d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦3 # Sessions/🟩2 @ Cookies.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19c0166a729df5eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦3 # Sessions/🟩3 @ Sessions.md",
+                "file": "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "link",
+                "query": "enviroment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.01103591918945
+    "width": 654.0110359191895,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦3 # Sessions/🟩3 @ Sessions.md",
+                "file": "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦3 # Sessions/🟩3 @ Sessions.md"
+                "file": "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md"
               }
             }
           }
@@ -375,17 +363,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "19c0166a729df5eb",
+  "active": "abf479ca53aac6d3",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦3 # Sessions/🟩2 @ Cookies.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦3 # Sessions/🟩3 @ Sessions.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦3 # Sessions/🟩1 @ Hidden Fields & Mails.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/I3306 Pictures/Pasted image 20230201220102.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦3 # Query Processing/🟩1 @ Query Processing.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦2 # Indexing/🟩1 @ Indexing.md",
+    "Personal Notes/General ToDo List.md",
     "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
-    "Computer Science LU/Year 3/Semester 1/- To Do List.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/I3306 Pictures/Pasted image 20230201213746.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/I3306 Pictures/Pasted image 20230201213757.png"
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦4 # Database/🟩3 @ Example & PHPMyAdmin.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦4 # Database/🟩2 @ Using MySQLi.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦4 # Database/🟩1 @ Database.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩2 @ Requirements.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩6 @ Software Requirements Specification (SRS).md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩5 @ Processing The Requirements.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩4 @ Gathering Requirements.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩3 @ Requirement Categories.md"
   ]
 }
