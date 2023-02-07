@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/6 # UML - Class Diagrams/1 @ Class Diagrams.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "50ece9098a46f9d4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20230207203204.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.0110359191895,
-    "collapsed": true
+    "width": 507
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20230207203204.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20230207203204.png"
               }
             }
           }
@@ -363,17 +373,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "abf479ca53aac6d3",
+  "active": "a133da79ec1f1a5a",
   "lastOpenFiles": [
-    "Personal Notes/General ToDo List.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/7 # UML - Sequence Diagram/1 @ Sequence Diagram.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Screen Shot 2023-02-07 at 8.19.08 PM.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/6 # UML - Class Diagrams/1 @ Class Diagrams.md",
     "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
+    "Personal Notes/General ToDo List.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦4 # Database/🟩3 @ Example & PHPMyAdmin.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦4 # Database/🟩2 @ Using MySQLi.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦4 # Database/🟩1 @ Database.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩2 @ Requirements.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩6 @ Software Requirements Specification (SRS).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩5 @ Processing The Requirements.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩4 @ Gathering Requirements.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩3 @ Requirement Categories.md"
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩6 @ Software Requirements Specification (SRS).md"
   ]
 }
