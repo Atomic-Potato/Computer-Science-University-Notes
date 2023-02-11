@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩1 @ Behavioral Patterns.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩1 @ Behavioral Patterns.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩1 @ Behavioral Patterns.md"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md"
               }
             }
           }
@@ -389,8 +389,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a133da79ec1f1a5a",
+  "active": "6b72c670968ec6e3",
   "lastOpenFiles": [
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦2 # Design Patterns & The Creational Patterns/🟩1 @ Design Patterns.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩1 @ Behavioral Patterns.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230210144438.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩6 @ Observer-MVC.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩5 @ Observer.md",
@@ -398,8 +400,6 @@
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩3 @ Visitor.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩4 @ Composite Pattern.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩2 @ Iterator.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩1 @ Behavioral Patterns.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟩3@ Inter-Process Communication.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md"
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟩3@ Inter-Process Communication.md"
   ]
 }
