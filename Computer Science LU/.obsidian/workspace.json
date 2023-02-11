@@ -8,13 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "abf479ca53aac6d3",
+            "id": "6b72c670968ec6e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
-                "mode": "source",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩1 @ Behavioral Patterns.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a85923aa362021a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩4 @ Composite Pattern.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enviroment",
+                "query": "static",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 654.0110359191895,
+    "width": 396.51103591918945,
     "collapsed": true
   },
   "right": {
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩1 @ Behavioral Patterns.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩1 @ Behavioral Patterns.md"
               }
             }
           }
@@ -346,6 +358,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "8eac8bdec0ee628a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a378a5b09caa1235",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -363,17 +389,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "abf479ca53aac6d3",
+  "active": "a133da79ec1f1a5a",
   "lastOpenFiles": [
-    "Personal Notes/General ToDo List.md",
-    "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦4 # Database/🟩3 @ Example & PHPMyAdmin.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦4 # Database/🟩2 @ Using MySQLi.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦4 # Database/🟩1 @ Database.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩2 @ Requirements.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩6 @ Software Requirements Specification (SRS).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩5 @ Processing The Requirements.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩4 @ Gathering Requirements.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩3 @ Requirement Categories.md"
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230210144438.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩6 @ Observer-MVC.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩5 @ Observer.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩4 @ Strategy.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩3 @ Visitor.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩4 @ Composite Pattern.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩2 @ Iterator.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩1 @ Behavioral Patterns.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟩3@ Inter-Process Communication.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md"
   ]
 }
