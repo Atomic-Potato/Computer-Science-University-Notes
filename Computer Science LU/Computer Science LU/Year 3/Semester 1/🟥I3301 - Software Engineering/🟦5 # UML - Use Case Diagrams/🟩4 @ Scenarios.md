@@ -1,5 +1,5 @@
 _Next:_ [[🟩5 @ Detailed Textual Description (DTD)]]
-_Previous:_ [[🟩3@ Relationships Among Use Cases]]
+_Previous:_ [[🟩3 @ Relationships Among Use Cases]]
 
 ---
 
@@ -24,4 +24,4 @@ _Example:_
 ---
 
 _Next:_ [[🟩5 @ Detailed Textual Description (DTD)]]
-_Previous:_ [[🟩3@ Relationships Among Use Cases]]
+_Previous:_ [[🟩3 @ Relationships Among Use Cases]]

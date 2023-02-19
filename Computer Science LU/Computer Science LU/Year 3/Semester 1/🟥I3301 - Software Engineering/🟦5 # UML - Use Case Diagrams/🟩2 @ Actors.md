@@ -1,4 +1,4 @@
-_Next:_ [[🟩3@ Relationships Among Use Cases]]
+_Next:_ [[🟩3 @ Relationships Among Use Cases]]
 _Previous:_ [[🟩1 @ Unified Modeling Language (UML)]]
 
 ---
@@ -31,5 +31,5 @@ Actor B inherits actor A if all what A can do, B can do too
 ![[Pasted image 20221230210433.png | 600]]
 
 ---
-_Next:_ [[🟩3@ Relationships Among Use Cases]]
+_Next:_ [[🟩3 @ Relationships Among Use Cases]]
 _Previous:_ [[🟩1 @ Unified Modeling Language (UML)]]

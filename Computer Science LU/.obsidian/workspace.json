@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4d0552f1ea487a41",
+        "id": "997f4fd54de942b4",
         "type": "tabs",
         "children": [
           {
-            "id": "6b72c670968ec6e3",
+            "id": "37897a6508f56cfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a85923aa362021a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩4 @ Composite Pattern.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "static",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.51103591918945,
-    "collapsed": true
+    "width": 599.0110359191895
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -389,17 +369,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "6b72c670968ec6e3",
+  "active": "37897a6508f56cfd",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦2 # Design Patterns & The Creational Patterns/🟩1 @ Design Patterns.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩1 @ Behavioral Patterns.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230210144438.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩6 @ Observer-MVC.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩5 @ Observer.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩4 @ Strategy.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩3 @ Visitor.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩4 @ Composite Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩2 @ Iterator.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟩3@ Inter-Process Communication.md"
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩5 @ Detailed Textual Description (DTD).md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦9 # High-Level Design/1 @ High-Level Design.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦7 # UML - Sequence Diagram/1 @ Sequence Diagram.md",
+    "Excalidraw/Drawing 2023-02-18 14.37.01.excalidraw.md",
+    "Excalidraw/Amigos Unidos Sequence Diagram Billing Account.md",
+    "Excalidraw/Amigos Unidos Sequence Diagram Chatting.md",
+    "Excalidraw/Amigos Unidos Sequence Diagram Money Transaction.md",
+    "Excalidraw/Use_case_diagrams_SRS.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩3 @ Relationships Among Use Cases.md",
+    "Excalidraw/Amigos Unidos Marketplace State Diagram.md"
   ]
 }

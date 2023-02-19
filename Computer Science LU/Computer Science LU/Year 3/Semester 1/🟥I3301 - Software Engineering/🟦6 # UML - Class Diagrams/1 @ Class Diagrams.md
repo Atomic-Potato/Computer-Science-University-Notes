@@ -1,4 +1,4 @@
-A class diagram is static, structural view of the system. And it describes classes and their struvture relationships among classes.
+A class diagram is static, structural view of the system. And it describes classes and their structure relationships among classes.
 
 # The parts of a class diagram
 - `Classes : ` represnt the types of data themselves
@@ -68,7 +68,7 @@ For example, “a student has a name” is a composition relationship between th
 ## `Generalization` 
 X is a Y, represented with a straight line and a hollow arrow
 
-[[🟩3@ Relationships Among Use Cases#Generalizes|It is the sane as in a use case diagram]]
+[[🟩3 @ Relationships Among Use Cases#Generalizes|It is the sane as in a use case diagram]]
 
 ## `Implementation` _(interfaces)_
 An interface describes a portion of the visible behaviour of a set of objects.

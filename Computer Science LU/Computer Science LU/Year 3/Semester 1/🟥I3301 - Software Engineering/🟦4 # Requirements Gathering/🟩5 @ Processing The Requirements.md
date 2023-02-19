@@ -49,7 +49,7 @@ There are 3 types of analysis
 ---
 
 # Recording Requirements
-**Note:** If you're still struggling to understand this part, it will be explained in detail in this chapter -> [[INSERT NOTE LINK]]
+**Note:** If you're still struggling to understand this part, it will be explained in detail in this chapter -> [[INSERT NOTE LINK]] _(i forgot which chapter)_
 
 You can just write the requirements down as a **sequence of commandments**
 
