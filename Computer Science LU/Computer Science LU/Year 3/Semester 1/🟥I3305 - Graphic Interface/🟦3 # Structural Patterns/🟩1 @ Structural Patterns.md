@@ -13,3 +13,5 @@ Patterns presented:
 - [[🟩3 @ Bridge Pattern|Bridge]]
 - [[🟩4 @ Composite Pattern|Composite]]
 - [[🟩5 @ Proxy Pattern|Proxy]]
+- [[🟩6 @ Adapter Pattern|Adapter]]
+- [[🟩7 @ Facade Pattern|Facade]]
