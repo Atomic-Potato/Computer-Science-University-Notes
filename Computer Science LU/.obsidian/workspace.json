@@ -16,8 +16,21 @@
                 "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦5 # JavaFX/🟩2 @ SceneBuilder.pdf"
               }
             }
+          },
+          {
+            "id": "8adceaf9ecb1d870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦6 # Java Database Connectivity/🟩1 @ JDBC.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 599.0110359191895,
+    "width": 384.01103591918945,
     "collapsed": true
   },
   "right": {
@@ -84,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦5 # JavaFX/🟩2 @ SceneBuilder.pdf",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦6 # Java Database Connectivity/🟩1 @ JDBC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦5 # JavaFX/🟩2 @ SceneBuilder.pdf"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦6 # Java Database Connectivity/🟩1 @ JDBC.md"
               }
             }
           }
@@ -375,8 +388,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "37897a6508f56cfd",
+  "active": "8adceaf9ecb1d870",
   "lastOpenFiles": [
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦5 # JavaFX/🟩2 @ SceneBuilder.pdf",
     "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
     "Computer Science LU/Year 3/Semester 1/- To Do List.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230220121847.png",
@@ -385,7 +399,6 @@
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩6 @ Adapter Pattern.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦6 # UML - Class Diagrams/1 @ Class Diagrams.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩5 @ Detailed Textual Description (DTD).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦9 # High-Level Design/1 @ High-Level Design.md"
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩5 @ Detailed Textual Description (DTD).md"
   ]
 }
