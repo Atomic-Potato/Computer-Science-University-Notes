@@ -11,9 +11,9 @@
             "id": "37897a6508f56cfd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230220121847.png"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦5 # JavaFX/🟩2 @ SceneBuilder.pdf"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 599.0110359191895
+    "width": 599.0110359191895,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230220121847.png",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦5 # JavaFX/🟩2 @ SceneBuilder.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230220121847.png"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦5 # JavaFX/🟩2 @ SceneBuilder.pdf"
               }
             }
           }
@@ -374,17 +375,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a133da79ec1f1a5a",
+  "active": "37897a6508f56cfd",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230220121947.png",
+    "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
+    "Computer Science LU/Year 3/Semester 1/- To Do List.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230220121847.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230220121947.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩7 @ Facade Pattern.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩6 @ Adapter Pattern.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦6 # UML - Class Diagrams/1 @ Class Diagrams.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩5 @ Detailed Textual Description (DTD).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦9 # High-Level Design/1 @ High-Level Design.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦7 # UML - Sequence Diagram/1 @ Sequence Diagram.md",
-    "Excalidraw/Drawing 2023-02-18 14.37.01.excalidraw.md"
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦9 # High-Level Design/1 @ High-Level Design.md"
   ]
 }
