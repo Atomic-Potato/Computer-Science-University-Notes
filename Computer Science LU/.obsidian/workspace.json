@@ -4,29 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "997f4fd54de942b4",
+        "id": "780e1998a4eeec2c",
         "type": "tabs",
         "children": [
           {
-            "id": "37897a6508f56cfd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦5 # JavaFX/🟩2 @ SceneBuilder.pdf"
-              }
-            }
-          },
-          {
-            "id": "8adceaf9ecb1d870",
+            "id": "b2d6b7259dffece6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦6 # Java Database Connectivity/🟩1 @ JDBC.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦11 # Testing/🟩1 @ Testing.md",
                 "mode": "preview",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "886f769f4d0e50a6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -80,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.01103591918945,
-    "collapsed": true
+    "width": 384.01103591918945
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -97,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦6 # Java Database Connectivity/🟩1 @ JDBC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦6 # Java Database Connectivity/🟩1 @ JDBC.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -388,17 +382,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8adceaf9ecb1d870",
+  "active": "886f769f4d0e50a6",
   "lastOpenFiles": [
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦6 # UML - Class Diagrams/1 @ Class Diagrams.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦11 # Testing/🟩2 @ JUnit.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20230221180635.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦8.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦11 # Testing/🟩1 @ Testing.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230220183008.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦6 # Java Database Connectivity/🟩1 @ JDBC.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦5 # JavaFX/🟩2 @ SceneBuilder.pdf",
     "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
-    "Computer Science LU/Year 3/Semester 1/- To Do List.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230220121847.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230220121947.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩7 @ Facade Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩6 @ Adapter Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦6 # UML - Class Diagrams/1 @ Class Diagrams.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩5 @ Detailed Textual Description (DTD).md"
+    "Computer Science LU/Year 3/Semester 1/- To Do List.md"
   ]
 }

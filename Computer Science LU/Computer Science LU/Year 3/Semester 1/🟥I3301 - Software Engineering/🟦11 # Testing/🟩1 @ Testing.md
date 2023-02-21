@@ -1,3 +1,7 @@
+_Next [[🟩2 @ JUnit]]_
+
+---
+
 This chapter is gonna be a little scattered since a lot of things are trivial and i kept only things that are worth highlighting.
 
 ---
@@ -143,3 +147,7 @@ Examine the code’s method and look for other possibly unrelated bugs.
 
 Make sure your fix doesn’t introduce a new bug.
 - The chances of a line of modified code containing a bug are much higher than those for an original line of code.
+
+---
+
+_Next [[🟩2 @ JUnit]]_

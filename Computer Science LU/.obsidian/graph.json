@@ -15,24 +15,24 @@
       }
     },
     {
-      "query": "path:\"Computer Science LU/Year 2 [15.2]/Semester 2 [16.21]/🟥DONE [80.00](4) % I2209 - Logical Programming\"",
+      "query": "path:\"Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface\"",
       "color": {
         "a": 1,
-        "rgb": 6749952
+        "rgb": 5431378
       }
     },
     {
-      "query": "path:\"Computer Science LU/Year 2 [15.2]/Semester 1 [13.36]/🟥DONE[53.00](4) - I2202 Digital Fundamentals\"",
+      "query": "path:\"Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP\"",
       "color": {
         "a": 1,
-        "rgb": 3102446
+        "rgb": 11861536
       }
     },
     {
-      "query": "path:",
+      "query": "path:\"Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application\"",
       "color": {
         "a": 1,
-        "rgb": 7885536
+        "rgb": 26838
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 9.50308252246899,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.12034064761290345,
-  "close": false
+  "scale": 0.2365362874537817,
+  "close": true
 }
