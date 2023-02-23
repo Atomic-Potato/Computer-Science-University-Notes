@@ -62,7 +62,7 @@ This is used to resolve the problem of large network sizes.
 
 >To make a subnet mask we change the 0s inside the `default mask`
 >The number of subnets is determined by the number of extra 1s.
-> - If the number of extra 1s in `n`, **the number of subnets is 2^n** .
+> - If the number of extra 1s is `n`, **the number of subnets is 2^n** .
  >- If the number of subnets is `N`, **the number of extra 1s is $\large log_2(N)$**.
 
 *For example:*

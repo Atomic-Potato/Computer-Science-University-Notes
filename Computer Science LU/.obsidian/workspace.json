@@ -8,27 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2d6b7259dffece6",
+            "id": "a757f390daf9bbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦11 # Testing/🟩1 @ Testing.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Transport Layer/🟩1 @ ICMP & Trace Route.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "886f769f4d0e50a6",
+            "id": "ae3f4b5692e6d29e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/thinking.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.01103591918945
+    "width": 538.0110359191895
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -94,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Transport Layer/🟩1 @ ICMP & Trace Route.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Transport Layer/🟩1 @ ICMP & Trace Route.md"
+              }
             }
           }
         ]
@@ -382,17 +386,26 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "886f769f4d0e50a6",
+  "active": "a757f390daf9bbc6",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦6 # UML - Class Diagrams/1 @ Class Diagrams.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦11 # Testing/🟩2 @ JUnit.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/I3301 Pictures/Pasted image 20230221180635.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦8.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦11 # Testing/🟩1 @ Testing.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/I3305 Pics/Pasted image 20230220183008.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦6 # Java Database Connectivity/🟩1 @ JDBC.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦5 # JavaFX/🟩2 @ SceneBuilder.pdf",
-    "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
-    "Computer Science LU/Year 3/Semester 1/- To Do List.md"
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Transport Layer/🟩2 @ Transport Layer Services.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Transport Layer/🟩3 @ Multiplexing & De-Multiplexing.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Transport Layer/🟩4 @ User Datagram Protocol (UDP).md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Transport Layer/🟩5 @ Transmission Control Protocol (TCP).md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Intro To Routing/🟩1 @ Routing.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/Misc Notes.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230222190000.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230223152321.png",
+    "Excalidraw/thinking.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230223151248.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230223150535.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230223145804.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230223142457.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230223142352.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230223131540.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230223130457.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦8 # State Diagram/1 @ State or Statechart Diagram.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230222175236.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Transport Layer/🟩1 @ ICMP & Trace Route.md"
   ]
 }

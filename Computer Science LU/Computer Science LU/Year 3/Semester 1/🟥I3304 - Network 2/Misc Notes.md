@@ -1,0 +1,1 @@
+The domain name of a website _(like google.com)_ is human readable version of the IP of that domain.
