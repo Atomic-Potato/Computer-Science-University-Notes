@@ -22,7 +22,7 @@ When nth datagram arrives to nth router, then:
 - The router discards the datagram.
 - The router sends to the source an ICMP message _(of type 11 and code 0)_. 
 - The datagram sent from the sauce includes router IP address. 
-- Traceroute does a DNS lookup _([[|INSERT DNS NOTE]])_ to find the name of the router _(if it has it)_ 
+- Traceroute does a [[🟩3 @ Domain Name System (DNS)|DNS]] lookup  to find the name of the router _(if it has it)_ 
 
 When the ICMP message arrives, the source calculates the RTT. Treaceroute repeats this process 3 times to ge the average RTT.
 _(Round-trip time (RTT) is the duration in milliseconds it takes for a network request to go from a starting point to a destination and back again to the starting point.)_

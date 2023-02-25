@@ -1,3 +1,9 @@
+_Next [[🟩3 @ Static Routing]]_
+_Previous [[🟩1 @ Routers]]_
+
+---
+
+
 Routers use `static routes` and `dynamic routing` protocols to learn about remote networks and build their routing tables.
 Then they use these tables to determine the best path to send packets. 
 
@@ -14,25 +20,31 @@ _For example:_
 ![[Pasted image 20230222101246.png|600]]
 R2's routing table is 1 hop from network _192.168.1.0/24_ and _192.168.4.0/24_. And directly connected to network _192.168.2.0/24_ and _192.168.3.0/24_
 
+## Remote networks routing entries
+![[Pasted image 20230225103055.png|700]]
+
+## Directly connected routing table entries
+![[Pasted image 20230225103325.png|700]]
+
 ## How does it work
 1. Computer sends a packet to a router
 2. router receives packet & analyzes according to the routing table, to determine the most efficient path to send the packet
 3. Routers keep on routing the packet
-4. Packet reaches a router that is on the same network as the desitination IP
+4. Packet reaches a router that is on the same network as the destination IP
 
 **_Note:_** The address `0.0.0.0` is for any destination address, i.e. broadcast i think.
 
 ---
 
 # Static & Dynamic Routing
-There are 2 types of routing:
+A router can learn about remote networks in one of two ways:
 
-## Static Routing
-**Each router must be configured & adjusterd mannually by the admin**
+## [[🟩3 @ Static Routing|Static Routing]]
+**Each router must be configured & adjusted manually by the admin**
 
 This type is good for small non-redundant networks. And its often used in conjunction with dynamic routing protocol for configuring a default route.
 
-## Dynamic Routing
+## [[🟩4 @ Dynamic Routing Algorithms|Dynamic Routing]]
 **Protocols that span and build a routing table**
 
 This table is dynamic, i.e. it keeps updating the paths. _(so if theres a node down, it builds an alternate path)_
@@ -96,3 +108,32 @@ To see the ARP table of your network, use `arp -a` command in cmd.
 - R3 forwards the packet to PC2
   ![[Pasted image 20230222104222.png]]
   ![[Pasted image 20230222104057.png]]
+
+# Path Determination
+
+## Routing Decisions
+![[Pasted image 20230225100632.png|700]]
+
+## Best Path
+Best path is selected by a routing protocol based on the value or metric it uses to determine the distance to reach a network.
+==**Note:** A metric is the value used to measure the distance to a given network. Best path to a network is the path with the lowest metric.==
+
+Dynamic routing protocols use their own rules and metrics to build and update routing tables, which are:
+- [[Routing Information Protocol (RIP)]]: Hop count
+- [[Open Shortest Path First (OSPF):]] Cost based on cumulative bandwidth from source to destination
+- [[Enhanced Interior Gateway Routing Protocol (EIGRP)]]: Bandwidth, delay, load, reliability
+
+## Load Balancing
+When a router has two or more paths to a destination with equal cost metrics, then the router forwards the packets using both paths equally.
+![[Pasted image 20230225102431.png|300]]
+
+## Administrative Distance
+When multiple paths to the same destination are available in its routing
+table, the router uses the route with the **lowest Administrative Distance
+_(AD)_** _(A static route with an AD of 1 is more reliable than an EIGRP-discovered route
+with an AD of 90.)_
+![[Pasted image 20230225102632.png|600]]
+
+---
+_Next [[🟩3 @ Static Routing]]_
+_Previous [[🟩1 @ Routers]]_
