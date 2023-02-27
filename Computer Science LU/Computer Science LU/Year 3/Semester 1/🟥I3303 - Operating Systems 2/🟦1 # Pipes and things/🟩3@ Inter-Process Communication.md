@@ -52,8 +52,8 @@ read(fd[0], &x, 10*sizeof(int));
 ```
 
 ## Syncing with pipes
-_Reminder of block statement: 
-A block statement, or compound statement, **lets you group any number of data definitions, declarations, and statements into one statement**. All definitions, declarations, and statements enclosed within a single set of braces are treated as a single statement. You can use a block wherever a single statement is allowed._
+**_Reminder of block statement:_** 
+_A block statement, or compound statement, **lets you group any number of data definitions, declarations, and statements into one statement**. All definitions, declarations, and statements enclosed within a single set of braces are treated as a single statement. You can use a block wherever a single statement is allowed._
 
 - Reading from empty pipe is a blocking statement **if there is a  writer in other side**. Pipe is empty while the writer is still not closed. So the pipe waits until the writer writes something in order to read it.
 - Writing in full pipe is a blocking statement **if there is a reader in other side**. Pipe is full while the reader is not closed. pipe waits until the reader reads something so it gives the pipe space to write.
@@ -108,7 +108,7 @@ if(!fork()){
 	close(desc[1]);
 	nb = read(desc[0],reception,100);
 	printf("the child read %d characters --> %s\n",nb,reception);
-	close(fd[0]);
+	close(desc[0]);
 }
 else{
 	close(desc[0]);
@@ -192,8 +192,9 @@ We use the following function
 ```c
 int mkfifo(char *filename, mode-t mode)
 // Mode can be: 0666, 0777 (i have no idea whats the difference but youre welcome)
+// EDIT: the mode is the read and write things for each user
 ```
-(Returns `-1 failure`, `0 success`)
+_(Returns `-1 failure`, `0 success`)_
 
 To make a FIFO through the terminal we type the following command
 ```c
@@ -201,6 +202,30 @@ mkfifo canal // creates a named pipe named canal
 ```
 
 ## Using a FIFO
+Each process who wants to use a pipe file, it must open it using the `open()` function
 ```c
-int fd = open("canal"/*,...*/);
+int fd = open(char* pipeName, permission);
+// permissions can be:
+// - O-RDONLY (read only)
+// - O-WRONLY (write only)
+// - and theres a couple more but i cant bother
+```
+
+==**NOTE:**== The FIFO must be opened at both ends simultaneously before you can proceed to do any input or output operations on it.
+
+_For example:_
+In FILE1:
+```c
+char* myfifo = "/tmp/myfifo";
+mkfifo(myfifo, 0666);
+int fd = open(myfifo, O_WRONLY);
+// do your stuff
+close(fd);
+```
+In FILE2:
+```c
+char* myfifo = "/tmp/myfifo";
+int fd = open(myfifo, O_RDONLY);
+// do your stuff
+close(fd);
 ```

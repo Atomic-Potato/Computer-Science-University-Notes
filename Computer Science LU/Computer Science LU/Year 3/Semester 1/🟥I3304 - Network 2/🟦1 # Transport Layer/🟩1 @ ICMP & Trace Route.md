@@ -12,7 +12,7 @@ ICMP messages are carried inside IP datagrams:
 The following are the codes sent in the ICMP and what they mean / what the ICMP is checking
 ![[Pasted image 20230222151036.png|400]]
 
-# Trace Route
+# Trace Route #traceroute
 In this section we will discuss how to **trace the path between a host and a router/host.**
 
 To do this, the source/host sends a series of UDP _(User Datagram protocol, its like those segment thingies)_ segments to the destination host. Fist has `TTL = 1`. second has `TTL = 2`, and so on.
@@ -24,7 +24,7 @@ When nth datagram arrives to nth router, then:
 - The datagram sent from the sauce includes router IP address. 
 - Traceroute does a [[🟩3 @ Domain Name System (DNS)|DNS]] lookup  to find the name of the router _(if it has it)_ 
 
-When the ICMP message arrives, the source calculates the RTT. Treaceroute repeats this process 3 times to ge the average RTT.
+When the ICMP message arrives, the source calculates the RTT. Traceroute repeats this process 3 times to ge the average RTT.
 _(Round-trip time (RTT) is the duration in milliseconds it takes for a network request to go from a starting point to a destination and back again to the starting point.)_
 
 This process may fail if the ICMP message returns _"port unreachable (type 3, code 3)"_, _(Maybe it doesn’t want to identify its identity)_

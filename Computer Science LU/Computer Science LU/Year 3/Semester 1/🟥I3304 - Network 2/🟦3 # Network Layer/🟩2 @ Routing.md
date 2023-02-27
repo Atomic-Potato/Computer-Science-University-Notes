@@ -64,7 +64,7 @@ _Difference between IP and MAC addresses:_
 ![[Pasted image 20230221222442.png]]
 
 The ARP protocol is responsible for finding the device that we are sending a packet to. 
-To do this it looks we get the public `IP address` of the device we're sending a packet to on the network. And then it looks into the routing table to see if it knows the `MAC address` for this `IP address`:
+To do this it looks for the public `IP address` of the device we're sending a packet to on the network. And then it looks into the routing table to see if it knows the `MAC address` for this `IP address`:
 - if so it sends the package to that `IP address.` 
 - If not it **broadcasts a message on the network** asking which device this `IP address` belongs to, and then the device with that IP responds with its `MAC address` which gets added to the routing table.
 

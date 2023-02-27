@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "73d7574fcd4e3186",
+        "id": "0aa8c7ef8bdab114",
         "type": "tabs",
         "children": [
           {
-            "id": "84865e0f77f99406",
+            "id": "3ad74e441ed8219d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩3@ Inter-Process Communication.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ISP",
-                "matchingCase": true,
+                "query": "telnet",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.0110359191895
+    "width": 538.0110359191895,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225190754.png",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩3@ Inter-Process Communication.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225190754.png"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩3@ Inter-Process Communication.md"
               }
             }
           }
@@ -372,8 +377,24 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a133da79ec1f1a5a",
+  "active": "3ad74e441ed8219d",
   "lastOpenFiles": [
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩1 @ Functions & Reminders.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦2 # Signals",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩3@ Inter-Process Communication.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩3 @ Static Routing.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩2 @ exec Family.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟨Misc Notes.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Application Layer/🟩1 @ Webb & HTTP.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩1 @ ICMP & Trace Route.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦3 # Sessions/🟩1 @ Hidden Fields & Mails.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [94.00](4) % I2208 - Network 1/🟦1 # Introduction/🟩2 @ Layers.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩2 @ Routing.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[79.95](3) - I2205 Graphs (25 bonus)/🟦13 # Network Flows/🟩1 @ Network Flows.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Wireshark/🟩1 @ Wireshark.md",
+    "Pasted image 20230227091622.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Wireshark",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩6 @ NAT & IPv6.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225191649.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225191512.png",
@@ -386,14 +407,9 @@
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225170913.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225170713.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225165619.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225165607.png",
     "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [94.00](4) % I2208 - Network 1/🟦1 # Introduction/🟩1 @ Introduction.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟨Misc Notes.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩2 @ Routing.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩3 @ Static Routing.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩1 @ Routers.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩1 @ ICMP & Trace Route.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩2 @ Dynamic Routing Intro.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩3 @ Multiplexing & De-Multiplexing.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦6 # Java Database Connectivity/🟩1 @ JDBC.md",
@@ -402,14 +418,6 @@
     "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[79.95](3) - I2205 Graphs (25 bonus)/🟦12 # Distance & Networks/🟩1 @ Single-Source Shortest Paths (SSSP).md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦6 # UML - Class Diagrams/1 @ Class Diagrams.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Application Layer/🟩3 @ Domain Name System (DNS).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Application Layer/🟩2 @ FTP.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Application Layer/🟩1 @ Webb & HTTP.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩5 @ Transmission Control Protocol (TCP).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟪 # Laravel/🟩3 @ Routes, Controllers & Views.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟪 # Laravel/🟩2 @ Basics.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Application Layer",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩4 @ User Datagram Protocol (UDP).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩2 @ Transport Layer Services.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦8 # State Diagram/1 @ State or Statechart Diagram.md"
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Application Layer"
   ]
 }
