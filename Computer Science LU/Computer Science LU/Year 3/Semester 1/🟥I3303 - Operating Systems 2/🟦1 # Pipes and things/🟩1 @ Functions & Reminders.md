@@ -2,8 +2,10 @@
 	```c
 	waitpid(int pid, int* status, int options).
 	```
-	Waits for the process with the ID `pid`
+	Waits for the process with the ID `pid` to terminate
 	One of the options would be `WNOHANG` which means the parent **should not** wait
+- `wait()`
+	blocks the calling process until one of its child processes exits or a signal is received. After child process terminates, parent _**continues**_ its execution after wait system call instruction.
 - `WIFEXITED()`
 	```c
 	int WIFEXITED(int status)

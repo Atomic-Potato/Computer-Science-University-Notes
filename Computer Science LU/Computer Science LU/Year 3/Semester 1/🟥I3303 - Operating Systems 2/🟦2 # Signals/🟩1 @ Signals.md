@@ -29,13 +29,25 @@ Here is he list of predefined signals:
 ![[Pasted image 20230227173132.png|800]]
 
 The signals are categorized into:
-- Errors
+- Errors:
+	- `SIGFPE` (8): floating point exception
+	- `SIGILL` (4): illegal instruction
+	- `SIGSEV` (11): segmentation violation
 - Explicit requests:
 	- Termination Signals
+		- `SIGTERM` (15)
+		- `SIGINT` (2)
+		- `SIGKILL`
 	- Job Control Signals
+		- `SIGCHILD` this signal is sent to the parent whenever one of its children terminates
+		- `SIGSTOP` (19): Signal that stops the process _(**not terminate it**)_
 - Alarms
 - Asynchronous I/O
+	- `SIGIO` (29)
+	- `SIGURG` (23)
 - Miscellaneous
+	- `SIGUSR1`
+	- `SIGUSR2`
 
 ## Receiving Signals
 When a signal is delivered, a specific action for that signal is taken, which is either of the following:

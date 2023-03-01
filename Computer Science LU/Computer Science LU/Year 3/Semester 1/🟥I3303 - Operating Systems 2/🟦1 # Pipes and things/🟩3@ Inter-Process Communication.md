@@ -30,7 +30,7 @@ To write and read to the pipe we use the following functions;
 - `write()`
 	Removes from the `buffer` characters of the amount `size` and puts them into `fd[1]`
 	```c
-	int write(fd[1], buffer, size);
+	int write(fd[1], buffer_address, size);
 	// size: num of characters to write
 	// buffer: zone from where the data is taken
 	```
@@ -38,12 +38,12 @@ To write and read to the pipe we use the following functions;
 - `read()`
 	Removes data from `fd[0]` of the amount `size` and puts it into the buffer.
 	```c
-	int read(fd[0], buffer, size);
+	int read(fd[0], buffer_address, size);
 	// size: num of characters to read
 	// buffer: zone to place the read data into
 	```
 
-These functions both return the number of effective characters.
+These functions both return the number of effective characters _(-1 if it fails)_.
 
 _Example:_
 ```c
@@ -51,12 +51,16 @@ int x[10];
 read(fd[0], &x, 10*sizeof(int));
 ```
 
-## Syncing with pipes
-**_Reminder of block statement:_** 
-_A block statement, or compound statement, **lets you group any number of data definitions, declarations, and statements into one statement**. All definitions, declarations, and statements enclosed within a single set of braces are treated as a single statement. You can use a block wherever a single statement is allowed._
+### Reading & Writing Pipe Queue
+The pipe created is basically a queue, so if you:
+- `write()` to the pipe, the buffer is added to the queue
+- `read()` from the pipe, the first element of the queue is **removed** into the buffer
 
-- Reading from empty pipe is a blocking statement **if there is a  writer in other side**. Pipe is empty while the writer is still not closed. So the pipe waits until the writer writes something in order to read it.
-- Writing in full pipe is a blocking statement **if there is a reader in other side**. Pipe is full while the reader is not closed. pipe waits until the reader reads something so it gives the pipe space to write.
+
+
+## Syncing with pipes
+- Reading from an **empty pipe** blocks the process _(stops it from continuing)_ **if there is another process writing from the other side**. Pipe is empty while the writer is still not closed. So the pipe waits until the writer writes something in order to read it.
+- Writing in a **full pipe** blocks the process _(stops it from continuing)_ **if there is another process reading from the other side**. Pipe is full while the reader is not closed. Pipe waits until the reader reads something so it gives the pipe space to write.
 
 ## Pipe & fork()
 If I want to use pipe as a way of communication between parent and child, I need to create a pipe before forking.
