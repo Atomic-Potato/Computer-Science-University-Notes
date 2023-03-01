@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0aa8c7ef8bdab114",
+        "id": "71e9a053da7880b5",
         "type": "tabs",
         "children": [
           {
-            "id": "3ad74e441ed8219d",
+            "id": "efacfc4cc2c58c6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩3@ Inter-Process Communication.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩1 @ Network Security.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.0110359191895,
-    "collapsed": true
+    "width": 538.0110359191895
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩3@ Inter-Process Communication.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩1 @ Network Security.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩3@ Inter-Process Communication.md"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩1 @ Network Security.md"
               }
             }
           }
@@ -377,47 +376,48 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "3ad74e441ed8219d",
+  "active": "efacfc4cc2c58c6f",
   "lastOpenFiles": [
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩2 @ Security Services.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩3 @ Cryptography.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩4 @ Digital Signature.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩1 @ Network Security.md",
+    "Pasted image 20230301105114.png",
+    "Pasted image 20230301104839.png",
+    "Pasted image 20230301104644.png",
+    "Pasted image 20230301104326.png",
+    "Pasted image 20230301103746.png",
+    "Pasted image 20230301103625.png",
+    "Pasted image 20230301101433.png",
+    "Pasted image 20230301100427.png",
+    "Pasted image 20230301095804.png",
+    "Pasted image 20230301095647.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩 @ Principle of Network Security Protocols.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦2 # Signals/🟩1 @ Signals.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦2 # Signals/Untitled.md",
+    "Excalidraw/Amigos Unidos Sequence Diagram Billing Account.md",
+    "Excalidraw/Amigos Unidos Sequence Diagram Chatting.md",
+    "Excalidraw/Amigos Unidos Posting State Diagram.md",
+    "Excalidraw/Amigos Unidos System State Diagram.md",
+    "Excalidraw/Amigos Unidos Marketplace State Diagram.md",
+    "Excalidraw/Amigos Unidos Sequence Diagram Money Transaction.md",
+    "Excalidraw/Amigos Unidos Chatting State Diagram.md",
+    "Excalidraw/Amigos Unidos UI sketch.md",
+    "Excalidraw/Use_case_diagrams_SRS.md",
+    "Excalidraw/Class_diagram_SE_project.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩1 @ Functions & Reminders.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦2 # Signals",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩2 @ exec Family.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩3@ Inter-Process Communication.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦2 # Signals",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩3 @ Static Routing.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩2 @ exec Family.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟨Misc Notes.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Application Layer/🟩1 @ Webb & HTTP.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩1 @ ICMP & Trace Route.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦3 # Sessions/🟩1 @ Hidden Fields & Mails.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [94.00](4) % I2208 - Network 1/🟦1 # Introduction/🟩2 @ Layers.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩2 @ Routing.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[79.95](3) - I2205 Graphs (25 bonus)/🟦13 # Network Flows/🟩1 @ Network Flows.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Wireshark/🟩1 @ Wireshark.md",
-    "Pasted image 20230227091622.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Wireshark",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩6 @ NAT & IPv6.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225191649.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225191512.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225191243.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225190754.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩5 @ Dynamic Routing Protocols.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225153711.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩4 @ Dynamic Routing Algorithms.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225171224.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225170913.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225170713.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230225165619.png",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [94.00](4) % I2208 - Network 1/🟦1 # Introduction/🟩1 @ Introduction.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩1 @ Routers.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer/🟩2 @ Dynamic Routing Intro.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩3 @ Multiplexing & De-Multiplexing.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦6 # Java Database Connectivity/🟩1 @ JDBC.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦3 # Network Layer",
-    "Excalidraw/thinking.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[79.95](3) - I2205 Graphs (25 bonus)/🟦12 # Distance & Networks/🟩1 @ Single-Source Shortest Paths (SSSP).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦6 # UML - Class Diagrams/1 @ Class Diagrams.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Application Layer/🟩3 @ Domain Name System (DNS).md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Application Layer"
   ]
 }

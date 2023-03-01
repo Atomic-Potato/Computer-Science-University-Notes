@@ -29,7 +29,8 @@
 	int sleep(int seconds)
 	```
 	stops the process for `seconds` seconds
-
+- `pause()`
+  pauses the process completely until it receives a [[🟩1 @ Signals|SIGCONT]]
 --- 
 
 # Orphan, Zombie, Normal

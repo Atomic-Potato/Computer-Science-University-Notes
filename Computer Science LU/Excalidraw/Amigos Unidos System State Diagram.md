@@ -1263,7 +1263,7 @@ started creating a post ^gc1FZB19
 	],
 	"appState": {
 		"theme": "dark",
-		"viewBackgroundColor": "#ffffff",
+		"viewBackgroundColor": "#d1d1d1",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
