@@ -18,24 +18,12 @@
             }
           },
           {
-            "id": "45a3e24f4a1bd6a6",
+            "id": "33d731744702ed44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩1 @ Shared Memory.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8784a5d26e0fcd0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩2 @ Communication.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 % Memory Management/🟩1 @ Memory Management.md",
                 "mode": "preview",
                 "source": false
               }
@@ -92,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.51103591918945
+    "width": 439.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩1 @ Shared Memory.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 % Memory Management/🟩1 @ Memory Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩1 @ Shared Memory.md"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 % Memory Management/🟩1 @ Memory Management.md"
               }
             }
           }
@@ -399,33 +388,36 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "45a3e24f4a1bd6a6",
+  "active": "33d731744702ed44",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩2 @ Communication.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩1 @ Shared Memory.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Pasted image 20230301172607.png",
+    "Pasted image 20230302171003.png",
+    "Pasted image 20230302170759.png",
+    "Pasted image 20230302170315.png",
+    "Pasted image 20230302165725.png",
+    "Pasted image 20230302165150.png",
+    "Pasted image 20230302164624.png",
     "Excalidraw/thinking.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory",
-    "Excalidraw/Boards pics/Pasted Image 20230301160327_671.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩1 @ Functions & Reminders.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 % Memory Management/🟩1 @ Memory Management.md",
+    "Pasted image 20230302163712.png",
+    "Pasted image 20230302163014.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Pasted image 20230302084514.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Pasted image 20230302090452.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Pasted image 20230302090032.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩1 @ Shared Memory.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 % Memory Management",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩2 @ Communication.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩3@ Inter-Process Communication.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦2 # Signals/🟩1 @ Signals.md",
     "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
-    "Personal Notes/Too lazy to organize/exam schedule.png",
     "Computer Science LU/Year 3/Semester 1/- To Do List.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦2 # Signals/Untitled.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟨Misc Notes.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230301095549.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩1 @ Network Security.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩2 @ Security Services.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩3 @ Cryptography.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩4 @ Digital Signature.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230301105114.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230301104839.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230301104644.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230301104326.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230301103746.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/I3304 Pictures/Pasted image 20230301103625.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security/🟩 @ Principle of Network Security Protocols.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Intro To Security",
     "Excalidraw/Amigos Unidos Sequence Diagram Billing Account.md",
@@ -437,8 +429,6 @@
     "Excalidraw/Amigos Unidos Chatting State Diagram.md",
     "Excalidraw/Amigos Unidos UI sketch.md",
     "Excalidraw/Use_case_diagrams_SRS.md",
-    "Excalidraw/Class_diagram_SE_project.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩2 @ exec Family.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦2 # Signals",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Wireshark",
