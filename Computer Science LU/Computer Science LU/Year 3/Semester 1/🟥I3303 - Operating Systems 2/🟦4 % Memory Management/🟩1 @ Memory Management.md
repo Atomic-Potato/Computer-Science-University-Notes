@@ -109,3 +109,31 @@ Basically each element of the list has 4 values:
 - Pointer to next element
 
 ![[Pasted image 20230302171003.png|600]]
+
+# Layout Schemes
+There are 2 types of layouts:
+
+## Continuous Layout:
+In this layout, the process is loaded entirely into the memory as a consecutive bunch.
+
+But this layout has problems, such as:
+- You cant execute a process bigger than the memory
+- fragmentation
+- Process expansion _(process size is not static)_
+
+To reduce these problems we have another type of continuous layout, which is: 
+Divide the memory into fixed partitions with different sizes, each associated with a queue.
+![[Pasted image 20230302193822.png|600]]
+_For example:_ all processes less than 50KB go to C
+
+This method solves the problem of external fragmentation. But this causes internal fragmentation, where theres fragmentation within each partition.
+
+### Algorithms for loading processes
+In the following we will show algorithms for loading processes in a memory with no fixed partition. 
+![[Pasted image 20230302194638.png]]
+
+- `First Fit:` start from the beginning of the memory and load the process at the 1st free zone that is equal or greater than the size of the process 
+- `Best Fit:` search the entire list from beginning to end and take the smallest hole thats adequate
+- `Worst Fit:` search the entire list and take the largest hole thats adequate
+- `Next Fit:` Similar to "First Fit" but continue from the last position of the last placed process without restarting from the beginning of the list
+
