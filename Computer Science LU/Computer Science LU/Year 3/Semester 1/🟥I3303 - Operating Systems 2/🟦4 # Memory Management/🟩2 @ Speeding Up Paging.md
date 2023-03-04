@@ -20,6 +20,7 @@ This device is inside the MMU in the CPU and consists of a small number of entri
 The hardware checks to see if the virtual page is in TLB by comparing it to all entries simultaneously _(in parallel)_
 _Recent accesses are in the TLB_
 ![[Screenshot_6.png]]
+Entries of TLB are not indexed like in paging table. And the size of an entry of a TLB is a bit bigger than of a paging table.
 
 ## Visual representation of using TLB
 First the CPU checks if the page number is in the TLB:
@@ -29,8 +30,29 @@ First the CPU checks if the page number is in the TLB:
 	- Else, load the page from disk, put it in the page table, update TLB and go to memory
 	![[Screenshot_7.png]]
 
-Same process but represented in a different diagram: [[Fetching pages from TLB (Diagaram)]] **_(MAKE SURE YOU HAVE EXCALIDRAW PLUGIN INSTALLED)_**
+Same process but represented in a different diagram: [[Fetching pages from TLB (Diagram)]] **_(MAKE SURE YOU HAVE EXCALIDRAW PLUGIN INSTALLED)_**
 
 # Inverted Page Table
 The idea of this method is to make a single global page table related to the physical memory and not related to the process itself. 
 
+The inverted paging table includes an extra field that is **the process id**
+![[Pasted image 20230303180014.png]]
+
+To translate from logical address to physical, first we decompose the logical address as usual:
+![[Pasted image 20230303180126.png|300]]
+And we already have the process id, no need to include it in the address.
+Now the MMU makes a search in the inverted paging table.
+
+There are 2 kinds of searching algorithms:
+- `Linear:` row by row
+- `Non linear:` using a hashing page table
+
+## Linear search
+Search row by row until it finds the matching couple _(page number, process id)_.
+If its not found then we get a **page fault**, load the page from the disk and update the correspondent frame entry in the page table.
+
+## Non Linear search
+In a nutshell, you shove _(page number, process id)_ in a hash function, you get a key which can be used as an index in the page table.
+
+Theres a chance that collisions might happen _(different value might produce the same hash key)_.
+It can be solved using a linked list table to store them in an array/hash table.

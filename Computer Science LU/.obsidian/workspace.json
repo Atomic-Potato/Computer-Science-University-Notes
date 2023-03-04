@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71e9a053da7880b5",
+        "id": "90ca4a14c0a32bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "8784a5d26e0fcd0d",
+            "id": "f5ba23e575cb761d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩2 @ Speeding Up Paging.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "23475aebc352e6ff",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/Fetching pages from TLB (Diagaram).md"
               }
             }
           }
@@ -79,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.51103591918945
+    "width": 439.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -377,35 +368,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-comments:Show Comments Panel": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-comments:Show Comments Panel": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8784a5d26e0fcd0d",
+  "active": "f5ba23e575cb761d",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩1 @ Memory Management.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/Fetching pages from TLB (Diagaram).md",
+    "Pasted image 20230303180126.png",
+    "Pasted image 20230303180014.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/Fetching pages from TLB (Diagram).md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩2 @ Speeding Up Paging.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 % Memory Management/Untitled.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩1 @ Memory Management.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_7.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_6.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Pasted image 20230303143225.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_5.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_1a2.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_4.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_39.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_3.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_2.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Pasted image 20230303144824.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Pasted image 20230303143535.png",
-    "Excalidraw/thinking.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_1a2.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_1.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩2 @ Communication.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 % Memory Management/🟩1 @ Memory Management.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 % Memory Management",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩1 @ Shared Memory.md",
+    "Excalidraw/thinking.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩1 @ Functions & Reminders.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩3@ Inter-Process Communication.md",
@@ -426,7 +419,6 @@
     "Excalidraw/Amigos Unidos System State Diagram.md",
     "Excalidraw/Amigos Unidos Marketplace State Diagram.md",
     "Excalidraw/Amigos Unidos Sequence Diagram Money Transaction.md",
-    "Excalidraw/Amigos Unidos Chatting State Diagram.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦2 # Signals",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦4 # Wireshark",
