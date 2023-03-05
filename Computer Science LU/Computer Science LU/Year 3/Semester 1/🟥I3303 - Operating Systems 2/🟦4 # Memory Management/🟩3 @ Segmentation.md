@@ -15,7 +15,10 @@ In each segment, the address starts with 0, i.e. each entity is simulated as if 
 ![[Pasted image 20230304110322.png|600]]
 
 ## Segment Table
-The segment table keeps record of the segments as done by the paging table.
+The segment table keeps record of the segments as done by the paging table. It keeps record of:
+- `Segment number`
+- `Base:` The base/starting address of the segment
+- `Length:` The length of the segment
 
 If the address is `n+m bits`, where:
 - `n` is the segment number. We use it to find the starting physical address by looking up in the segment table
@@ -32,6 +35,10 @@ Say the user wants the **data c**.
 # Segmentation VS Paging
 ![[Pasted image 20230304171518.png]]
 
+Other important things about segments:
+- **Segments allow sharing between processes** _(like sharing libraries)_. The library can be put in a segment and shared by multiple processes, avoiding the need to put the library in each process’s address space.
+- **The user can put protection on each property/segment.** A function segment can be set to execute but not read or write.
+
 # Segmentation With Paging
 Since segmentation and paging deal with different things. Then why not use both?
 - Paged segments
@@ -39,8 +46,15 @@ Since segmentation and paging deal with different things. Then why not use both?
 - Segmentation for maintaining protection information at a coarse granularity
 - Segmentation and paging in combination for translation
 
-We can do this by having a descriptor segment that points to a page table
+To do this:
+1. The process is divided into segments
+2. Each segment is divided into pages
+3. `Logical address` becomes _**(segment #, page #, offset)**_
+4. `Physical address` becomes _**(frame # * size(page)) + offset**_
+
 ![[Pasted image 20230304171952.png|500]]
 
-This would give the following entry structure:
-![[Pasted image 20230304172059.png|600]]
+# Important Exercise
+**Keep in mind that we are going from segment table -> page table of one of the segments -> the frame a page is pointing to in the page table**
+![[Pasted image 20230305091034.png]]
+![[Pasted image 20230305091044.png]]

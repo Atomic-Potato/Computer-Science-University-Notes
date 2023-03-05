@@ -30,7 +30,7 @@ First the CPU checks if the page number is in the TLB:
 	- Else, load the page from disk, put it in the page table, update TLB and go to memory
 	![[Screenshot_7.png]]
 
-Same process but represented in a different diagram: [[Fetching pages from TLB (Diagram)]] **_(MAKE SURE YOU HAVE EXCALIDRAW PLUGIN INSTALLED)_**
+Same process but represented in a different diagram: [[✏ Fetching pages from TLB (Diagram)]] **_(MAKE SURE YOU HAVE EXCALIDRAW PLUGIN INSTALLED)_**
 
 # Inverted Page Table
 The idea of this method is to make a single global page table related to the physical memory and not related to the process itself. 

@@ -1,0 +1,3 @@
+- The prefix "kilo" means 1,000. **Because computers use binary, or base-2, numbering, a kilobyte is actually equal to 2^10, or 1,024, bytes**. This is why there are 1,024 bytes in a kilobyte.
+- if 2^x equal a number, then x is number of bits it takes to represent that number. _(Obviously its not always gonna be exact, so just add one more bit in that case)_
+- addressing refers to the architecture _(like 32 or 64 bit addresses)_
