@@ -159,7 +159,7 @@ Then the number of pages is equal to:
 $$\Large \color{green} Nb\space Pages = \frac{size(process)}{size(page)}$$
 _For example:_
 ```
-Suppose a process with a size of 16KB on a 32 bit system.
+Suppose a process with a size of 16KB on a 32 bit (4KB page) system.
 Then the nb of pages = 16/4 = 4 pages
 ```
 ![[Pasted image 20230303102705.png]]
