@@ -1,0 +1,3 @@
+- Jana Al Sabeh _(Copied a lot of her notes in Year 3 Semester 1)_
+- Mustafa Ghalyani _(Copied a bunch of his notes in Year 3 Semester 1)_
+- My Lebanese University professors slides from where i stole a lot of pictures
