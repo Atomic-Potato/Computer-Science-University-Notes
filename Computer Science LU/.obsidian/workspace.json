@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩3 @ Segmentation.md",
+                "file": "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩1 @ Memory Management.md",
-                "mode": "preview",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩3 @ Segmentation.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -388,17 +389,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "412c6c6b3b6e9197",
+  "active": "7679411ef4fc2177",
   "lastOpenFiles": [
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩1 @ Memory Management.md",
+    "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩3 @ Segmentation.md",
+    "Pasted image 20230304172059.png",
+    "Pasted image 20230304171952.png",
+    "Pasted image 20230304171518.png",
     "Pasted image 20230304111344.png",
     "Pasted image 20230304110322.png",
     "Pasted image 20230304105019.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩2 @ Speeding Up Paging.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩3 @ Segmentation.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/Fetching pages from TLB (Diagram).md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/Layout course structure.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩1 @ Memory Management.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/Untitled.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Pasted image 20230303180126.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Pasted image 20230303180014.png",
@@ -406,10 +411,6 @@
     "Pasted image 20230303180014.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/Fetching pages from TLB (Diagaram).md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 % Memory Management/Untitled.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_7.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_6.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Pasted image 20230303143225.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/I3303 Pictures/Screenshot_5.png",
     "Excalidraw/thinking.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩2 @ Communication.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management",
@@ -418,7 +419,6 @@
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩1 @ Functions & Reminders.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦1 # Pipes and things/🟩3@ Inter-Process Communication.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦2 # Signals/🟩1 @ Signals.md",
-    "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
     "Computer Science LU/Year 3/Semester 1/- To Do List.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦2 # Signals/Untitled.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟨Misc Notes.md",
