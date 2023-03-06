@@ -16,8 +16,21 @@
                 "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306165008.png"
               }
             }
+          },
+          {
+            "id": "df8a136409293a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions/🟩1 @ Transactions.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.51103591918945
+    "width": 439.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -83,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306165008.png",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions/🟩1 @ Transactions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306165008.png"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions/🟩1 @ Transactions.md"
               }
             }
           }
@@ -374,21 +388,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a133da79ec1f1a5a",
+  "active": "df8a136409293a67",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦3 # Query Processing/🟩1 @ Query Processing.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306165106.png",
+    "Pasted image 20230306194633.png",
+    "Pasted image 20230306194424.png",
+    "Pasted image 20230306194228.png",
+    "Pasted image 20230306194029.png",
+    "Pasted image 20230306193538.png",
+    "Pasted image 20230306192916.png",
+    "Pasted image 20230306192636.png",
+    "Pasted image 20230306181509.png",
+    "Pasted image 20230306181503.png",
+    "Pasted image 20230306180246.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306165008.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions/🟩1 @ Transactions.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions",
+    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦3 # Query Processing/🟩1 @ Query Processing.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦2 # Indexing/🟩1 @ Indexing.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦1 # Storage Structure/🟩1 @ Storage Structure.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🖼I3303 Pictures/Pasted image 20230305192406.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🖼I3303 Pictures/Pasted image 20230306110251.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🖼I3303 Pictures/Pasted image 20230306110005.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🖼I3303 Pictures/Pasted image 20230306105838.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🖼I3303 Pictures/Pasted image 20230306105436.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🖼I3303 Pictures/Pasted image 20230306103805.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🖼I3303 Pictures/Pasted image 20230306103530.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🖼I3303 Pictures/Pasted image 20230306103331.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System/🟩3 @ System Point of View.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System/🟩4 @ Directory Implementation.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩1 @ Memory Management.md",
@@ -418,9 +435,6 @@
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/Fetching pages from TLB (Diagaram).md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 % Memory Management/Untitled.md",
     "Excalidraw/thinking.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩2 @ Communication.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory/🟩1 @ Shared Memory.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦3 # Unix Shared Memory"
+    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management"
   ]
 }
