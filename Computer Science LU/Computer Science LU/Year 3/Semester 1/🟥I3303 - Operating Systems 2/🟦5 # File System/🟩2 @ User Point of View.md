@@ -1,3 +1,8 @@
+_Next [[🟩3 @ System Point of View]]_
+_Previous [[🟩1 @ File System]]_
+
+---
+
 The point of view of a user, is how the user speaks to a file.
 
 # File Naming & Extension
@@ -86,3 +91,8 @@ int read(int desc, void* buffer, int nb) // Returns number of bytes read
 int write(int desc, void* buffer, int nb) // Returns number of bytes written
 // write from "buffer" to "desc", "nb" bytes
 ```
+
+---
+
+_Next [[🟩3 @ System Point of View]]_
+_Previous [[🟩1 @ File System]]_

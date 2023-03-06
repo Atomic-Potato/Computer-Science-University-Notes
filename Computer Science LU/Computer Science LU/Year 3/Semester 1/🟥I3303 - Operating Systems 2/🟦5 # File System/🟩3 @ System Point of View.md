@@ -1,3 +1,8 @@
+_Previous [[🟩2 @ User Point of View]]_
+
+---
+
+
 In the system POV we will see:
 - How does the FS allocate blocks on disk
 - How does the FS implement files
@@ -174,3 +179,107 @@ _(The superblock is updated in case of any changes & saved to disk periodically)
 Data blocks starts from `number(i-ndoes)+2` to the `nb(data blocks)-1`
 
 # Opening a File
+To open a file: 
+1. The OS converts the path name to [[#Multi-level Indexed files: UNIX I-nodes|i-node]] number _(reminder: [[#Directory implementation]])_
+2. Fetch the i-node from disk  if the file is not loaded before in memory.
+	The i-nodes are contained in the `i-nodes blocks` as seen in [[#Structure of a Partition]].
+	
+	To get the size of an i-node block / how many i-nodes are in an i-node block _**(remember theres many, not one)**_:
+	$$\Large \color{pink} inode \space block \space size= \frac{size(block)}{size(inode)}$$
+	To get which i-node block the i-node is in:
+	$$\Large \color{cyan} inode \space block = \frac{inode \space nb}{inode \space block \space size}$$
+	To get which i-node inside the block:
+	$$\Large \color{lime} inode = i node \space nb \space \% \space inode \space block \space size$$
+3. Fetch the block number that contains the i-node and fetch it from disk to memory
+4. Read the corresponding entry which gives us the needed i-node
+5. After getting the i-node from disk, put it in a similar structure in memory called [[#Memory i-node]].
+
+# Memory i-node
+
+## i-node Table
+When a process creates or opens a file, the OS associates for it a row in a table _(in memory)_ called `i-node table.` 
+The i-node table contains entries related to memory i-nodes. This memory I-node table is global for all processes. (_if many processes open the same file, they share the same memory i-node entry for this file)_
+
+The i-node table contains used & free rows _(there is a valid attribute for each row)_. Entries are the i-nodes of a file.
+
+Some important attributes:
+- `Valid:` to check if the row is used or free
+- `Reference count:` how many pointers are pointed to this i-node entry
+
+![[Pasted image 20230306103041.png|300]]
+
+## File System Table _(Global)_
+Contains the file descriptors related to the files opened. This table is global for all processes.
+
+For different non-related processes, it contains different entries
+For the same process & same file but different modes _(read/write)_, it contains different entries
+For different related processes _(child of a parent)_, it has the same entry
+
+Attributes:
+- Reference counter
+- Current position in file
+- Access rights
+- Pointer to memory i-node
+
+![[Pasted image 20230306103331.png|400]]
+
+
+## File Descriptor Table _(Per Process)_
+It contains the 0, 1, 2 descriptors _(input, output ,error)_ & descriptors for the opened files of the process. This table is unique for each process.
+
+**The entries are pointers to entries in the Global File Descriptor Table.**
+
+![[Pasted image 20230306103530.png|600]]
+
+**In case of forking a child:**
+![[Pasted image 20230306103805.png|600]]
+
+# Algorithm For Opening a File
+```c
+Convert file name to inode (called: algorithm namei)
+if file doesn’t exist or no permission to access it:
+	return error
+
+Allocate an entry in the memory inodes table
+
+Initialize count, offset…
+
+Allocate an entry in the Global File System Table & set pointer to its corresponding Memory Inode Table entry & initialize reference count…
+
+Allocate Process File Descriptor Table entry and set pointer to its corresponding Global File Descriptor Table entry
+
+if type of open specifies truncate file (mode as if to create it even though it was created)
+	free all blocks (algorithm free)
+
+Unlock inode (change valid row in memory inode to used)
+return file descriptor
+```
+
+# Disk Space Management 
+There are 4 approaches for knowing where are the free or used blocks on disk:
+
+## Bitmap
+An array of bits, one for each block. It indicates whether this block is `free (1)` or `used (0)`
+![[Pasted image 20230306105436.png|200]]
+
+## Linked List
+Works by keeping a pointer to the first free block in a special location on the disk. Each free block contains a pointer to the next free block. _(Each block address is 4B)_
+![[Pasted image 20230306105838.png|200]]
+
+
+## FAT _(in MS-DOS / Windows)_
+A better version of the linked list. Free space is managed as one file.
+![[Pasted image 20230306110005.png|600]]
+
+## Grouping _(in UNIX)_
+Its a linked list of free blocks.
+
+List containing pointers to free blocks & one address to the next free block. It is like a list of connected stacks, and the data is a pointer to a free block.
+![[Pasted image 20230306110251.png|400]]
+_For example:_ 
+If I want a free block, I start taking from stack 1. If stack 1 becomes empty, I start taking from stack 2…
+If I want to add a free block, I start adding it to
+
+---
+
+_Previous [[🟩2 @ User Point of View]]_

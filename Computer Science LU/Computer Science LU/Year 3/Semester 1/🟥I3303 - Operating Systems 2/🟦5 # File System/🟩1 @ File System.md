@@ -1,3 +1,7 @@
+_Next [[🟩2 @ User Point of View]]_
+
+---
+
 The file system is a module in OS responsible for storing & retrieval of data on secondary storage system.
 
 The advantages of FS:
@@ -41,3 +45,7 @@ The following actions on files are managed by the FS:
 ## Time to get data from disk
 Approximate time to get data = 
 $$ \color{cyan} seek \space time (ms) + rotational \space delay(ms) + bytes/disk \space bandwidth$$
+
+---
+
+_Next [[🟩2 @ User Point of View]]_
