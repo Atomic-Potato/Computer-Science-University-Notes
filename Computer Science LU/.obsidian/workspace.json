@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a7a72af4dbf987c",
+            "id": "70232d10e4edf53c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions/🟩1 @ Transactions.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦7 # Lists/🟩1 @ Lists.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "eec22ab233aa0c50",
+            "id": "6f3ae96c9b9a271c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦5 # Cursor/🟩1 @ Cursor.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3.2 # GUI Widgets/🟩2 @ Spinners.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,8 +60,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "telnet",
-                "matchingCase": false,
+                "query": "adapter",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.51103591918945
+    "width": 439.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦5 # Cursor/🟩1 @ Cursor.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦7 # Lists/🟩1 @ Lists.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦5 # Cursor/🟩1 @ Cursor.md"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦7 # Lists/🟩1 @ Lists.md"
               }
             }
           }
@@ -389,53 +389,52 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eec22ab233aa0c50",
+  "active": "70232d10e4edf53c",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions/🟩1 @ Transactions.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦5 # Cursor/🟩1 @ Cursor.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦8 # Menus & Pickers/🟩1 @ Menus & Pickers.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308115536.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩5 @ Detailed Textual Description (DTD).md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦6 # UML - Class Diagrams/1 @ Class Diagrams.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩3 @ Relationships Among Use Cases.md",
+    "Untitled.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308120318.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308115915.png",
+    "Screenshot_16.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308115704.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟧Unorganized Notes.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦8 # Menus & Pickers",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308082917.png",
+    "Excalidraw/Amigos Unidos Sequence Diagram Chatting.md",
+    "Excalidraw/Amigos Unidos Sequence Diagram Money Transaction.md",
+    "Excalidraw/Amigos Unidos Sequence Diagram Billing Account.md",
+    "Excalidraw/Amigos Unidos Posting State Diagram.md",
+    "Excalidraw/Amigos Unidos Marketplace State Diagram.md",
+    "Excalidraw/Amigos Unidos Chatting State Diagram.md",
+    "Excalidraw/Amigos Unidos Browsing State Diagram.md",
+    "Excalidraw/Class_diagram_SE_project.md",
+    "Excalidraw/Use_case_diagrams_SRS.md",
+    "Excalidraw/Whisker Task UI sketch.md",
+    "Excalidraw/Amigos Unidos UI sketch.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦7 # Lists/🟩1 @ Lists.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308091200.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3.2 # GUI Widgets/🟩2 @ Spinners.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦6 # Activities & Intents/🟩2 @ Intent & Starting Activities.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308082952.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦7 # Lists",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦6 # Activities & Intents/🟩1 @ Activities & Implementation.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦6 # Activities & Intents/🟩3 @ Sending & Receiving Data.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦5 # Activity Lifecycle & State/🟩2 @ Activity Instance State.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦5 # Activity Lifecycle & State/🟩1 @ Activity Lifecycle & Callbacks.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦4 # Layouts/🟩3 @ Widget Box Model.md",
+    "Untitled",
+    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦5 # Cursor",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306180246.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306181509.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🖼I3303 Pictures/Pasted image 20230306180246.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306194633.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306194424.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306194228.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306194029.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306193538.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306192916.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306192636.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦3 # Query Processing/🟩1 @ Query Processing.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦2 # Indexing/🟩1 @ Indexing.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦1 # Storage Structure/🟩1 @ Storage Structure.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System/🟩3 @ System Point of View.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System/🟩4 @ Directory Implementation.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩1 @ Memory Management.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩3 @ Segmentation.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System/🟩6 @ Disk Space Management.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System/🟪 Typical Exercise.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System/🟩5 @ Algorithms.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System/🟩1 @ File System.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System/🟩2 @ User Point of View.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System",
     "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🖼I3302 Pictures",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🖼I3305 Pics",
-    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🖼I3304 Pictures",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/✏ Fetching pages from TLB (Diagram).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/✏ ''Layouts'' notes structure.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🖼I3303 Pictures",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures",
-    "- READ ME/CREDITS.md",
-    "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/🟩2 @ Speeding Up Paging.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/Fetching pages from TLB (Diagram).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/Layout course structure.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/Untitled.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 # Memory Management/Fetching pages from TLB (Diagaram).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦4 % Memory Management/Untitled.md",
-    "Excalidraw/thinking.md"
+    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures"
   ]
 }

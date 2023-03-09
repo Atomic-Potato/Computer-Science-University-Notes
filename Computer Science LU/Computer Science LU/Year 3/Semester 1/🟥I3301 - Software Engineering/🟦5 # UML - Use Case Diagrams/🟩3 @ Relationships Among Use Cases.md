@@ -6,7 +6,7 @@ _Previous:_ [[🟩2 @ Actors]]
 # Types
 
 ## Extends
-**Definition:** X extends Y _equivalent to_ X might be optionally executed from Y. Alternatively, seldom (rarely) invoked uses cases or optional functionalities (not necessarily executed)
+**Definition:** X extends Y _equivalent to_ X might be optionally executed from Y. Alternatively, seldom (rarely) invoked use cases or optional functionalities (not necessarily executed)
 
 **Arrow direction is from extending _(X)_ to extended use case _(Y)_**
 

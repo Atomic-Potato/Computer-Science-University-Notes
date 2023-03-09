@@ -38,7 +38,7 @@ For example:
 Theres also reflexive associations, i.e. the class has an association with itself.
 	
 If we want to have a one way association, we add an arrow head
-![[Screen Shot 2023-02-07 at 4.36.20 PM.png|175]]
+![[Screen Shot 2023-02-07 at 4.36.20 PM.png|300]]
 	
 ## `Aggregation`  
 Its a special association that represent **`part-whole`** relationships, 
@@ -68,7 +68,7 @@ For example, “a student has a name” is a composition relationship between th
 ## `Generalization` 
 X is a Y, represented with a straight line and a hollow arrow
 
-[[🟩3 @ Relationships Among Use Cases#Generalizes|It is the sane as in a use case diagram]]
+[[🟩3 @ Relationships Among Use Cases#Generalizes|It is the same as in a use case diagram]]
 
 ## `Implementation` _(interfaces)_
 An interface describes a portion of the visible behaviour of a set of objects.
