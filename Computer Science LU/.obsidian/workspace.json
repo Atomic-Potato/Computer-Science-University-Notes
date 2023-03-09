@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f588d9f0182006cb",
+        "id": "e9fd7a1bfdb5c4de",
         "type": "tabs",
         "children": [
           {
-            "id": "6f3ae96c9b9a271c",
+            "id": "eaf46c30550fb539",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Functions & Stored Procedures.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec2620186e6466ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Functions & Stored Procedures.md",
-                "mode": "preview",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Stored Procedures & Functions.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Functions & Stored Procedures.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Stored Procedures & Functions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Functions & Stored Procedures.md"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Stored Procedures & Functions.md"
               }
             }
           }
@@ -389,20 +376,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec2620186e6466ce",
+  "active": "eaf46c30550fb539",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions/🟩1 @ Transactions.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Functions & Stored Procedures.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩2 @ Triggers.md",
-    "Pasted image 20230309101635.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦5 # Cursor/🟩1 @ Cursor.md",
-    "Untitled.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Stored Procedures & Functions.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ F.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3.2 # GUI Widgets/🟩2 @ Spinners.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦7 # Lists/🟩1 @ Lists.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦8 # Menus & Pickers/🟩1 @ Menus & Pickers.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308115536.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩5 @ Detailed Textual Description (DTD).md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦6 # UML - Class Diagrams/1 @ Class Diagrams.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩3 @ Relationships Among Use Cases.md",
+    "Untitled.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308120318.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308115915.png",
     "Screenshot_16.png",
@@ -422,16 +408,17 @@
     "Excalidraw/Whisker Task UI sketch.md",
     "Excalidraw/Amigos Unidos UI sketch.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308091200.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3.2 # GUI Widgets/🟩2 @ Spinners.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦6 # Activities & Intents/🟩2 @ Intent & Starting Activities.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308082952.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦7 # Lists",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦6 # Activities & Intents/🟩1 @ Activities & Implementation.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦6 # Activities & Intents/🟩3 @ Sending & Receiving Data.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦5 # Activity Lifecycle & State/🟩2 @ Activity Instance State.md",
     "Untitled",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦5 # Cursor",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306180246.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306181509.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System",
     "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🖼I3302 Pictures",

@@ -1,3 +1,3 @@
-_Previous [[🟩1 @ Functions & Stored Procedures]]_
+_Previous [[🟩1 @ Stored Procedures & Functions]]_
 
 ---
