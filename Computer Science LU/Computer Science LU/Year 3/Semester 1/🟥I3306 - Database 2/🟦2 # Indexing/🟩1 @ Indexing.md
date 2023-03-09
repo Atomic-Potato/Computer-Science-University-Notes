@@ -38,3 +38,15 @@ Say we have 2 sequential blocks, **Block-1** for names that start with A and **B
 The A block is full and we need to a new entry, and we cant add it to the B block, this means we have an overflow. 
 And so what we do is we make multiple **Block-1** that are chained together:
 ![[Pasted image 20230201220549.png|500]]
+
+# Index in SQL
+Creating an index:
+```sql
+CREATE INDEX index_name
+ON table_name (column1, column2, ...);
+```
+
+Delete an index:
+```sql
+DROP INDEX index_name;
+```

@@ -1,5 +1,5 @@
 # Division
-https://youtube.com/clip/Ugkxp02UwKfn1uPJ-cxZ_0smhNrLORvXfUMA (Simpler explanation)
+https://youtu.be/IW8V99Ezga0?t=163 (Simpler explanation)
 
 The alternative definition of division:
 $$\large \color{pink} r \div s = \Pi_{R-S} - \Pi_{R-S}((\Pi_{R-S}(r)\times s) - \Pi_{R-S,S}(r))$$

@@ -11,11 +11,9 @@
             "id": "eaf46c30550fb539",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Stored Procedures & Functions.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science LU/Year 3/Semester 1/- To Do List.md"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.51103591918945
+    "width": 367
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Stored Procedures & Functions.md",
+                "file": "Computer Science LU/Year 3/Semester 1/- To Do List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Stored Procedures & Functions.md"
+                "file": "Computer Science LU/Year 3/Semester 1/- To Do List.md"
               }
             }
           }
@@ -378,47 +376,47 @@
   },
   "active": "eaf46c30550fb539",
   "lastOpenFiles": [
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/i22010 #3 Pics/Pasted image 20220719222821.png",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/i22010 #3 Pics/Pasted image 20220719192808.png",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/i22010 #3 Pics/Pasted image 20220719192505.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩2 @ Triggers.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/! Important Definitions & Notes !.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions/🟩1 @ Transactions.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦3 # Query Processing/🟩1 @ Query Processing.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦2 # Indexing/🟩1 @ Indexing.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩1 @ Extraction.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/i22010 #3 Pics/Pasted image 20220919164400.png",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/i22010 #3 Pics/Pasted image 20220921214918.png",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩2 @ Insertion, Updating, Deletion.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦2 # Relational Model/🟩1 @ Data Definition Language (DDL).md",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦2 # Relational Model/🟩2 @ Formal Languages.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦2 # Relational Model/Extra notes and defintions.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦3 # SQL & Data Manipulation Language (DML)/🟩3 @ Data Extraction.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦2 # Relational Model/i2210 #2 pics/Pasted image 20220718212559.png",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦2 # Relational Model/i2210 #2 pics/Pasted image 20220719153947.png",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦2 # Relational Model/i2210 #2 pics/Pasted image 20220719170341.png",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦2 # Relational Model/i2210 #2 pics/Pasted image 20220715133405.png",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦2 # Relational Model/i2210 #2 pics/Pasted image 20220718195917.png",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦2 # Relational Model/i2210 #2 pics/Pasted image 20220715213142.png",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦4 1.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦4.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Stored Procedures & Functions.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ F.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦3.2 # GUI Widgets/🟩2 @ Spinners.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦7 # Lists/🟩1 @ Lists.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦8 # Menus & Pickers/🟩1 @ Menus & Pickers.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308115536.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩5 @ Detailed Textual Description (DTD).md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦6 # UML - Class Diagrams/1 @ Class Diagrams.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩3 @ Relationships Among Use Cases.md",
     "Untitled.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308120318.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308115915.png",
-    "Screenshot_16.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308115704.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟧Unorganized Notes.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦8 # Menus & Pickers",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308082917.png",
     "Excalidraw/Amigos Unidos Sequence Diagram Chatting.md",
     "Excalidraw/Amigos Unidos Sequence Diagram Money Transaction.md",
-    "Excalidraw/Amigos Unidos Sequence Diagram Billing Account.md",
-    "Excalidraw/Amigos Unidos Posting State Diagram.md",
-    "Excalidraw/Amigos Unidos Marketplace State Diagram.md",
-    "Excalidraw/Amigos Unidos Chatting State Diagram.md",
-    "Excalidraw/Amigos Unidos Browsing State Diagram.md",
-    "Excalidraw/Class_diagram_SE_project.md",
-    "Excalidraw/Use_case_diagrams_SRS.md",
-    "Excalidraw/Whisker Task UI sketch.md",
-    "Excalidraw/Amigos Unidos UI sketch.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308091200.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦6 # Activities & Intents/🟩2 @ Intent & Starting Activities.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308082952.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦7 # Lists",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦6 # Activities & Intents/🟩1 @ Activities & Implementation.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦6 # Activities & Intents/🟩3 @ Sending & Receiving Data.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦5 # Activity Lifecycle & State/🟩2 @ Activity Instance State.md",
     "Untitled",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦5 # Cursor",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306180246.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306181509.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions",
     "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System",
     "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🖼I3302 Pictures",
