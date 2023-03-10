@@ -11,11 +11,9 @@
             "id": "eaf46c30550fb539",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦9 # Data Storage - Shared Preferences/🟩1 @ Shared Preferences.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦11 # Fragments/Fragments.pdf"
               }
             }
           },
@@ -30,9 +28,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2fd6814cbdb1071c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦11 # Fragments/Fragments.pdf"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.51103591918945
+    "width": 531
   },
   "right": {
     "id": "f745b8ca6ab79aef",
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦10 # SQLite Database/🟩1 @ SQL.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦11 # Fragments/Fragments.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦10 # SQLite Database/🟩1 @ SQL.md"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦11 # Fragments/Fragments.pdf"
               }
             }
           }
@@ -389,11 +396,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a133da79ec1f1a5a",
+  "active": "eaf46c30550fb539",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230310093826.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦11 # Fragments/🟩1 @ Fragments.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦9 # Data Storage - Shared Preferences/🟩1 @ Shared Preferences.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦10 # SQLite Database/🟩1 @ SQL.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦11 # Fragments/Fragments.pdf",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230310114204.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦11 # Fragments/14-fragments-17.pdf",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230310115057.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230310114905.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230310114806.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230310114638.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230310114501.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦11 # Fragments",
+    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230310093826.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦10 # SQLite Database",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers/🟩1 @ Stored Procedures & Functions.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦9 # Data Storage - Shared Preferences",
@@ -409,11 +426,8 @@
     "Untitled.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308120318.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308115915.png",
-    "Screenshot_16.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308115704.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟧Unorganized Notes.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦8 # Menus & Pickers",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308082917.png",
     "Excalidraw/Amigos Unidos Sequence Diagram Chatting.md",
     "Excalidraw/Amigos Unidos Sequence Diagram Money Transaction.md",
     "Excalidraw/Amigos Unidos Sequence Diagram Billing Account.md",
@@ -425,17 +439,9 @@
     "Excalidraw/Use_case_diagrams_SRS.md",
     "Excalidraw/Whisker Task UI sketch.md",
     "Excalidraw/Amigos Unidos UI sketch.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308091200.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦6 # Activities & Intents/🟩2 @ Intent & Starting Activities.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230308082952.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦7 # Lists",
     "Untitled",
     "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦6 # Triggers",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦5 # Cursor",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306180246.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🖼I3306 Pictures/Pasted image 20230306181509.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦4 # Transactions",
-    "Computer Science LU/Year 3/Semester 1/🟥I3303 - Operating Systems 2/🟦5 # File System",
-    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🖼I3302 Pictures"
+    "Computer Science LU/Year 3/Semester 1/🟥I3306 - Database 2/🟦5 # Cursor"
   ]
 }
