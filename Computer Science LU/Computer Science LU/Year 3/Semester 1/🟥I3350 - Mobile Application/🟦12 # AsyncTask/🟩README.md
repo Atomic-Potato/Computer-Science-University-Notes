@@ -1,0 +1,1 @@
+I removed the parts related to AsyncTaskLoader from the PDF since it wasnt required for exams in my year.
