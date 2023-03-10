@@ -43,6 +43,76 @@ _For example_
 	startActivity(it);
 	```
 
+# Activities Results
+When an Intent is used to start an Activity or a Service, the component that is started can return a result back to the component that started it. This is known as an Intent result.
+
+To use an Intent result, you typically start the Activity or Service using the `startActivityForResult()` method instead of the `startActivity()` method. 
+When the Activity or Service finishes, it sets a result code and any additional data it wants to return to the calling component, and then finishes itself.
+
+The calling component can then override the `onActivityResult()` method to receive the result data. The result data is passed to this method as a parameter, and can be used by the calling component to take further action based on the result.
+
+## _Example_
+In this example, when the user clicks the button in the `MainActivity`, it starts the `SecondActivity` using `startActivityForResult()`. When the `SecondActivity` finishes, it sets the result using `setResult()` and finishes itself. The `MainActivity` then receives the result in the `onActivityResult()` method, where it can be used as needed.
+
+In the first activity, we'll start the second activity using `startActivityForResult()`:
+```java
+public class MainActivity extends AppCompatActivity {
+    private static final int REQUEST_CODE = 1;
+    
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        
+        Button button = findViewById(R.id.button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, SecondActivity.class);
+                startActivityForResult(intent, REQUEST_CODE);
+            }
+        });
+    }
+    
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (requestCode == REQUEST_CODE) {
+            if (resultCode == RESULT_OK) {
+                String result = data.getStringExtra("result");
+                Toast.makeText(this, "Result: " + result, Toast.LENGTH_SHORT).show();
+            }
+        }
+    }
+}
+```
+
+In the `SecondActivity`, we'll set the result and finish the activity:
+```java
+public class SecondActivity extends AppCompatActivity {
+    private EditText editText;
+    
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_second);
+        
+        editText = findViewById(R.id.editText);
+        
+        Button button = findViewById(R.id.button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String result = editText.getText().toString();
+                Intent intent = new Intent();
+                intent.putExtra("result", result);
+                setResult(RESULT_OK, intent);
+                finish();
+            }
+        });
+    }
+}
+```
 # How Activities Run
 All Activity instances are managed by the Android runtime. Started by an _"Intent"_, a message to the Android runtime to run an activity.
 

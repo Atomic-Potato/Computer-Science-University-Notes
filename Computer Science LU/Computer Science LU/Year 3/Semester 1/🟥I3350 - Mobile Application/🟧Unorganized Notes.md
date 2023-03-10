@@ -55,6 +55,36 @@ Toast.makeText(RadioAndCheckBox.this, radioButton.getText().toString(), Toast.LE
 `Length of the toast:` Must be one of the following values: _Toast.LENGTH_LONG_, _Toast.LENGTH_LONG_
 
 **To show the toast use the `show()` function**
+
+
+# Assets Folder
+We use the asset folder to put all sort of bullshit, especially images, idk why you cant place them in drawable but you jus cant yk?
+
+This folder is not present by default so you gotta make it yourself.
+
+To get a reference to that folder do the following:
+```java
+AssetManager asset = this.getAsserts();
+```
+
+You can also get a list of images/assets using the `list()` function:
+```java
+try{
+	String [] images = assets.list("png");
+	//We are getting a list of strings of the files names that contain 'png'
+}catch (IOException e) { // This exception is mandatory in case the path does not exist
+	e.printStackTrace();
+}
+```
+
+## Displaying an image
+To display an image do the following:
+```java
+ImageView imageView = new ImageView(this);
+String imageName = "png/" + images[i];
+Drawable image = Drawable.createFromStream(assets.open(imageName), imageName);
+imageView.setImageDrawable(image);
+```
 # Notes
 - In here we had to specify `Main.this` because in this function we are implementing a class, so we're not actually in the Main Activity
 ![[Pasted image 20230107183305.png]]

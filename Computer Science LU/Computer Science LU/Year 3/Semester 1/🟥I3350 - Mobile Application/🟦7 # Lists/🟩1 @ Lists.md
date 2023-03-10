@@ -76,6 +76,20 @@ There are many list events, but we'll just cover the main ones:
 _For example:_
 ![[Pasted image 20230308091200.png|700]]
 
+## Deleting Entries (in dynamic lists)
+If you are trying to modify the data array  data in an anonymous class, then you have to do either one of these to update the list:
+- Create a new array adapter:
+	```java
+	data.remove(position);  
+	ArrayAdapter ar = new ArrayAdapter(Lists.this, R.layout.support_simple_spinner_dropdown_item, data);  
+	list.setAdapter(ar);
+	```
+- Get a reference to the adapter and notify it
+	```java
+	((BaseAdapter) list.getAdapter()).notifyDataSetChanged();
+	```
+- Make the adapter global and notify it 
+
 # Custom List Layouts
 To make a custom list:
 1. Write a short layout XML file describing the layout for each row.

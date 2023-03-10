@@ -24,8 +24,20 @@ It contains:
 _You can have the action icons from the important options shown on the app bar_
 
 # Implementing the options menu
-1. Create the XML menu resource `menu_main.xml` that contains the layout and contents of the menu. This resource file defines the menu items, their icons, and other properties.
-3. `onCreateOptionsMenu()` to [[#^inflate|inflate]] the menu.
+1. Create a new resource folder of type `menu`
+2. In the new menu folder, create the XML menu resource `menu_main.xml` _(or whatever)_ that contains the layout and contents of the menu. This resource file defines the menu items, their icons, and other properties.
+3. Setup the action bar like so in the java file:
+	```java
+	@Override  
+	protected void onCreate(Bundle savedInstanceState) {  
+		// ...
+		Toolbar actionBar = findViewById(R.id.toolbar);  
+	    setSupportActionBar(actionBar);  
+	}
+	```
+	`setSupportActionBar()` is a method that is used to set a Toolbar as the `ActionBar` for an Activity. The `ActionBar` is a standard component in Android that is typically used to provide navigation and other common UI elements to the user.
+	The Toolbar is a more flexible and customizable replacement for the ActionBar that was introduced in Android 5.0 (Lollipop). By using `setSupportActionBar()` with a Toolbar, you can easily customize the ActionBar to fit the design of your app
+1. `onCreateOptionsMenu()` to [[#^inflate|inflate]] the menu.
 	```java
 	// Override this menthod in Activity
 	@Override
@@ -81,3 +93,4 @@ The following attributes are possible for each item:
 - `always`
 - `collapseActionView`
 - `withText`
+- `never`
