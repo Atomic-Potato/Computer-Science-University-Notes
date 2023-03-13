@@ -1,5 +1,10 @@
-Say we want to execute another programing instead of forking the current program (which creates a new copy of the process).
-(A good example of this is the CMD, the commands you give it execute other programs)
+_Next [[🟩3@ Inter-Process Communication]]_
+_Previous [[🟩1 @ Functions & Reminders]]_
+
+---
+
+
+Say we want to execute another programing instead of forking the current program _(which creates a new copy of the process)._ A good example of this is the CMD, the commands you give it execute other programs
 
 To do so we use one of these functions:
 - `execl` (execute list)
@@ -22,7 +27,7 @@ To do so we use one of these functions:
 
 These functions return `1 for failure` and `0 for success` to the parent process.
 
-**`BIG PHAT NOTE:`** When a process calls one of the `exec` functions, this process is terminated and replaced by the process called in the `exec` function
+**==BIG PHAT NOTE:==** When a process calls one of the `exec` functions, this process is terminated and replaced by the process called in the `exec` function
 
 
 
@@ -41,3 +46,8 @@ void main(int argc, char* argv[]){
 ```
 
 **`NOTE:`** I assume the `NULL` at the end of the arguments marks the end of arguments
+
+---
+
+_Next [[🟩3@ Inter-Process Communication]]_
+_Previous [[🟩1 @ Functions & Reminders]]_

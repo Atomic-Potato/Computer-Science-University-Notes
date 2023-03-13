@@ -74,7 +74,7 @@ This function sets up the program to stop everything at hand and execute this fu
 
 **==NOTE:==** This function is contained in the `<signal.h>` library
 
-### Example
+### _Example_
 A program that prints a message if it doesnt get input in 69 sex:
 ```c
 void AlarmHandler(int signalNum){

@@ -55,7 +55,7 @@ As the number of page frames increases, the number of faults increases
 _(12 references, 10 faults)_
 
 # Last Recently Used Algorithm
-This algorithm keeps track of the time each page was access in and evicts the least used page _(lowest access time)_
+This algorithm keeps track of the time each page was accessed in and evicts the least used page _(lowest access time)_
 ![[Pasted image 20230305100519.png|500]]
 
 # According To Number of References & Dirty Bit Algorithm

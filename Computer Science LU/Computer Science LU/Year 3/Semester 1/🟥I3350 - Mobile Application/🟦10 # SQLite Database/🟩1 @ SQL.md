@@ -84,7 +84,7 @@ private static final String WORD_LIST_TABLE = "word_entries";
 public static final String KEY_ID = "_id";
 public static final String KEY_WORD = "word";
 
-// ... and a string array of columns.
+// ... and a string array of columns. (Optional)
 private static final String[] COLUMNS = {KEY_ID, KEY_WORD};
 ```
 
@@ -180,7 +180,7 @@ long insert(String table, String nullColumnHack, ContentValues values)
 	- Workaround that allows you to insert empty rows
 	- Use null
 - Third argument must be a `ContentValues` with values for the row
-- Returns the id of the newly inserted item
+- Returns the id of the newly inserted item. If it was 0 or less then it wasnt inserted successfully
 
 _For example:_
 ```java
@@ -192,8 +192,21 @@ newId = mWritableDB.insert( WORD_LIST_TABLE, null, values);
 int delete (String table, String whereClause, String[] whereArgs)
 ```
 - First argument is table name
-- Second argument is WHERE clause
-- Third argument are arguments to WHERE clause
+- Second argument is WHERE clause, now its a little confusing but in this clause every variable should be a placeholder `?`, and this placeholder is then specified in in the third argument string array, for example:
+	```java
+	String selection = "title = ? AND author = ?";
+	String[] selectionArgs = {"The Catcher in the Rye", "J.D. Salinger"};
+	// Which means i want to delete the entries
+	// WHERE title = "The Catcher in the Rye"
+	//       AND authoer = "J.D. Salinger"
+	```
+	For more info about this refer to the following images:
+	[[Pasted image 20230311125531.png]]
+	[[Pasted image 20230311125551.png]]
+	[[Pasted image 20230311125615.png]]
+	[[Pasted image 20230311125633.png]]
+
+This function returns the number of rows deleted.
 
 _For example:_
 ```java

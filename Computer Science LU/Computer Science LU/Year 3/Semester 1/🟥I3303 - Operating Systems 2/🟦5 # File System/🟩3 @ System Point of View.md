@@ -64,7 +64,7 @@ _More explanation: https://youtu.be/V2Gxqv3bJCk_
 
 Disadvantages
 - The entire table must be inside the memory all the time
-- Suppose I have hard drive 20GB with 1KB block size  I need 20 million entries in FAT. Suppose each entry is 4B, then I need 224 B loaded in memory _(thats a big boy)_
+- Suppose I have hard drive 20GB with 1KB block size, then I need 20 million entries in FAT. Suppose each entry is 4B, then I need 224 B loaded in memory _(thats a big boy)_
 
 ## Multi-level Indexed files: UNIX I-nodes
 We associate for each file a structure called `i-node`. This structure contains all meta-data about the file _(characteristics of the file)_ + the addresses on disk of the data blocks of the file.
@@ -90,7 +90,7 @@ We associate for each file a structure called `i-node`. This structure contains 
 
 **==NOTE:==** The size of a map block is always the same size of a data block.
 
-When the file is opened/created, the correspondent i-node is loaded into memory in another structure called memory i-node [[INSERT LINK]]
+When the file is opened/created, the correspondent i-node is loaded into memory in another structure called [[#Memory i-node|memory i-node]]
 
 In UNIX, a single file can have multiple names in different directories. This is because a file is related to its i-node and not to its name.
 Directory table now contains the file name & i-node number.
@@ -136,7 +136,7 @@ Suppose we want to access the following file: _"/usr/ast/inbox"_
 3. The I-node # is stored in the directory that contains the file inbox -> ast folder
 
 **Steps: _(refer to the image below while following the steps)_**
-1. In root directory, the I-node # of usr is 6 _(root table above)_ -> fetch from disk the I-node # 6 & load it in memory in a table called I-node memory _[[INSERT LINK]]_
+1. In root directory, the I-node # of usr is 6 _(root table above)_ -> fetch from disk the I-node # 6 & load it in memory in a table called [[#Memory i-node|I-node memory]]
 2. I want to read the content of the directory usr -> read the data blocks of the I-node. Suppose block 0 _(direct block)_ in the usr I-node points to 132.
 3. Fetch & load block 132 in disk. The data of this block is the array of entries of the usr folder. _(contains the I-node # & filename of each subfolder/file in it)_
 4. The FS searches this block & suppose it finds the folder ast with I-node # 26
@@ -198,7 +198,7 @@ To open a file:
 
 ## i-node Table
 When a process creates or opens a file, the OS associates for it a row in a table _(in memory)_ called `i-node table.` 
-The i-node table contains entries related to memory i-nodes. This memory I-node table is global for all processes. (_if many processes open the same file, they share the same memory i-node entry for this file)_
+The i-node table contains entries related to memory i-nodes. This memory I-node table is global for all processes. _(if many processes open the same file, they share the same memory i-node entry for this file)_
 
 The i-node table contains used & free rows _(there is a valid attribute for each row)_. Entries are the i-nodes of a file.
 

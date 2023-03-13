@@ -1,3 +1,8 @@
+_Previous [[🟩2 @ exec Family]]_
+
+---
+
+
 We learn here the methods of synchronization between processes. These methods are:
 - Native: `wait()` & `exit()`
 - Unix pipe
@@ -233,3 +238,7 @@ int fd = open(myfifo, O_RDONLY);
 // do your stuff
 close(fd);
 ```
+
+
+---
+_Previous [[🟩2 @ exec Family]]_

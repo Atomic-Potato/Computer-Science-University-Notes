@@ -22,7 +22,7 @@ The address space is divided into segments or pages, which are used to store spe
 `Memory Management Unit (MMU)` is the hardware device that converts `logical` to `physical` addresses based on the schema.
 ![[Pasted image 20230302090452.png]]
 
-To be more exact, when MMU assigns a physical address in the RAM in has to transform the logical address into the physical one
+To be more exact, when MMU assigns a physical address in the RAM, it has to transform the logical address into the physical one
 ![[Pasted image 20230302163014.png]]
 
 Each process has its own address space _([[#Base & Limit Registers]])_
@@ -50,7 +50,7 @@ Limit register = 300
 Then the physical address = 200 + 20 < 300
 
 # Access Binding
-Access binding is fixing physical address to logical address of a process’ address space.
+Access binding is fixing physical address to logical address of a process address space.
 
 Types of access binding:
 - `Compile time binding:` if program location is fixed & known ahead of time, we identify the address during compilation.
@@ -83,7 +83,7 @@ The memory is divided into partitions and each program is put into a single part
 Swapping occurs between processes to allow multiple programs to be executed at once
 
 # Fragmentation
-Consider the following image: _(Read from right to left and top to bottom)_
+Consider the following image: _(Read from left to right and top to bottom)_
 ![[Pasted image 20230302165725.png]]
 
 This is the physical memory, and we are adding processes to it one at a time. You can notice when we added P4 we [[#Swapping|swapped]] it with P2, leaving a small gap, same happens for P5. Now theres enough free space for P6 but its not compacted together.
@@ -213,7 +213,7 @@ Suppose the CPU makes reference to the address 200 bytes (command: mv REG 200).
 Each process has its own page table. 
 The virtual address is split into page number _(higher order bits)_ and offset _(low level bits)_
 
-The page table itself is stored in frame inside the memory. However it may be to big that itself might be decomposed into multiple pages and stored in multiple frames.
+The page table itself is stored in frame inside the memory. However it may be too big that itself might be decomposed into multiple pages and stored in multiple frames.
 The address where its starts is placed in a special register. _(The MMU converts it to know where it is and use it)_
 
 #### Page table structure

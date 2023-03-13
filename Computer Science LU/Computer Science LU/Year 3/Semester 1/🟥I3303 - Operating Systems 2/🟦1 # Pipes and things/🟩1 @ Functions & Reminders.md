@@ -1,3 +1,8 @@
+_Next [[🟩2 @ exec Family]]_
+
+---
+
+
 - `waitpid()`
 	```c
 	waitpid(int pid, int* status, int options).
@@ -48,3 +53,6 @@ When you fork and a file is opened, both processes get their own copy of the ref
 ## Executing files
 - `argc` stores the number of parameters given
 - `argv` the array containing the parameters
+
+---
+_Next [[🟩2 @ exec Family]]_

@@ -46,6 +46,8 @@ ListView list = (ListView)findViewById(R.id.mylist);
 list.setAdapter(myAdapter);
 ```
 
+==NOTE:== if you make an adapter for an  `ArrayList` of a class that doesnt have a `toString()` that is **not overwritten** then you'll get some random stuff displayed in the `ListView`
+
 # Lists Events
 **Lists dont use `onClick` event**. The event listeners must be attached in the Java code, not in the XML.
 For this we need to use Java **anonymous inner classes.** 
