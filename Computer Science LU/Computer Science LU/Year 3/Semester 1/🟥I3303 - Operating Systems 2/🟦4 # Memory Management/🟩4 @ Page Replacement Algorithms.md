@@ -86,6 +86,8 @@ If all the frames referenced:
 	remove the oldest reference
 ```
 
+==NOTE:== if the page is already in, set back the reference bit
+
 ![[Pasted image 20230305101711.png|300]]
 _(12 references, 9 faults)_
 

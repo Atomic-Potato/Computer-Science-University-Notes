@@ -67,8 +67,8 @@ For example, “a student has a name” is a composition relationship between th
 
 ## `Generalization` 
 X is a Y, represented with a straight line and a hollow arrow
-
-[[🟩3 @ Relationships Among Use Cases#Generalizes|It is the same as in a use case diagram]]
+**Remember that this also means inheritance!**
+![[🟩3 @ Relationships Among Use Cases#Generalizes|It is the same as in a use case diagram]]
 
 ## `Implementation` _(interfaces)_
 An interface describes a portion of the visible behaviour of a set of objects.
