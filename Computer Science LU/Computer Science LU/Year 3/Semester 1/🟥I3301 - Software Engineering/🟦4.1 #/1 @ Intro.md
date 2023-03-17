@@ -6,5 +6,5 @@ What we look into in this chapter:
 - Design and administer effective questionnaires.
 
 We will also be looking into 2 methods:
-- [[2 @ Interviewing|Interviewing]]
-- [[3 @ Questionaries|Questionnaries]]
+- [[🟩2 @ Interviewing|Interviewing]]
+- [[🟩3 @ Questionaries|Questionnaries]]

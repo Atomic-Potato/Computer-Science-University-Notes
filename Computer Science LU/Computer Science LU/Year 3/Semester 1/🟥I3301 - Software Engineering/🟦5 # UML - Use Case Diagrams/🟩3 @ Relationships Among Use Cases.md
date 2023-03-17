@@ -29,6 +29,10 @@ _Example_
 _Example_
 ![[Pasted image 20221230222148.png|400]]
 
+its sort of like an if statement as well
+![[Pasted image 20230315193316.png]]
+
+
 ## Note
 Both `included` and `extended` use cases can be common to more than one other use cases. Alternatively meaning use case **factorization** and **reuse**.
 
@@ -40,8 +44,8 @@ Both `included` and `extended` use cases can be common to more than one other us
 1. No `include` nor `extend` from 2 use cases of 2 different actors _(Exception: when solicited actor is an automated external system)_. However this can be stated in the [[🟩5 @ Detailed Textual Description (DTD)|detailed textual description]]
 2. No `include` between any use case and the `login` use case _(idk why he had to include this)_
 	![[Pasted image 20221230223534.png | 400]]
-3. No link between an actor and an `extended` use case
-4. No link between an actor and an `including` use case
+3. No link between an actor and an `extended` use case _(Unless the actor is an automated system or a secondary actor)_
+4. No link between an actor and an `including` use case _(Unless the actor is an automated system or a secondary actor)_
 
 **Note:** Sometimes an actor can trigger both use cases with a relation.
 _Example:_ 

@@ -184,8 +184,8 @@ To open a file:
 2. Fetch the i-node from disk  if the file is not loaded before in memory.
 	The i-nodes are contained in the `i-nodes blocks` as seen in [[#Structure of a Partition]].
 	
-	To get the size of an i-node block / how many i-nodes are in an i-node block _**(remember theres many, not one)**_:
-	$$\Large \color{pink} inode \space block \space size= \frac{size(block)}{size(inode)}$$
+	To get the size of an i-node map block / how many entries in a map block:
+	$$\Large \color{pink} entries = \frac{size(block)}{size(i-node \space entry)}$$
 	To get which i-node block the i-node is in:
 	$$\Large \color{cyan} inode \space block = \frac{inode \space nb}{inode \space block \space size}$$
 	To get which i-node inside the block:

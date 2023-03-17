@@ -1,4 +1,4 @@
-_Next [[3 @ Questionaries]]_
+_Next [[🟩3 @ Questionaries]]_
 _Previous [[1 @ Intro]]_
 
 ---
@@ -106,5 +106,5 @@ _Example:_
 The report should be done as soon as possible. It starts with a summary then more details. And finally it is reviewed with the respondent.
 
 ---
-_Next [[3 @ Questionaries]]_
+_Next [[🟩3 @ Questionaries]]_
 _Previous [[1 @ Intro]]_
