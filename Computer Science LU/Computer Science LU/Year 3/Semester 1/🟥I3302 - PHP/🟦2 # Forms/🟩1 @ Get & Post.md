@@ -44,12 +44,30 @@ This variable is equivalent to the name of the current script and the action ind
 _(For some reason for me i dont have access to it, so just use the same php file name as the action)_
 
 # `GET` VS `POST` (post wins)
-- `GET`:
-	- Cons: adds the name & values of the forum in the URL
-	- Pros: I can send a variable to a page through the URL (like sending back data/errors to the page)
-	![[Pasted image 20221212190250.png]]
-- `POST`: no variables are added to the URL 
+## `GET`:
+- Cons: adds the name & values of the forum in the URL
+- Pros: I can send a variable to a page through the URL (like sending back data/errors to the page)
+	![[Pasted image 20221212190250.png|900]]
+
+You can manually add variable to the url like so:
+- At the end of the URL append `?` to state that you are adding variables
+- append the variable name and its value in this format:
+	```php
+	key=value
+	```
+- if you want to append multiple values to the URL, first append `&` and then append your variable
+- Finally before you append the values, you have to encode them using `urlendcode()`
+
+## `POST`: 
+no variables are added to the URL 
 	![[Pasted image 20221212190307.png]]
+
+One other difference ive found that if you have both the html and php in the same php file, if you use POST and you have a return in main, it will execute and stop everything after it from executing, however in GET it doesnt.
+_For example:_
+![[Pasted image 20230317133122.png]]
+```
+* doesnt do shit if you use GET
+```
 
 # Multiple values
 Some fields allow the entry of several values under the same name _(like checkboxes)_. The name of the input will be an array, and you can access these values as an array in the PHP
@@ -61,3 +79,6 @@ Some fields allow the entry of several values under the same name _(like checkbo
 	echo $_POST['choice'][0];
 ?>
 ```
+
+# ==Notes==
+- When you submit, only the data in the form will show up in the global arrays `$_POST[]` and `$_GET[]` and not everything with a `name` in the html

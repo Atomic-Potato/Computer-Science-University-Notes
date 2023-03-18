@@ -2,7 +2,7 @@
 
 ---
 
-To store a directory we use the function `opendir($directory_string)` which returns a directory.
+To store a directory we use the function `opendir($directory_string)` which returns a `directory`.
 
 To go through the directory we use the `readdir($directory)`. This function has an index at the first item in the directory, when its called it returns the file that is indexed and increments this index.
 ```php

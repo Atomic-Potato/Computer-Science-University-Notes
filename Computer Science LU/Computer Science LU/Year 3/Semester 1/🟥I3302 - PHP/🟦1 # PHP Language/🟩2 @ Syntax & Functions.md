@@ -101,6 +101,12 @@ You can loop through this array like so
 ?>
 ```
 
+To add new entries just simply do dis:
+```php
+// Add a new entry to the $students array 
+$students["Sara"] = 18;
+```
+
 Some functions:
 `Array_count_values($tab)` : returns an associative array containing the values of _\$tab_ as keys and their frequencies as values _(useful to check redundancy)_
 
@@ -169,6 +175,7 @@ Some of the string functions:
 - `strpos($str, $val, [ $start]  )` : returns the first index of the _\$val_ (can be a string or a character) in _\$str_. _\$start_ is optional, it specifies where the index to begin the search. If it is negative, it searches from the end of the string
 - `addslashes($str)` : _(used mainly in forms)_ this function returns a new string with added / before the special characters (like “ or ‘ or \\) so that they don’t cause any unintentional effect
 - `ord($char)` : returns the ASCII value of the char
+- `explode($delimiter, $string)` : splits a string into an array based on a specified delimiter
 
 # Number Formatting
 ```php

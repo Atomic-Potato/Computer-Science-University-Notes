@@ -58,6 +58,7 @@ $_SESSION['preference'] = $preference;
 ---
 
 To destroy a session use `session_destroy()`
+To name a sessions use `session_name()` before `session_start()` _(if you want to access the same session from another file, then just do the same thing)_
 
 When a visitor visits your site, PHP will automatically check _(if `session.auto_start` is enabled)_ or on request _(explicitly with `session_start()` or implicitly with `session_register ()`)_ if there is a session with the same name. 
 If this is the case, the previously saved environment will be recreated.
@@ -67,7 +68,8 @@ If this is the case, the previously saved environment will be recreated.
 <?php
 	session_start() ;
 	$sample=$_SESSION['sample_hidden'];
-	$product=$_POST['product'];$quantity=$_POST['quantity'];
+	$product=$_POST['product'];
+	$quantity=$_POST['quantity'];
 ?>
 <html><head><title> Order Product 2 </title> </head>
 <body>

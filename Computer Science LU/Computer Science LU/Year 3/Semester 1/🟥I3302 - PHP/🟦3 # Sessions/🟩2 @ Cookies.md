@@ -20,13 +20,13 @@ setcookie($cookie_name, $cookie_value);
 
 To create a more permanent cookie on the hard drive you need to use the time() function when want to set a cookie on a hard drive. 
 ```php
-//$expire = time() + $seconds;
+//$expire = time() + $seconds; // time() returns the current date
 $expire = time() + (60 * 60 * 24 * 10);
 setcookie('Preference', 'Likes Chocolate', $expire);
 ```
 
 # Reading Cookies
-User the supper global variable `$_COOKIE`
+Use the supper global variable `$_COOKIE`
 ```php
 $cookie_value = $_COOKIE[$cookie_name];
 ```

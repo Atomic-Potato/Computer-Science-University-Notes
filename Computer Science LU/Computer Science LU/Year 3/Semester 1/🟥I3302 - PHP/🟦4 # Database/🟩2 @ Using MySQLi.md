@@ -21,7 +21,7 @@ By using  methods to **connect, fetch, execute** ...
 // This function returns a resource rather than an object
 $db = mysqli_connect("localhost", "user", "password", "database");
 
-// Checkinh for connection errors
+// Checking for connection errors
 // This function returns an error number on error, or zero on success
 if(mysqli_connect_errno()){ 
 	echo "<p>Error: Couldn't connect to the database</p>";

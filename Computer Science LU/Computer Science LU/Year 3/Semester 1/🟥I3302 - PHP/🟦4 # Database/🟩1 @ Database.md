@@ -11,8 +11,7 @@ _Next [[🟩2 @ Using MySQLi]]_
 6. The web server passes the HTML back to the browser, where the user can see the result requested.
 
 # MySQL
-One of the specificities of MySQL is to be able to manage multiple engines in
-a single database. 
+One of the specificities of MySQL is to be able to manage multiple engines in a single database. 
 Each table can use a different engine within a database. This is to optimize the use of each table.
 
 The most 2 important engines of MySQL are:
