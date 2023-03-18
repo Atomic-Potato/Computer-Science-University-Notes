@@ -20,3 +20,4 @@
 		<input type="text" name="randnum" value=<?php echo $random;?>>
 	</html>
 	```
+- You should include the `value=""` in the `<input>` even if theres no initial value, otherwise PHP wont take your value

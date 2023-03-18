@@ -155,6 +155,7 @@ Its inconsistent as fuck
 	if('0')  // false
 	if('00') // TRUE
 	if(" ")  // TRUE
+	// well it actually makes sense now that i look at it again
 ?>
 ```
 

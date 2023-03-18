@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "signal(",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -456,6 +456,7 @@
     "Excalidraw/Practice/OS 2/Final/2022 1st Session/Code.md",
     "Excalidraw/Practice/OS 2/Final/2022 1st Session",
     "Excalidraw/Practice/OS 2/Final",
+    "Excalidraw/Practice/OS 2/Final/2022 1st Session",
     "Excalidraw/Practice/OS 2",
     "Excalidraw/Practice",
     "Pasted Image 20230314174319_750.png",

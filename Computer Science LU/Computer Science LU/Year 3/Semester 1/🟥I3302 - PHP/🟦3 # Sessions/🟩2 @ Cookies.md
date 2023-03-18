@@ -6,6 +6,8 @@ _Previous_ [[🟩1 @ Hidden Fields & Mails]]
 # What are cookies
 Cookies are small files saved on the client's hard disk by a web application. This file saves some information _(like login information)_ for smoother / faster and easier navigation when the client visits the site again.
 
+![[t9y87m5f0pz41.webp | 250]]
+
 # Limits of Cookies
 - Users can easily disable the cookies feature.
 - People move around.
