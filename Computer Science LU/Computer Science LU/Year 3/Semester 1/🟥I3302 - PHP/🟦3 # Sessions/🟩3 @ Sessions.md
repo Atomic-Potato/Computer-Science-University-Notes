@@ -63,6 +63,9 @@ To name a sessions use `session_name()` before `session_start()` _(if you want t
 When a visitor visits your site, PHP will automatically check _(if `session.auto_start` is enabled)_ or on request _(explicitly with `session_start()` or implicitly with `session_register ()`)_ if there is a session with the same name. 
 If this is the case, the previously saved environment will be recreated.
 
+# ==Notes==
+- You can pass `$_SESSIONS` as a parameter itself
+
 # Example
 ```php
 <?php

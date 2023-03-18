@@ -44,6 +44,10 @@ Its also useful in:
 - Helping to protect against SQL injection-style attacks
 
 ```php
+// :::::NOTE:::::
+// We're gonna showcase prepared statements
+// using object oriented MySQLi
+
 // Notice how we here got an object of the database
 $db = new mysqli("host", "username", "password", "database");
 
@@ -82,9 +86,34 @@ $stmt->execute();
 $stmt->close();
 ```
 
-# Object Oriented
-Same as prepared statements. _(shit idk, and i cant bother)_
+## Prepared statements in procedural
+```php
+// Create a connection to the database
+$conn = mysqli_connect("localhost", "username", "password", "database");
 
+// Prepare a statement with a placeholder for a variable
+$stmt = mysqli_prepare($conn, "SELECT name, age FROM users WHERE id = ?");
+
+// Bind a value to the placeholder
+$id = 123;
+mysqli_stmt_bind_param($stmt, "i", $id);
+
+// Execute the statement
+mysqli_stmt_execute($stmt);
+
+// Get the results
+mysqli_stmt_bind_result($stmt, $name, $age);
+
+// Fetch the results
+while(mysqli_stmt_fetch($stmt)) {
+    echo "Name: $name, Age: $age\n";
+}
+
+// Close the statement and connection
+mysqli_stmt_close($stmt);
+mysqli_close($conn);
+
+```
 ---
 _Next [[🟩3 @ Example & PHPMyAdmin]]_
 _Previous [[🟩1 @ Database]]_

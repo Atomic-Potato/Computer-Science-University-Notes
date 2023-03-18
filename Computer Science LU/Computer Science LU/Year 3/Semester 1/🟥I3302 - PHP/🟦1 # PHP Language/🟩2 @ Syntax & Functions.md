@@ -168,12 +168,13 @@ Some of the string functions:
 - `strtolower($str)` 
 - `strtoupper($str)` 
 - `trim($str)` : removes extra spaces at the beginning & end of a string
-- `substr($str,$i, $j) `
+- `substr($str,$i, $j)` : where `$i` is where to start and `$j` is where to end 
 - `strcmp($str1,$str2)` 
 	- 0 if $str1 == $str2
 	- <0 if $str1 < $str2
 	- \>0 if $str1 \> $str2
-- `strpos($str, $val, [ $start]  )` : returns the first index of the _\$val_ (can be a string or a character) in _\$str_. _\$start_ is optional, it specifies where the index to begin the search. If it is negative, it searches from the end of the string
+- `strpos($str, $val, [ $start]  )` : returns the first index of the _\$val_ (can be a string or a character) in _\$str_. _\$start_ is optional, it specifies where the index to begin the search. If it is negative, it searches from the end of the string.
+  This function returns **FALSE** if it doesnt find anything, otherwise its position
 - `addslashes($str)` : _(used mainly in forms)_ this function returns a new string with added / before the special characters (like “ or ‘ or \\) so that they don’t cause any unintentional effect
 - `ord($char)` : returns the ASCII value of the char
 - `explode($delimiter, $string)` : splits a string into an array based on a specified delimiter
