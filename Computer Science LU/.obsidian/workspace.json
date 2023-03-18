@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2da41b5e111179cc",
+        "id": "c6ba510addc849ae",
         "type": "tabs",
         "children": [
           {
-            "id": "b884e16c9c55cd10",
+            "id": "0de9598794b663fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/im in too much of a rush to organize these.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea31e1fea41c8895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩5 @ Detailed Textual Description (DTD).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ade3139fc94f529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩3 @ Relationships Among Use Cases.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟧Misc Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "signal(",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/im in too much of a rush to organize these.md",
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟧Misc Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/im in too much of a rush to organize these.md"
+                "file": "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟧Misc Notes.md"
               }
             }
           }
@@ -400,52 +376,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b884e16c9c55cd10",
+  "active": "0de9598794b663fe",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/Understanding UML Class Relationships.pdf",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/1..png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟪 # Laravel/🟩2 @ Basics.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟪 # Laravel/🟩1 @ Intro.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦1 # PHP Language/🟩1 @ What is PHP.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟧Misc Notes.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 #/🟩3 @ Questionaries.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 #/🟩2 @ Interviewing.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Screenshot 2023-03-14 173829.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Screenshot 2023-03-14 164542.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315202655.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315193316.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315182029.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315170613.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315160019.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315155851.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315155834.png",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315155802.png",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/im in too much of a rush to organize these.md",
-    "Excalidraw/Practice/OS 2/Final/2022 1st Session/Solving.md",
-    "Excalidraw/Practice/OS 2/Final/2022 1st Session/Code.md",
-    "Excalidraw/Practice/OS 2/Final/2022 1st Session",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/Understanding UML Class Relationships.pdf",
+    "Computer Science LU/Year 3/Semester 1/Semester 1.zip",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/Project Notes.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦4 # Database/🟩3 @ Example & PHPMyAdmin.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦4 # Database/🟩2 @ Using MySQLi.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦4 # Database/🟩1 @ Database.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦3 # Sessions/🟩3 @ Sessions.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦3 # Sessions/🟩2 @ Cookies.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Application Layer/🟩1 @ Webb & HTTP.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦3 # Sessions/🟩1 @ Hidden Fields & Mails.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Application Layer/🟩3 @ Domain Name System (DNS).md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦2 # Application Layer/🟩2 @ FTP.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩5 @ Transmission Control Protocol (TCP).md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩4 @ User Datagram Protocol (UDP).md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩3 @ Multiplexing & De-Multiplexing.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩2 @ Transport Layer Services.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2/🟦1 # Transport Layer/🟩1 @ ICMP & Trace Route.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦2 # Forms/🟩5 @ Browsing Files.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3304 - Network 2.zip",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦2 # Forms/🟩4 @ Browsing Directories.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦2 # Forms/🟩3 @ Uploading Files.md",
+    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟦2 # Forms/🟩2 @ Redirection To Pages.md",
+    "Excalidraw/Practice/OS 2/Partial",
     "Excalidraw/Practice/OS 2/Final",
+    "Excalidraw/Practice/OS 2/Final/2022 1st Session",
     "Excalidraw/Practice/OS 2",
     "Excalidraw/Practice",
-    "Pasted Image 20230314174319_750.png",
-    "Pasted Image 20230314171012_879.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315202655.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315182029.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315160019.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315155802.png",
-    "Pasted image 20230314182101.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/2.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩5 @ Detailed Textual Description (DTD).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦7 # UML - Sequence Diagram/1 @ Sequence Diagram.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩3 @ Relationships Among Use Cases.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩1 @ Unified Modeling Language (UML).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦11 # Testing/🟩1 @ Testing.md",
-    "Computer Science LU/Year 3/Semester 1/Semester 1.zip",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦1 # Software Engineering Steps/🟩1 @ Software Engineering Steps.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🖼I3301 Pictures/Pasted image 20230315193316.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩2 @ Actors.md",
-    "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
-    "Computer Science LU/Year 3/Semester 1/- To Do List.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩6 @ Use Case Diagarm Creation Tips.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦5 # UML - Use Case Diagrams/🟩4 @ Scenarios.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/Understanding UML Class Relationships 1.docx",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/Understanding UML Class Relationships.docx",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [100](4) % I2207 - Computer Architecture/🟦3 # Program Execution/🟩2 @ Fetch & Decode.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [100](4) % I2207 - Computer Architecture/🟦2 # Instruction Set Architecture (ISA)/🟩2 @ Instruction Formats.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [100](4) % I2207 - Computer Architecture/🟦2 # Instruction Set Architecture (ISA)/🟩1 @ Intro.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [100](4) % I2207 - Computer Architecture/🟦1 # Hardware & Software Abstraction/2 @ Software Abstraction.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [100](4) % I2207 - Computer Architecture/🟦1 # Hardware & Software Abstraction/1 @ Hardware Abstraction.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦6 # UML - Class Diagrams/1 @ Class Diagrams.md",
-    "SOFTWARE ENGINEERING NOTES.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 #/🟩2 @ Interviewing.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 #/🟩3 @ Questionaries.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4.1 #/1 @ Intro.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦0 # Intro/🟩1 @ Intro.md",
-    "Excalidraw/Practice/OS 2/Partial",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟧Project Related Files/Diagrams"
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟧Project Related Files/Diagrams",
+    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟧Project Related Files"
   ]
 }
