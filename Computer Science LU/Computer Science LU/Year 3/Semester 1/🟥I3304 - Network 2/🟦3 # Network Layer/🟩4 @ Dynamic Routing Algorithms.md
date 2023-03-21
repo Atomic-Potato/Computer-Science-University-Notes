@@ -32,7 +32,11 @@ Dynamic Routing Advantages and Disadvantages:
 	- `Static:` routes change slowly overtime
 	- `Dynamic:` routes change more quickly. There are periodic updates, and updates in response to link cost changes.
 
-## Link-State Algorithms: Dijkstra
+## Link-State Routing Protocol
+Link state protocols are also known as SPF (Shortest Path First) protocols. In a link state protocol, each router maintains a detailed and up-to-date map of the entire network topology. Each router sends out periodic updates, called Link State Advertisements (LSAs), to all other routers in the network. These LSAs describe the state of the router's links and interfaces, including their status, cost, and bandwidth. Using this information, each router builds a complete map of the network topology and calculates the shortest path to each destination network. Examples of link state protocols include [[🟩5 @ Dynamic Routing Protocols#Open Shortest Path First (OSPF)|OSPF (Open Shortest Path First)]] and IS-IS (Intermediate System to Intermediate System).
+
+
+### Link-State Algorithms: Dijkstra
 This algorithm computes least cost paths from one node _(“source”)_ to all other nodes. _(Gives forwarding table for that node)_
 
 It is iterative: after k iterations, know least cost path to k destinations.
@@ -76,8 +80,10 @@ resulting forwarding table in u:
 ![[Pasted image 20230225130627.png]]
 
 --- 
+## Distance Vector Routing Protocols
+In a distance vector protocol, each router maintains a table that lists the distance to each known network and the next hop router that should be used to reach that network. Each router sends out periodic updates, called routing updates, to its neighboring routers, which include its entire routing table. Using this information, each router builds its own routing table by iteratively updating its distance estimates based on the information received from its neighbors. Distance vector protocols use metrics such as hop count or bandwidth to determine the best path to a destination network. Examples of distance vector protocols include [[🟩5 @ Dynamic Routing Protocols#Routing Information Protocol (RIP)|RIP (Routing Information Protocol)]] and EIGRP (Enhanced Interior Gateway Routing Protocol).
 
-## Distance Vector Algorithms: Bellman-Ford
+### Distance Vector Algorithms: Bellman-Ford
 Based on Bellman-Ford (BF) equation:
 $\large \color{pink}D_{x}(y)$: estimate of the least cost path from x to y. _(v is the x's neighbor)_
 $$\large \color{pink} D_{x}(y) = min_{v}\{c_{x,v}+D_{v}(y)\}$$ 

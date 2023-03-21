@@ -73,7 +73,7 @@ The `subnet address` is the first address of a subnet, and the `broadcast addres
 
 
 - This may help more:
-![[Pasted image 20221001202457.png | 500]]
+![[Pasted image 20221001202457.png]]
 ![[Pasted image 20221001202535.png]]
 
 ---

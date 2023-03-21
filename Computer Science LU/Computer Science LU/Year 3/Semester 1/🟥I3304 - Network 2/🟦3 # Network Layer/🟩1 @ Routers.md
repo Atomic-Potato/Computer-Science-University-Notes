@@ -24,16 +24,16 @@ high-level view of generic router architecture:
 We have many IP addresses on the internet _("4 billion +")_ and we cant possibly make 4 billion interfaces for each IP address, so instead we set a range of IP addresses to a single interface:
 ![[Pasted image 20230224185547.png|400]]
 
-Once we a packet is reached and we want to forward it, we match the destination IP with the **longest matching prefix** in the table
+Once a packet is reached and we want to forward it, we match the destination IP with the **longest matching prefix** in the table
 ![[Pasted image 20230224185701.png|600]]
 
 # Default Gateways
-To enable network access devices, must be configured with the following IP address information:
+To enable network access, devices must be configured with the following IP address information:
 - `IP address:` Identifies a unique host on a local network.
 - `Subnet mask:` Identifies the host’s network subnet.
 - `Default gateway:` Identifies which router a packet is sent to when the destination is not on the same local network subnet.
   
-  ![[Pasted image 20230225091116.png|500]]
+![[Pasted image 20230225091116.png|700]]
 
 # Network Documentation
 Network documentation helps employees get familiar with the network infrastructure, and helpful when troubleshooting network performance.
@@ -44,7 +44,7 @@ It should include at least the following in a topology diagram and addressing ta
 - IP addresses and subnet masks
 - Default gateways
 
-![[Pasted image 20230225091831.png|500]]
+![[Pasted image 20230225091831.png|700]]
 
 # Assigning an IP to a Host
 There are 2 ways of assigning an IP address to a Host:

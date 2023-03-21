@@ -50,7 +50,8 @@ To check for `RTT` _(round trip time)_, a small packet is sent to the client and
 - one RTT to initiate TCP connection 
 - one RTT for HTTP request and first few bytes of HTTP response to return 
 - file transmission time 
-And the response time total would be `= 2RTT + transmit times` 
+And the response time total would be `= 2RTT + file transmission time` 
+![[Pasted image 20230319093051.png]]
 
 The issues with this: 
 - requires 2 RTTs per object 
@@ -104,10 +105,10 @@ To use telnet type `telnet www.ul.edu.lb 80` in cmd _(80 is used to specify a po
 
 ## Cookies
 ![[t9y87m5f0pz41.webp | 250]]
-![[Pasted image 20230223204215.png | 500]]
+![[Pasted image 20230223204215.png | 700]]
 
 Example of cookies:
-![[Pasted image 20230223204303.png | 500]]
+![[Pasted image 20230223204303.png | 700]]
 
 # Web cache
 Basically it is saving the content of a page into the clients computer / browser for it to be used later for faster access.

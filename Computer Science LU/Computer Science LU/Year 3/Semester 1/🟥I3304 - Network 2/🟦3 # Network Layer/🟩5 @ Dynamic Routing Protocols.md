@@ -57,7 +57,7 @@ _(Link-state advertisements flooded only in area, or backbone)_
 We do multiple areas to reduce the time taken to make a topology.
 
 Things to note:
-- Ther are area boundary routers that allow communication from the area to the backbone
+- There are area boundary routers that allow communication from the area to the backbone
 - Areas cannot communicate with eachother directly, they have to route data through the backbone and then to the other area
 
 _Visual explanation: https://youtu.be/OD3nGIoBQME_

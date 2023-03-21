@@ -14,7 +14,7 @@ TCP splits data into a sequence of segments while identifying each part of the s
 ## ACKs
 Acknowledgements are the sequence number of the next byte expected from the other side.
 
-Acknowledgements are best explained in the following image:
+Acknowledgements are best explained in the following image: _(pay attention to the data length)_
 ![[Pasted image 20230222184639.png|600]]
 
 ![[Pasted image 20230222185010.png|400]]
@@ -58,7 +58,7 @@ In a nutshell, the sender sends an amount of data less than the `rwnd` _(free bu
 _Same process for the receiver._
 
 # TCP Congestion Control
-Congestion happens when too many networks are sending too much data too fast for the **network** to handle. _(This is different from flow control!!)_
+Congestion happens when too many networks are sending too much data too fast for the **network _(not the receiver, but the whole network, like a road system)_** to handle. _(This is different from flow control!!)_
 Because of this, the receiver will drop packets and it will result in a delay.
 
 ## How to handle congestion
@@ -73,7 +73,7 @@ To control congestions sender increases transmission rate _(`cwnd`: congestion w
 $$rate \approx \frac{cwnd}{RTT} \space bytes/sec$$
 
 ## Flow control window OR Congestion control window?
-The window size at the send is set as follows:
+The window size at the sender is set as follows:
 ```c
 Send Window = MIN(flow control window, congestion window)
 ```
@@ -111,7 +111,7 @@ else /*cwnd >= ssthresh*/
 ```
 
 ### Slow Start Example
-![[Pasted image 20230223150535.png|500]]
+![[Pasted image 20230223150535.png|700]]
 
 ## Detecting and reacting to loss
 In the following image you can see at `t = 9` _(x axis)_ the `cwnd` dips down back to 1. This is when TCP detects / assumes theres a congestion at the receiver. 
@@ -129,6 +129,7 @@ Say you have sent 3 segments at the same time:
 - third is received and you get an `ACK=2` **again**. This means the second segment is lost and the receiver is still waiting for the second segment.
 
 ![[Pasted image 20230223152321.png|400]]
+==Correction:== in the image the second ACK is ACK 2 not ACK 3
 
 ## Response to congestion detection
 There are 2 methods for reacting:
@@ -141,6 +142,15 @@ There are 2 methods for reacting:
 In either reaction **`ssthresh` is set to 1/2 of `cwnd`** just before loss event.
 
 ![[Pasted image 20230223151248.png|500]]
+
+# Flow VS Congestion control
+Flow control and congestion control are two mechanisms that work to manage the flow of data between communicating hosts in a network, but they have different objectives and operate at different layers of the network stack.
+
+Flow control is a mechanism used to regulate the flow of data between two hosts in a network, typically between a sender and receiver. The purpose of flow control is to ensure that the receiver can handle the amount of data being sent by the sender. Flow control is typically implemented at the transport layer (e.g. TCP) and operates by using a sliding window protocol. The sender and receiver negotiate a window size, which represents the maximum amount of data that can be sent by the sender before waiting for an acknowledgment from the receiver. The sender will send data up to the window size and then wait for the receiver to acknowledge receipt of the data before sending more data. This helps to prevent the receiver from being overwhelmed with data it cannot handle.
+
+Congestion control, on the other hand, is a mechanism used to prevent the network from becoming congested with too much traffic. Congestion can occur when too much data is being sent over the network, causing delays and packet loss. Congestion control is typically implemented at the network layer (e.g. in the IP protocol) and works by regulating the rate of data flow. Congestion control algorithms such as TCP's AIMD (Additive Increase, Multiplicative Decrease) adjust the sending rate based on network conditions, such as packet loss or delay. The algorithm will increase the sending rate when the network is not congested and decrease it when congestion is detected.
+
+In summary, flow control is used to regulate the flow of data between a sender and receiver to ensure that the receiver can handle the data being sent, while congestion control is used to prevent the network from becoming congested with too much traffic.
 
 ---
 _Previous [[🟩4 @ User Datagram Protocol (UDP)]]_

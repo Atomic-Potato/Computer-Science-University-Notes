@@ -49,5 +49,16 @@ Puts burden of name resolution on contacted name server. _This will probably put
 # DNS records
 The DNS is a database after all, and when requesting an IP, the following query format is used: _(hopefully that made sense, also TTL is time to live)_ 
 ![[10.png|700]]
+
+# Load Balancing
+The basic idea of DNS load balancing is to distribute incoming client requests across multiple servers by using multiple IP addresses for a single domain name.
+
+The DNS load balancing process typically involves the following steps:
+
+1.  The domain owner creates multiple A records with the same name but different IP addresses in the DNS server. These IP addresses correspond to the multiple servers that will handle client requests.
+2.  When a client sends a DNS query for the domain name, the DNS resolver randomly selects one of the IP addresses associated with the domain name and returns it as the answer to the client. The client uses this IP address to establish a connection to the server.
+   
+The server then handles the client request and sends back the response. Since the DNS resolver randomly selected one of the IP addresses associated with the domain name, the load is distributed across the multiple servers.
+
 ---
 _Previous [[🟩2 @ FTP]]_

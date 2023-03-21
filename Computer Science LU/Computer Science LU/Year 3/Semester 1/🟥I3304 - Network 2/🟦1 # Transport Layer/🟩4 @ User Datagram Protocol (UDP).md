@@ -10,7 +10,7 @@ And each  UDP segment handled independently of others.
 
 UDP is used in:
 - Streaming services, since they are loss tolerant and data transfer rate sensitive.
-- [[DNS]]
+- [[🟩3 @ Domain Name System (DNS)|DNS]]
 - SNMP
 
 However you can add functionality to the UDP in the application layer, this way you can take what you only need in the [[🟩5 @ Transmission Control Protocol (TCP)|TCP]] and implement it in the UDP.

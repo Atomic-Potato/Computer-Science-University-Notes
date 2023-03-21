@@ -61,7 +61,7 @@ If a host sends a packet to a device outside its network IP, the packet is forwa
 **The ARP role is the association between `IP` to `MAC` address**
 
 _Difference between IP and MAC addresses:_
-![[Pasted image 20230221222442.png]]
+![[Pasted image 20230221222442.png|700]]
 
 The ARP protocol is responsible for finding the device that we are sending a packet to. 
 To do this it looks for the public `IP address` of the device we're sending a packet to on the network. And then it looks into the routing table to see if it knows the `MAC address` for this `IP address`:
@@ -71,7 +71,7 @@ To do this it looks for the public `IP address` of the device we're sending a pa
 That was how it would work on a local network, but the process is the same on a global network, where this protocol is applied on each router.
 
 **_Note:_** Difference between local and global IP addresses:
-![[Pasted image 20230221222411.png]]
+![[Pasted image 20230221222411.png|700]]
 
 
 ## ARP Table
@@ -119,8 +119,8 @@ Best path is selected by a routing protocol based on the value or metric it uses
 ==**Note:** A metric is the value used to measure the distance to a given network. Best path to a network is the path with the lowest metric.==
 
 Dynamic routing protocols use their own rules and metrics to build and update routing tables, which are:
-- [[Routing Information Protocol (RIP)]]: Hop count
-- [[Open Shortest Path First (OSPF):]] Cost based on cumulative bandwidth from source to destination
+- [[🟩5 @ Dynamic Routing Protocols#Routing Information Protocol (RIP)|Routing Information Protocol (RIP)]]: Hop count
+- [[🟩5 @ Dynamic Routing Protocols#Open Shortest Path First (OSPF)|Open Shortest Path First (OSPF):]] Cost based on cumulative bandwidth from source to destination
 - [[Enhanced Interior Gateway Routing Protocol (EIGRP)]]: Bandwidth, delay, load, reliability
 
 ## Load Balancing
@@ -128,8 +128,9 @@ When a router has two or more paths to a destination with equal cost metrics, th
 ![[Pasted image 20230225102431.png|300]]
 
 ## Administrative Distance
-When multiple paths to the same destination are available in its routing
-table, the router uses the route with the **lowest Administrative Distance
+Administrative distance is a metric used in routing protocols to indicate the reliability or trustworthiness of a particular routing information source. It is a value assigned to each routing protocol or method, and it is used by the router to select the best path when it receives multiple routing updates for the same destination network from different sources.
+
+When multiple paths to the same destination are available in its routing table, the router uses the route with the **lowest Administrative Distance
 _(AD)_** _(A static route with an AD of 1 is more reliable than an EIGRP-discovered route
 with an AD of 90.)_
 ![[Pasted image 20230225102632.png|600]]

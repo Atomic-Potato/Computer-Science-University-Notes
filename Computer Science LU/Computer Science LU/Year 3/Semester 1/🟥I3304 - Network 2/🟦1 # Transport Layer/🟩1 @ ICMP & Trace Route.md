@@ -24,7 +24,7 @@ When nth datagram arrives to nth router, then:
 - The datagram sent from the sauce includes router IP address. 
 - Traceroute does a [[🟩3 @ Domain Name System (DNS)|DNS]] lookup  to find the name of the router _(if it has it)_ 
 
-When the ICMP message arrives, the source calculates the RTT. Traceroute repeats this process 3 times to ge the average RTT.
+When the ICMP message arrives, the source calculates the RTT. Traceroute repeats this process 3 times to get the average RTT.
 _(Round-trip time (RTT) is the duration in milliseconds it takes for a network request to go from a starting point to a destination and back again to the starting point.)_
 
 This process may fail if the ICMP message returns _"port unreachable (type 3, code 3)"_, _(Maybe it doesn’t want to identify its identity)_
@@ -38,7 +38,7 @@ Router 1 decrements the TTL, TTL becomes 0 ->
  Router 2 decrements the TTL, TTL becomes = 0 ->
  ![[Pasted image 20230222152841.png]]
 
-Source saves the IP of router 2, and then resends the packet with TTL=3 -> Router 3 will detect a TTL = 0 -> sends an ICMP TTL expired packet  Source saves IP of Router 3
+Source saves the IP of router 2, and then resends the packet with TTL=3 -> Router 3 will detect a TTL = 0 -> sends an ICMP TTL expired packet. Finally the source saves IP of Router 3
 
 Source sends the packet again with TTL = 4 -> reaches the destination
 The Trace Route would be:

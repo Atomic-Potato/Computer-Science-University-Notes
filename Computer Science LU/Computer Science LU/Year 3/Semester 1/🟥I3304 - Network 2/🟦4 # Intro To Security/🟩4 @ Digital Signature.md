@@ -7,8 +7,8 @@ A digital signature is a cryptographic technique analogous to hand-written signa
 2. recipient can prove to someone that the sender, and no one else _(including the recipient)_, must have signed the document.
 
 _Simple digital signature for message m:_
-![[Pasted image 20230301103625.png|600]]
-![[Pasted image 20230301103746.png|600]]
+![[Pasted image 20230301103625.png]]
+![[Pasted image 20230301103746.png]]
 
 # Message Digests
 A message digest is a fixed-length, condensed representation of a message or data that is used to ensure the integrity and authenticity of the message.
