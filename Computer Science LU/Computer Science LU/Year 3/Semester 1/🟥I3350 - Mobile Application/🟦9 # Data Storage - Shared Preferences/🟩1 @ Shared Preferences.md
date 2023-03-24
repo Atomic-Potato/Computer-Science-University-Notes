@@ -87,5 +87,5 @@ SharedPreferences.OnSharedPreferenceChangeListener listener = new SharedPreferen
 };
 prefs.registerOnSharedPreferenceChangeListener(listener);
 
-// we kept a reference to the listen so we can unregister it later
+// we kept a reference to the listener so we can unregister it later
 ```

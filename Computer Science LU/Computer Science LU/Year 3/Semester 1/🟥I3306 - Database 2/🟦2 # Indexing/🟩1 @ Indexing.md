@@ -43,6 +43,8 @@ And so what we do is we make multiple **Block-1** that are chained together:
 Creating an index:
 ```sql
 CREATE INDEX index_name
+-- OR
+CREATE NONCLUSTERED INDEX index_name
 ON table_name (column1, column2, ...);
 ```
 
