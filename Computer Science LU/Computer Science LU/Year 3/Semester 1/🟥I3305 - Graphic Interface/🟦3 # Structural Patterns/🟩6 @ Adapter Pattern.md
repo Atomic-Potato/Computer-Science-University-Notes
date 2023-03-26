@@ -2,8 +2,7 @@ _Next [[🟩7 @ Facade Pattern]]_
 _Previous [[🟩5 @ Proxy Pattern]]_
 
 ---
-`Adapter` is a structural design pattern that **allows objects with
-incompatible interfaces to collaborate.**
+`Adapter` is a structural design pattern that **allows objects with incompatible interfaces to collaborate.**
 
 # Structure
 ![[Pasted image 20230220121847.png]]

@@ -3,9 +3,7 @@ _Previous [[🟩3 @ Visitor]]_
 
 ---
 
-`Strategy` is a behavioral design pattern that lets you **define a
-family of algorithms, put each of them into a separate class, and
-make their objects interchangeable.**
+`Strategy` is a behavioral design pattern that lets you **define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.**
 
 # Problem
 One day you decided to create a navigation app for casual travelers. The app was centered around a beautiful map which helped users quickly orient themselves in any city.

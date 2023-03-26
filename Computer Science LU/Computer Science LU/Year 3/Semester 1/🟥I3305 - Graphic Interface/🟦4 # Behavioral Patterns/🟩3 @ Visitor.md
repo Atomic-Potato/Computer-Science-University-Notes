@@ -26,7 +26,7 @@ We need to do the following:
 	- **_accept()_** `Developer` and `Designer` invoke **_visit()_** for this
 	- _**accept()**_ in `Manager` invokes **_visit()_** for this and then invokes **_accept()_** for all subordinate employees, which will cause visit to be called for them, and all their subordinates, etc.
 
-![[Pasted image 20230210153228.png|500]]
+![[Pasted image 20230210153228.png]]
 
 ## Implementation
 _(Feel free to skip to [[🟩3 @ Visitor#Structure|Structure]])_
