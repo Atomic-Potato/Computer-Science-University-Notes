@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62dccf02bf7346ca",
+            "id": "0efb0a67ca99c2a7",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -60,6 +60,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b837f395880170c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -388,12 +396,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a133da79ec1f1a5a",
+  "active": "0efb0a67ca99c2a7",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/I3344 Pictures/Pasted image 20230418194345.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503230521.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩1@ ArcGIS.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩3@ Data Integrity.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨Quick Info.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩2@ Geodatabase.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503232546.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503232205.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503231637.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503231230.png",
+    "Computer Science LU/Year 3/Semester 2/📝ToDo.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503184513.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503184158.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503184040.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503183044.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503164306.png",
+    "Computer Science LU/Year 3/Semester 2/⌛Schedules & Other Info.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/I3344 Pictures",
-    "Pasted image 20230418194401.png",
-    "letter-a-aaa.gif",
     "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦2 # Design Patterns & The Creational Patterns/🟩4 @ Singleton Pattern.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md",
@@ -413,27 +435,13 @@
     "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [70.00](3) % I2234 - Image Processing/🟦2 # Matlab/🟩2 @ Function Decleration.md",
     "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [70.00](3) % I2234 - Image Processing/🟦2 # Matlab/🟩1 @ Sytanx & Functions.md",
     "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦2 # Relational Model/🟩2 @ Formal Languages.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦2 # Relational Model/🟩1 @ Data Definition Language (DDL).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦6 # Java Database Connectivity/🟩1 @ JDBC.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🟦13 # Broadcasts/🟨Broadcats in a nutshell.md",
-    "Excalidraw/thinking.md",
-    "Computer Science LU/Year 3/Semester 2/📝ToDo.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦2 # Design Patterns & The Creational Patterns/🟩2 @ Factory Method.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation",
-    "Computer Science LU/Year 3/Semester 1/🟥I3302 - PHP/🟪 # Laravel Project/✏️WhiskerTask ERD.png",
-    "Pasted image 20230330122017.png",
-    "Personal Notes/Too lazy to organize/Pasted image 20230330122037.png",
-    "Pasted image 20230330121949.png",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling",
     "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language",
     "Computer Science LU/Year 3/Semester 2/🟥I3331 - Computer Science And Society",
     "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science",
-    "Computer Science LU/Year 3/Semester 2/🟥I3307 - Language Theory",
-    "Computer Science LU/Year 3/Semester 2/🟥L3300 - Foreign Language",
-    "Excalidraw/Boards pics/Pasted Image 20230326184226_196.png",
-    "Excalidraw/Boards pics/Pasted Image 20230326151731_447.png",
-    "Computer Science LU/Year 3/Semester 1/🟥I3350 - Mobile Application/🖼I3350 Pictures/Pasted image 20230322212744.png"
+    "Computer Science LU/Year 3/Semester 2/🟥I3307 - Language Theory"
   ]
 }

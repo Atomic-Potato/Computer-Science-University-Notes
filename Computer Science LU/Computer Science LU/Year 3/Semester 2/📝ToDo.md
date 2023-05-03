@@ -8,7 +8,9 @@ kanban-plugin: basic
 
 **Complete**
 - [x] I3340 Lectures missing
+- [x] Lecture 2 Notes
 - [x] Lecture 1 Notes
+- [x] Lecture 3 Notes
 - [x] Make an account for Ali
 - [x] Report
 - [x] L3300 Lectures missing
@@ -26,8 +28,6 @@ kanban-plugin: basic
 
 ## I3308 - Project
 
-- [ ] Lecture 2 Notes
-- [ ] Lecture 3 Notes
 - [ ] Lecture 4 Notes
 
 
