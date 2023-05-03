@@ -7,18 +7,35 @@ kanban-plugin: basic
 ## DONE
 
 **Complete**
+- [x] I3340 Lectures missing
+- [x] Lecture 1 Notes
+- [x] Make an account for Ali
+- [x] Report
+- [x] L3300 Lectures missing
+- [x] 4/5th session
+- [x] [DUE: 11th April] ]Mapping assignment
+- [x] 4/3rd session
+- [x] Update PHP
+- [x] The questions doc, just find what they mean (SOFT Deadline: 4th / 4)
+
+
+## GENERAL
+
+- [ ] I3331 Lectures missing
+
+
+## I3308 - Project
+
+- [ ] Lecture 2 Notes
+- [ ] Lecture 3 Notes
+- [ ] Lecture 4 Notes
 
 
 ## I3331 - Computer Science And Society
 
-- [ ] The questions doc, just find what they mean (SOFT Deadline: 4th / 4)
 
 
 ## I3307 - Language Theory
-
-
-
-## I3308 - Project
 
 
 
@@ -42,7 +59,11 @@ kanban-plugin: basic
 
 
 
+***
 
+## Archive
+
+- [x] Install ArcGIS Pro
 
 %% kanban:settings
 ```
