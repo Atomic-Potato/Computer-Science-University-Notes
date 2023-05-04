@@ -1,19 +1,21 @@
 {
   "main": {
-    "id": "3f4326daf0771807",
+    "id": "6dc2b9d639fb3286",
     "type": "split",
     "children": [
       {
-        "id": "102ac5ec63518b61",
+        "id": "65ae0a5bee8735a3",
         "type": "tabs",
         "children": [
           {
-            "id": "0efb0a67ca99c2a7",
+            "id": "7a27ea26a4f6014f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo.md"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩4@ Tabular Data Associations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -23,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9794836494026d6f",
+    "id": "037c2d798a04ee59",
     "type": "split",
     "children": [
       {
-        "id": "15dd352549d2a055",
+        "id": "cd0932603dacea54",
         "type": "tabs",
         "children": [
           {
-            "id": "a133da79ec1f1a5a",
+            "id": "c1e711b6968ed487",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,30 +43,22 @@
             }
           },
           {
-            "id": "10465fe4d6cdae34",
+            "id": "9981976e6d6bb403",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "img",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "43171e5a5db95a41",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "9b837f395880170c",
+            "id": "dba528ef480ad998",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,373 +69,96 @@
       }
     ],
     "direction": "horizontal",
-    "width": 630
+    "width": 395
   },
   "right": {
-    "id": "f745b8ca6ab79aef",
+    "id": "9a43e295339a9d68",
     "type": "split",
     "children": [
       {
-        "id": "d1eb603264a35059",
+        "id": "2b0070e8d69487a7",
         "type": "tabs",
         "children": [
           {
-            "id": "0dfbfde7802b1ebe",
+            "id": "cc27c1bea688278b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo.md",
-                "collapseAll": true,
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩4@ Tabular Data Associations.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "eb8981ac095686f6",
+            "id": "0fc037ff5a0a36ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩4@ Tabular Data Associations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cd2dbe0deecc793",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0946cf2ff73d79e5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo.md"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩4@ Tabular Data Associations.md"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "67274d14f708fcb0",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "9ddef163ee69f062",
+            "id": "486a015fb8a91278",
             "type": "leaf",
             "state": {
-              "type": "ob_comments",
+              "type": "quiet-outline",
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "bf081f5d05708a87",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff14638a940f03a4",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "f5bdf78596dcb479",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ebd7af058c877f9",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "9205b03ed8f2bc2c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a718b1990c63865d",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "1d5b548f659bf8f3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6e166ee41b6af6cf",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "eb5afcbba39f8e92",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a45e610062f5a10",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "c0f38a32bd925bd5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "51ba77f197b81575",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "2bdf8975bddcd28f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3ffe810e195eaf98",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "ad6930f954bbdff1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c94fcb64305a1292",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "47bbf26964c7f168",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "549ec6ff949c46fa",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "677b202f6d784a61",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ebf09fbf56c2d10d",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "2320f1b2e8ec533f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "026008422e7850f5",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "9df9fd02882d9a28",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b811e814b560fdec",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "86c56d6209addf3f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86d8a2ccc6d4c42d",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "1923fdfe4257b079",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7ccca777573aa1a8",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "f90f4dbb6184b1cb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "65a1aa641b936dc5",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "9d9e95a41ae4dedd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5570a2cc57ce3859",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "8eac8bdec0ee628a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a378a5b09caa1235",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "8d3a7fd5103f044d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a6fb8cd401feae7",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 364
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-comments:Show Comments Panel": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "0efb0a67ca99c2a7",
+  "active": "7a27ea26a4f6014f",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503230521.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩1@ ArcGIS.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩3@ Data Integrity.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨Quick Info.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩2@ Geodatabase.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503232546.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503232205.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503231637.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503231230.png",
     "Computer Science LU/Year 3/Semester 2/📝ToDo.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503184513.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503184158.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503184040.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503183044.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230503164306.png",
-    "Computer Science LU/Year 3/Semester 2/⌛Schedules & Other Info.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/I3344 Pictures",
-    "Computer Science LU/Year 3/Semester 1/-- Schedule & Info.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦2 # Design Patterns & The Creational Patterns/🟩4 @ Singleton Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩1 @ Structural Patterns.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩2 @ Flyweight Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩3 @ Bridge Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩4 @ Composite Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩5 @ Proxy Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩6 @ Adapter Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦3 # Structural Patterns/🟩7 @ Facade Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩1 @ Behavioral Patterns.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩2 @ Iterator.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩3 @ Visitor.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩4 @ Strategy.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3305 - Graphic Interface/🟦4 # Behavioral Patterns/🟩5 @ Observer.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩1 @ Intro.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [70.00](3) % I2234 - Image Processing/🟦2 # Matlab/🟩3 @ Useful Functions.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [70.00](3) % I2234 - Image Processing/🟦2 # Matlab/🟩2 @ Function Decleration.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [70.00](3) % I2234 - Image Processing/🟦2 # Matlab/🟩1 @ Sytanx & Functions.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 2 [16.21]/🟥DONE [75.00](5) % I2210 - Database 1/🟦2 # Relational Model/🟩2 @ Formal Languages.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language",
-    "Computer Science LU/Year 3/Semester 2/🟥I3331 - Computer Science And Society",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science",
-    "Computer Science LU/Year 3/Semester 2/🟥I3307 - Language Theory"
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩1@ ArcGIS.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/I3308 Pictures/Pasted image 20230504143343.png"
   ]
 }

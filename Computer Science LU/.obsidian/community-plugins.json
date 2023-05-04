@@ -1,7 +1,7 @@
 [
-  "obsidian-comments",
-  "execute-code",
   "obsidian-excalidraw-plugin",
+  "execute-code",
+  "obsidian-kanban",
   "obsidian-latex-suite",
-  "obsidian-kanban"
+  "obsidian-quiet-outline"
 ]

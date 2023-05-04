@@ -42,7 +42,7 @@ In the attributes table of a raster data, it contains the value of the pixel *(i
 ## Tabular Data
 tables duh.
 
-Every row from the table is called a feature
+Every row from the table is called a feature ^763d56
 
 When creating new table, an ObjectID column is created by default to keep track of each entry.
 
@@ -77,3 +77,9 @@ ArcGIS geoprocessing tool that overwrites the coordinate system information _(m
 
 ## Project
 Projects spatial data from one coordinate system to another
+
+## Table To Domain
+Creates or updates a coded value domain with values from a table
+
+## Frequency
+Basically reads the values of a table column and makes a new table containing the value and its frequency

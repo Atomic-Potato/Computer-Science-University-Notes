@@ -12,7 +12,7 @@ In the **Catalog Pane -> Project Tab** you can create a new geodatabase *(One is
 
 Within this database we can create `Feature Classes`. Which are basically tables in the database but that are of a specific [[🟩1@ ArcGIS#Types of Data|data type]]
 ![[Pasted image 20230503231637.png]]
-Additionally for any feature class, you can create as many attributes as needed for that class.
+Additionally for any feature class, you can create as many attributes as needed for that class. ^d0b334
 
 Once this feature class is created, it will add a new `Feature Layer` in the contents pane.
 

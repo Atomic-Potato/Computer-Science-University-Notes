@@ -11,6 +11,7 @@ kanban-plugin: basic
 - [x] Lecture 2 Notes
 - [x] Lecture 1 Notes
 - [x] Lecture 3 Notes
+- [x] Lecture 4 Notes
 - [x] Make an account for Ali
 - [x] Report
 - [x] L3300 Lectures missing
@@ -28,7 +29,7 @@ kanban-plugin: basic
 
 ## I3308 - Project
 
-- [ ] Lecture 4 Notes
+- [ ] Assignment
 
 
 ## I3331 - Computer Science And Society
