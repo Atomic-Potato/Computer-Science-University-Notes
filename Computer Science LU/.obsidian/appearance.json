@@ -1,4 +1,5 @@
 {
   "accentColor": "#ffb3fc",
-  "cssTheme": "Mado Miniflow"
+  "cssTheme": "Mado Miniflow",
+  "baseFontSize": 20
 }

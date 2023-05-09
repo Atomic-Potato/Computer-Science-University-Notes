@@ -32,6 +32,11 @@ kanban-plugin: basic
 - [ ] Assignment
 
 
+## I3344 - Numerical Simulation And Modeling
+
+- [ ] Quantification of error chap 1
+
+
 ## I3331 - Computer Science And Society
 
 
@@ -49,10 +54,6 @@ kanban-plugin: basic
 
 
 ## I3340 - Parallel Programming
-
-
-
-## I3344 - Numerical Simulation And Modeling
 
 
 
