@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "fd9704cea30d506b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1123d2720970dc2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computer Science LU/Year 3/Semester 2/🟥I3307 - Language Theory/🟨Mathematical Notations.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05cdeac8e77700cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9a1d501a430d1fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10e9aaa81cd9496d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f07554338aa58c7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 556.5
+  },
+  "right": {
+    "id": "2326817bdda550d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b7143eb4f7b5b39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "812af8a9ab6ab72a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3307 - Language Theory/🟨Mathematical Notations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e6d466c28ce5041",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3307 - Language Theory/🟨Mathematical Notations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6f6b677ced8f034",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a18edc23967fcfc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3307 - Language Theory/🟨Mathematical Notations.md"
+              }
+            }
+          },
+          {
+            "id": "2fa9addf0d37cd1a",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5,
+    "collapsed": true
+  },
+  "active": "c1123d2720970dc2",
+  "lastOpenFiles": [
+    "Computer Science LU/Year 3/Semester 2/🟥I3307 - Language Theory/I3307 - Pictures/Screenshot_9.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3307 - Language Theory/🟨Mathematical Notations.md",
+    "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+    "Computer Science LU/Year 3/Semester 2/📝ToDo.md",
+    "Computer Science LU/Year 3/Semester 2/⌛Schedules & Other Info.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩1 @ Intro to Interpolation & Extrapolation.md",
+    "Excalidraw/Drawing 2023-04-10 13.42.30.excalidraw.md",
+    "Excalidraw/thinking.md",
+    "- READ ME/READ ME.md"
+  ]
+}

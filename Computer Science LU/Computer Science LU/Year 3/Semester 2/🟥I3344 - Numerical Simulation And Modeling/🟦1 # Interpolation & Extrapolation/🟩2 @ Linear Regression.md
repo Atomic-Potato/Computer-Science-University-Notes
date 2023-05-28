@@ -1,3 +1,8 @@
+_Previous [[🟩1 @ Intro to Interpolation & Extrapolation]]_
+
+
+---
+
 Polynomial approximation is usually used to find a polynomial function of order n *(for n points)* 
 $$\large f (x) = a_{n−1}x^{n−1} + ... + a_{0}$$
 Finding coefficients $a_{i}$ requires resolving a system of n equations in n unknowns
@@ -31,12 +36,14 @@ Theres a couple of approaches but this is the best one:
 
 **Minimize the Sum of Squares of residual Errors *(SSE)* or $S_{r}$**
 $$\large S_{r} = \sum^{n}_{i=1} |e^2_{i}| = \sum^{n}_{i=1} (y_{i} − \hat{y})_{2} = \sum^{n}_{i=1} (y_{i} − a_{0} − a_{1}x^i) 2$$
-where n is the total number of points.
+where n is the total number of points. ^f37339
 
 Differentiating the equation with respect to each coefficient $a_{0}$ and $a_{1}$ and then minimizing $S_{r}$ would give us the equations for each coefficient:
 $$\Large \color{lime} a_{1} = \frac{ n\left(  \sum x_{i}y_{i} \right) - \left( \sum x_{i} \right)\left( \sum y_{i} \right)}{n(\sum x_{i}^2) - (\sum x_{i})^2}$$
 $$\Large \color{lime} a_{1}= r \cdot\left( \frac{\sigma_{y}}{\sigma_{x}} \right)$$
 $$\Large \color{cyan} a_{0} = \overline{y}-a_{1} \bar{x}$$
+
+==Note:== The linear regression model gives us with confidence the best SSE / error
 ## ==Reminders :== 
 
 ### Mean
@@ -60,4 +67,33 @@ Three types of correlation:
 
 The closer the value is to 1 or -1, the stronger the link.
 
-# Quantification of Error of Linear Regression
+# Linear Regression Error Qunatification
+How to evaluate the accuracy of $a_{1}$ and $a_{0}$?
+The value of [[#^f37339|SSE]] does not make it possible to evaluate the accuracy of these two coefficients.
+>_For example
+>an error of 2.5 on a set of data belonging to the interval [1000, 1500] is negligible in comparison with the same value on another set belonging to the interval [0,1]._
+
+The solution would to be to **normalize the error**
+
+## Method 1
+Use **Normalized Root-Mean-Square Error *(NRMSE)*** 
+$$MSE = \frac{SEE}{n}$$
+$$RMSE=\sqrt{\frac{SSE}{n}}$$
+$$\color{cyan} NRMSE = \frac{RMSE}{\overline{y}}$$
+**NRMSE close to `0` ⇒ Perfect model**
+**NRMSE close to `1` ⇒ Null model**
+
+## Method 2
+Compare the approximate model $\large\color{pink}\hat{y} = ax + b$ with the Null model $\large\color{pink}\hat{y} = \overline{y}$ _(where x does not intervene)_
+
+We introduce the measure $\Large \color{cyan} R^2 = 1 − \frac{SSE}{TSS}$
+Where:
+- *SSE = Sum of Square Errors* $\large \color{lime} \sum^n_{i=1}(y_{i}-\hat{y})^2$
+- *TSS = Total Sum of Squares* $\large \color{lime} \sum^n_{i=1}(y_{i}-\overline{y})^2$
+
+**$R^2$ close to `0` ⇒ Perfect model**
+**$R^2$ close to `1` ⇒ Null model**
+
+![[Pasted image 20230511180525.png|500]]
+
+==Note:== SSE < TSS since in worst case scenario the model found is the null mode

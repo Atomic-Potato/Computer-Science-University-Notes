@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## DONE
 
 **Complete**
+- [x] Quantification of error chap 1
 - [x] I3340 Lectures missing
 - [x] Lecture 2 Notes
 - [x] Lecture 1 Notes
@@ -32,9 +33,16 @@ kanban-plugin: basic
 - [ ] Assignment
 
 
+## I3332 - New Generation Programming Language
+
+- [ ] Chapter 1
+- [ ] Chapter 2
+
+
 ## I3344 - Numerical Simulation And Modeling
 
-- [ ] Quantification of error chap 1
+- [ ] K-Nearest neighbor chap 1
+- [ ] K-Fold cross validation
 
 
 ## I3331 - Computer Science And Society
@@ -46,10 +54,6 @@ kanban-plugin: basic
 
 
 ## I3330 - IT Project Management
-
-
-
-## I3332 - New Generation Programming Language
 
 
 
