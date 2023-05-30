@@ -33,3 +33,13 @@ The reasons to use a feature dataset
 
 **==NOTE:==** **Tabular feature classes cannot be added directly to a feature dataset**, because they are not spatial data. Unlike feature classes, which contain geographic features with a spatial location, tabular data represents non-spatial information, such as attributes, that can be associated with geographic features.
 
+## Adding an entry to a polygon feature class
+Simple go to `Edit` and click on `Create`. Then select the desired class
+![[Pasted image 20230530183507.png]]
+
+You can also edit an entry by first selecting it in the attribute table and clicking on `Edit Vertices`
+
+## Calculating Fields Automatically
+To automatically calculate a field, you can simply go to the attribute table of the desired layer, right click the desired column and select either `Calculate Field` or `Calculate Geometry` depending on the desired result. **Geometry** is mostly used for things to calculate things related to polygon data, like the area of a polygon for example.
+
+![[Pasted image 20230530193853.png]]

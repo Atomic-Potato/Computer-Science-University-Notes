@@ -8,27 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0ce0ce3a850203a",
+            "id": "30717ae4a5c11f0e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "image",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo.md"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530174314.png"
               }
             }
           },
           {
-            "id": "30717ae4a5c11f0e",
+            "id": "11adaa0fea335e73",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518
+    "width": 415
   },
   "right": {
     "id": "e45ee5f3ea2ee58a",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530174314.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530174314.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530174314.png"
               }
             }
           },
@@ -151,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 221
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,22 +165,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30717ae4a5c11f0e",
+  "active": "077d59730f0c8079",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 2/📝ToDo.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures/Pasted image 20230528110715.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🟩1 @ Multithreading in Java.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures/Pasted image 20230528112353.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures/Pasted image 20230528112217.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures/Pasted image 20230528111455.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures/Pasted image 20230528095643.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures/Pasted image 20230528103458.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures/Pasted image 20230528101618.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures/Pasted image 20230528101003.png",
-    "Pasted image 20230528095925 1.png",
-    "Pasted image 20230528095925.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩6 @ Symbology.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530194359.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩2@ Geodatabase.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530193853.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩4@ Tabular Data Associations.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530193626.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530184648.png",
+    "Pasted image 20230530183746.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530183507.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩1@ ArcGIS.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530182615.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩5 @ Importing Data.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530175638.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530175625.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530174314.png",
     "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+    "Computer Science LU/Year 3/Semester 2/📝ToDo.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩3@ Data Integrity.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🟩1 @ Multithreading in Java.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures",
     "Computer Science LU/Year 3/Semester 2/⌛Schedules & Other Info.md",
     "Excalidraw/thinking.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟨Summary.md",
@@ -195,13 +203,6 @@
     "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[66.00](3) - M2250 Arithmetic & Algebra/🟦Chap 1 Arithmetics in Z/🟩2 # GCD and LCM of integers.md",
     "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[66.00](3) - M2250 Arithmetic & Algebra/🟦Chap 1 Arithmetics in Z/🟩1 # Some properties in Z.md",
     "Personal Notes/General ToDo List.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩1 @ Intro to Interpolation & Extrapolation.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥[35.00](4) - S2250 Stats/🟦Chapter 3/🟩2 @ Mathematical Expectation.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥[35.00](4) - S2250 Stats/🟦Chapter 2/🟩2 @ Mathematical Expectation.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥[35.00](4) - S2250 Stats/🟦Chapter 4 Couple random variables/🟩3 @ Mathematical expectation.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥[35.00](4) - S2250 Stats/🟦Chapter 2/🟩3 @ Some usual discrete random variables.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩4@ Tabular Data Associations.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩3@ Data Integrity.md"
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md"
   ]
 }
