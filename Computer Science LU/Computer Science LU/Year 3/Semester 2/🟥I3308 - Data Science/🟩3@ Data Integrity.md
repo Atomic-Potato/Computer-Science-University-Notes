@@ -1,5 +1,3 @@
-
-
 # Domains
 In ArcGIS, a domain is a set of rules that define the valid values for a field in a table or feature class. Domains can be used to standardize the values entered into a field, enforce data integrity, and make it easier to edit and maintain data.
 

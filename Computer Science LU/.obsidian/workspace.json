@@ -11,9 +11,23 @@
             "id": "30717ae4a5c11f0e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530174314.png"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36eec6d1bd43fc01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩2@ Geodatabase.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -28,8 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4aa8bd60daec3a06",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531112244.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -58,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "correlation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530174314.png",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531112244.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530174314.png",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531112244.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530174314.png"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531112244.png"
               }
             }
           },
@@ -167,25 +192,27 @@
   },
   "active": "077d59730f0c8079",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩6 @ Symbology.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530194359.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩2@ Geodatabase.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530193853.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩4@ Tabular Data Associations.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530193626.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530184648.png",
-    "Pasted image 20230530183746.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530183507.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩1@ ArcGIS.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530182615.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩5 @ Importing Data.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530175638.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530175625.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530174314.png",
     "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
-    "Computer Science LU/Year 3/Semester 2/📝ToDo.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩6 @ Symbology & Labeling.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531125354.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531125121.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531124656.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531113347.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩2@ Geodatabase.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩1@ ArcGIS.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531112244.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩4@ Tabular Data Associations.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩3@ Data Integrity.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩1 @ Intro to Interpolation & Extrapolation.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530174314.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530194359.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530193853.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530193626.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230530184648.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩5 @ Importing Data.md",
+    "Computer Science LU/Year 3/Semester 2/📝ToDo.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🟩1 @ Multithreading in Java.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures",
     "Computer Science LU/Year 3/Semester 2/⌛Schedules & Other Info.md",
@@ -201,8 +228,6 @@
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦1 # Software Engineering Steps/🟩1 @ Software Engineering Steps.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application",
     "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[66.00](3) - M2250 Arithmetic & Algebra/🟦Chap 1 Arithmetics in Z/🟩2 # GCD and LCM of integers.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[66.00](3) - M2250 Arithmetic & Algebra/🟦Chap 1 Arithmetics in Z/🟩1 # Some properties in Z.md",
-    "Personal Notes/General ToDo List.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md"
+    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[66.00](3) - M2250 Arithmetic & Algebra/🟦Chap 1 Arithmetics in Z/🟩1 # Some properties in Z.md"
   ]
 }
