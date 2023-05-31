@@ -8,47 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30717ae4a5c11f0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩2@ Geodatabase.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8258033a3bf66d18",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md"
-              }
-            }
-          },
-          {
-            "id": "36eec6d1bd43fc01",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩2@ Geodatabase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11adaa0fea335e73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
-                "mode": "source",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩7 @ Sharing.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -63,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩7 @ Sharing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩7 @ Sharing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩7 @ Sharing.md"
               }
             }
           },
@@ -202,29 +167,30 @@
   },
   "active": "8258033a3bf66d18",
   "lastOpenFiles": [
+    "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩7 @ Sharing.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531162514.png",
+    "Pasted image 20230531183700.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531183726.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531183550.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531183009.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531182657.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531182017.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531181720.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531181604.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531181452.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩5 @ Importing Data.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩4@ Tabular Data Associations.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩3@ Data Integrity.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩2@ Geodatabase.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩1@ ArcGIS.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩6 @ Symbology & Labeling.md",
     "Excalidraw/Drawing 2023-03-26 12.30.17.excalidraw.md",
     "Excalidraw/Drawing 2023-04-10 13.42.30.excalidraw.md",
     "Excalidraw/Drawing 2023-03-26 19.03.41.excalidraw.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531135135.png",
-    "Excalidraw/Boards pics/Pasted Image 20230531133658_642.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531161241.png",
-    "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
-    "Pasted image 20230531143931 1.png",
     "Excalidraw/thinking.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531160941.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531160623.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531160432.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩2@ Geodatabase.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩5 @ Importing Data.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531151133.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩1@ ArcGIS.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩4@ Tabular Data Associations.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩3@ Data Integrity.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531143933.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531143931.png",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩6 @ Symbology & Labeling.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩1 @ Intro to Interpolation & Extrapolation.md",
     "Computer Science LU/Year 3/Semester 2/📝ToDo.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🟩1 @ Multithreading in Java.md",
@@ -237,8 +203,6 @@
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩3 @ Requirement Categories.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩2 @ Requirements.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩1 @ Requirements Engineering.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩6 @ Software Requirements Specification (SRS).md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦1 # Software Engineering Steps/🟩1 @ Software Engineering Steps.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application"
   ]
 }
