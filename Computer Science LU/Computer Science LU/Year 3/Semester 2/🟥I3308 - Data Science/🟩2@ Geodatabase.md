@@ -43,3 +43,5 @@ You can also edit an entry by first selecting it in the attribute table and clic
 To automatically calculate a field, you can simply go to the attribute table of the desired layer, right click the desired column and select either `Calculate Field` or `Calculate Geometry` depending on the desired result. **Geometry** is mostly used for things to calculate things related to polygon data, like the area of a polygon for example.
 
 ![[Pasted image 20230530193853.png]]
+
+==Note:== If you wanna calculate only specific fields, the first select them by attribute and then use `Calculate Field` or `Calculate Geometry` to calculate the values of the selected fields only

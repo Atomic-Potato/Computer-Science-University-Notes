@@ -44,5 +44,7 @@ And pick all the fields you wanna join
 
 Finally if youre done with the spatial join you can simply remove it by going back to `Joins & Relate` -> `Remove All Joins`
 
-# Notes
+
+# ==Notes==
 - `Join` and `Relate` are saved on a project level. While a `Relationship class` is saved on a gdb level.
+- Sometimes its better to do [[#Spatial Join]] with the [[🟩1@ ArcGIS#Spatial Join|spatial join tool]]

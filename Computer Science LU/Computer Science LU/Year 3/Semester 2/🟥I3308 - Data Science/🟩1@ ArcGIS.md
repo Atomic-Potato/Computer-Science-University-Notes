@@ -21,6 +21,15 @@ We have 3 types of projection
 
 We can change the projection of a datum using the [[#Define Projection]] tool
 
+## Identifying the projected coordinate system of a layer
+Go to the properties of the layer and follow the image:
+![[Pasted image 20230531135135.png]]
+==Note:== If you cant find it then theres no projected coordinate system set for this layer.
+
+
+## Assigning a coordinate system for a layer
+We can simply use the [[#Define Projection]] tool
+
 
 # Types of Data
 The types of data that can be placed on the map.
@@ -74,6 +83,7 @@ In the Geoprocessing pane you can search for tools *(On the Analysis tab, click 
 
 ## Define Projection
 ArcGIS geoprocessing tool that overwrites the coordinate system information _(map projection and datum)_ stored with a dataset.
+![[Pasted image 20230531140253.png]]
 
 ## Project
 Projects spatial data from one coordinate system to another
@@ -83,3 +93,8 @@ Creates or updates a coded value domain with values from a table
 
 ## Frequency
 Basically reads the values of a table column and makes a new table containing the value and its frequency
+
+## [[🟩4@ Tabular Data Associations#Spatial Join|Spatial Join]]
+
+
+![[Pasted image 20230531143933.png]]

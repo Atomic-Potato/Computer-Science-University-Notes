@@ -331,6 +331,10 @@ May 24 Notes ^s8ro9Ipz
 
 May 29 Notes ^K9GqYR1n
 
+May 31 Session ^wjrvGuPv
+
+May 31 Notes ^V1Y6FMfD
+
 
 # Embedded files
 de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
@@ -3242,8 +3246,8 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		},
 		{
 			"type": "arrow",
-			"version": 1492,
-			"versionNonce": 601095484,
+			"version": 1504,
+			"versionNonce": 1254438204,
 			"isDeleted": false,
 			"id": "yj97_q0fKClhvCWYjiShT",
 			"fillStyle": "hachure",
@@ -3262,7 +3266,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685527148604,
+			"updated": 1685539062476,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3291,8 +3295,8 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		},
 		{
 			"type": "arrow",
-			"version": 1540,
-			"versionNonce": 1868101052,
+			"version": 1552,
+			"versionNonce": 325266876,
 			"isDeleted": false,
 			"id": "VDEZJAad-kPGptkPDr1Zk",
 			"fillStyle": "hachure",
@@ -3311,7 +3315,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685527148606,
+			"updated": 1685539062477,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -17524,8 +17528,8 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 224,
-			"versionNonce": 2121550730,
+			"version": 225,
+			"versionNonce": 846884484,
 			"isDeleted": false,
 			"id": "Ssez8FWi8yFpvIOVfhWvG",
 			"fillStyle": "solid",
@@ -17536,7 +17540,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"angle": 0,
 			"x": -4417.868101850222,
 			"y": -3734.0131291771168,
-			"strokeColor": "#ffffff",
+			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 228,
 			"height": 80,
@@ -17549,14 +17553,14 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 					"id": "us31Gvn5"
 				}
 			],
-			"updated": 1685379167268,
+			"updated": 1685538971902,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 209,
-			"versionNonce": 1999503638,
+			"version": 210,
+			"versionNonce": 462203836,
 			"isDeleted": false,
 			"id": "us31Gvn5",
 			"fillStyle": "solid",
@@ -17567,7 +17571,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"angle": 0,
 			"x": -4395.764075055788,
 			"y": -3711.5131291771168,
-			"strokeColor": "#ffffff",
+			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 183.7919464111328,
 			"height": 35,
@@ -17575,7 +17579,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685379188329,
+			"updated": 1685538971902,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -17789,12 +17793,146 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"originalText": "May 29 Notes",
 			"lineHeight": 1.25,
 			"baseline": 25
+		},
+		{
+			"type": "rectangle",
+			"version": 490,
+			"versionNonce": 830913540,
+			"isDeleted": false,
+			"id": "PGRiSCsttInvuFNh4Kp8j",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -3180.603033585134,
+			"y": -3288.333808497802,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 228,
+			"height": 80,
+			"seed": 2105888004,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "wjrvGuPv"
+				}
+			],
+			"updated": 1685538992844,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 471,
+			"versionNonce": 475395644,
+			"isDeleted": false,
+			"id": "wjrvGuPv",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -3169.2929902501733,
+			"y": -3265.833808497802,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 205.37991333007812,
+			"height": 35,
+			"seed": 1155337348,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1685538992844,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "May 31 Session",
+			"rawText": "May 31 Session",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "PGRiSCsttInvuFNh4Kp8j",
+			"originalText": "May 31 Session",
+			"lineHeight": 1.25,
+			"baseline": 25
+		},
+		{
+			"type": "rectangle",
+			"version": 313,
+			"versionNonce": 696968892,
+			"isDeleted": false,
+			"id": "rEn-V0uhNmQOhXioIGfy8",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -4169.693942676042,
+			"y": -3833.7883539523473,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 228,
+			"height": 80,
+			"seed": 1413265796,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "V1Y6FMfD"
+				}
+			],
+			"updated": 1685539012747,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 308,
+			"versionNonce": 226267268,
+			"isDeleted": false,
+			"id": "V1Y6FMfD",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -4149.591914782975,
+			"y": -3811.2883539523473,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 187.7959442138672,
+			"height": 35,
+			"seed": 452126980,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1685539018804,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 1,
+			"text": "May 31 Notes",
+			"rawText": "May 31 Notes",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "rEn-V0uhNmQOhXioIGfy8",
+			"originalText": "May 31 Notes",
+			"lineHeight": 1.25,
+			"baseline": 25
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#000000",
-		"currentItemStrokeColor": "#2f9e44",
+		"currentItemStrokeColor": "#ffffff",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
@@ -17806,10 +17944,10 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 5260.046368028475,
-		"scrollY": 4062.1678910818805,
+		"scrollX": 5013.647766629872,
+		"scrollY": 4439.816492480484,
 		"zoom": {
-			"value": 0.65
+			"value": 0.5499999999999999
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
