@@ -25,19 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩8 @ Data Collection.md",
-                "mode": "source",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩9 @ Dashboard.md",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "96662938fe005e4a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531184535.png"
               }
             }
           }
@@ -179,19 +169,20 @@
   },
   "active": "1fb63aeb78101e28",
   "lastOpenFiles": [
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩9 @ Dashboard.md",
+    "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+    "Pasted image 20230601141023.png",
+    "Pasted image 20230601140752.png",
+    "Pasted image 20230601135954.png",
+    "Pasted image 20230601135655.png",
+    "Pasted image 20230601135331.png",
+    "Pasted image 20230601135154.png",
+    "Pasted image 20230601134627.png",
+    "Pasted image 20230601134351.png",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩8 @ Data Collection.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531184535.png",
-    "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩7 @ Sharing.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230601130749.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230601130721.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230601130204.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230601125509.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230601125508.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230601124659.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230601124418.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230601123501.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230601123315.png",
+    "Pasted image 20230601133922.png",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩6 @ Symbology & Labeling.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩5 @ Importing Data.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩4@ Tabular Data Associations.md",
@@ -214,7 +205,6 @@
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩5 @ Processing The Requirements.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩4 @ Gathering Requirements.md",
     "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩3 @ Requirement Categories.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩2 @ Requirements.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application"
   ]
 }

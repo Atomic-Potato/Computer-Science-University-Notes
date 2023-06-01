@@ -17729,8 +17729,8 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		},
 		{
 			"type": "rectangle",
-			"version": 274,
-			"versionNonce": 300514376,
+			"version": 275,
+			"versionNonce": 1430514760,
 			"isDeleted": false,
 			"id": "TraXPgFitxh-G7e2F-uh9",
 			"fillStyle": "solid",
@@ -17741,7 +17741,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"angle": 0,
 			"x": -4170.880922363033,
 			"y": -3955.7139838779713,
-			"strokeColor": "#ffffff",
+			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 228,
 			"height": 80,
@@ -17754,14 +17754,14 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 					"id": "K9GqYR1n"
 				}
 			],
-			"updated": 1685615594507,
+			"updated": 1685618070912,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 261,
-			"versionNonce": 2024885304,
+			"version": 262,
+			"versionNonce": 41278520,
 			"isDeleted": false,
 			"id": "K9GqYR1n",
 			"fillStyle": "solid",
@@ -17772,7 +17772,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"angle": 0,
 			"x": -4155.944887206783,
 			"y": -3933.2139838779713,
-			"strokeColor": "#ffffff",
+			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 198.1279296875,
 			"height": 35,
@@ -17780,7 +17780,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685615594507,
+			"updated": 1685618070912,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -17944,8 +17944,8 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 4620.512568494677,
-		"scrollY": 4619.490152154135,
+		"scrollX": 4669.603477585582,
+		"scrollY": 4843.126515790506,
 		"zoom": {
 			"value": 0.5499999999999999
 		},
