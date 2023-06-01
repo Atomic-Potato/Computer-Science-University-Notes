@@ -32,3 +32,7 @@ And now simply to add an attachment to a field, you go to the attribute table of
 # Pop Ups
 Pop ups are basically a menu that displays more information on a field once you click on it, and you can configure it like in the image below
 ![[Pasted image 20230531161241.png]]
+
+# ArcGIS StoryMaps
+basically a fucking way to make a slideshow. I fucking hate this cringe ass data ass science ass
+![[Screenshot 2023-06-01 144437.png]]

@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "507930030a12dd43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md"
               }
             }
           },
@@ -167,10 +180,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1fb63aeb78101e28",
+  "active": "507930030a12dd43",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩9 @ Dashboard.md",
+    "Screenshot 2023-06-01 144437.png",
     "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩9 @ Dashboard.md",
     "Pasted image 20230601141023.png",
     "Pasted image 20230601140752.png",
     "Pasted image 20230601135954.png",
