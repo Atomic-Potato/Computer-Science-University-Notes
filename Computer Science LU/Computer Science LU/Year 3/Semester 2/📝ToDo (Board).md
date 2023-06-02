@@ -3265,8 +3265,8 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		},
 		{
 			"type": "arrow",
-			"version": 1624,
-			"versionNonce": 1647816707,
+			"version": 1626,
+			"versionNonce": 42463270,
 			"isDeleted": false,
 			"id": "yj97_q0fKClhvCWYjiShT",
 			"fillStyle": "hachure",
@@ -3285,7 +3285,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685700554472,
+			"updated": 1685709423905,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3314,8 +3314,8 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		},
 		{
 			"type": "arrow",
-			"version": 1651,
-			"versionNonce": 1080604579,
+			"version": 1653,
+			"versionNonce": 1772288870,
 			"isDeleted": false,
 			"id": "VDEZJAad-kPGptkPDr1Zk",
 			"fillStyle": "hachure",
@@ -3324,17 +3324,17 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -3168.6476923851023,
-			"y": 1288.8405332120167,
+			"x": -3168.647692385102,
+			"y": 1288.8293215942472,
 			"strokeColor": "#6741d9",
 			"backgroundColor": "transparent",
-			"width": 38.35905591366054,
-			"height": 4.6544387578753685,
+			"width": 38.359055913660086,
+			"height": 4.6515275094516255,
 			"seed": 1643290375,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685700554473,
+			"updated": 1685709423907,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3356,15 +3356,15 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 					0
 				],
 				[
-					38.35905591366054,
-					-4.6544387578753685
+					38.359055913660086,
+					-4.6515275094516255
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 457,
-			"versionNonce": 72436387,
+			"version": 458,
+			"versionNonce": 1036027578,
 			"isDeleted": false,
 			"id": "1SAerMgGPFKsaQq9WYugL",
 			"fillStyle": "hachure",
@@ -3375,7 +3375,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"angle": 0,
 			"x": -4420.172713195042,
 			"y": 1605.0403833095263,
-			"strokeColor": "#ffffff",
+			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 217,
 			"height": 80,
@@ -3388,7 +3388,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 					"id": "HydNhIPT"
 				}
 			],
-			"updated": 1685700008453,
+			"updated": 1685713136038,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -3397,8 +3397,8 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		},
 		{
 			"type": "text",
-			"version": 454,
-			"versionNonce": 473457933,
+			"version": 455,
+			"versionNonce": 1635506662,
 			"isDeleted": false,
 			"id": "HydNhIPT",
 			"fillStyle": "hachure",
@@ -3409,7 +3409,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"angle": 0,
 			"x": -4415.172713195042,
 			"y": 1610.0403833095263,
-			"strokeColor": "#ffffff",
+			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 155.4559326171875,
 			"height": 70,
@@ -3417,7 +3417,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1685700008453,
+			"updated": 1685713136038,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -18523,10 +18523,10 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 7742.9623409444475,
-		"scrollY": 933.1263770403675,
+		"scrollX": 5057.238675720782,
+		"scrollY": 105.60058338957356,
 		"zoom": {
-			"value": 0.49999999999999994
+			"value": 0.39999999999999997
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
