@@ -21,6 +21,16 @@ As well as registering framework-related services, this method is where you’d 
 > The IServiceCollection is a list of every known service that your application will need to use.
 By adding a new service to it, you ensure that whenever a class declares a dependency on your service, the IoC container (dependency Injection)  knows how to provide it.
 
+## Adding Custom Services
+When you created a custom service you can add like in the following
+```cs
+public class Startup{
+	public void ConfigureServices(IServiceCollection services){
+		services.AddSingleton<ServiceClass>();
+	}
+} 
+```
+
 # Middleware Pipeline
 ![[Pasted image 20230602162129.png]]
 
