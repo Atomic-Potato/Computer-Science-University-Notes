@@ -10,9 +10,6 @@
 
 # adding segments to a razor page (150)
 ![[adding segments to a razor page (150).png]]
-
-# adding segments to a razor page (150)
-![[adding segments to a razor page (150).png]]
 ![[adding segments to a razor page 2 (151).png]]
 
 
