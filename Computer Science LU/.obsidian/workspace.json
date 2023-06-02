@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "88c122d733f4078b",
+            "id": "4cf761c8f973c589",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩9 @ Dashboard.md",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦4 # Creating a web site with RazorPages/🟦Unorganized.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "507930030a12dd43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415
+    "width": 466
   },
   "right": {
     "id": "e45ee5f3ea2ee58a",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦4 # Creating a web site with RazorPages/🟦Unorganized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦4 # Creating a web site with RazorPages/🟦Unorganized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟨 Misc.md"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦4 # Creating a web site with RazorPages/🟦Unorganized.md"
               }
             }
           },
@@ -167,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 411
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,23 +168,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "507930030a12dd43",
+  "active": "4cf761c8f973c589",
   "lastOpenFiles": [
-    "Screenshot 2023-06-01 144437.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦5 # Mapping URLs to Razor Pages using routing/🟦Unorganized.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/adding route constaints  2 (155).png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/making kebab-case URLs (168).png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/conifguring URL conventions (167).png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/pricking a razor page handler 2 (166).png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/pricking a razor page handler (165).png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Generating URLs using LinkGeneratorClass (164).png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Generating URLs using LinkGeneratorClass (163).png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Generating URLs with ActionResults (162).png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Generating URLs for razor pages (159).png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/catch all parameter (157).png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦5 # Mapping URLs to Razor Pages using routing/🟨Summary - Mapping URLs to Razor Pages using routing.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦4 # Creating a web site with RazorPages/🟦Unorganized.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦5 # Mapping URLs to Razor Pages using routing",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦4 # Creating a web site with RazorPages/🟨Summary - Creating a web site with Razor Pages.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦4 # Creating a web site with RazorPages",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦3 # Handling requests with the middleware pipeline/🟦Unorganized.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟦Unorganized.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦3 # Handling requests with the middleware pipeline/🟨Summary - Handling requests with the middleware pipeline.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/Untitled",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟨Summary - Your First Application.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦3 # Handling requests with the middleware pipeline",
     "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩9 @ Dashboard.md",
-    "Pasted image 20230601141023.png",
-    "Pasted image 20230601140752.png",
-    "Pasted image 20230601135954.png",
-    "Pasted image 20230601135655.png",
-    "Pasted image 20230601135331.png",
-    "Pasted image 20230601135154.png",
-    "Pasted image 20230601134627.png",
-    "Pasted image 20230601134351.png",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩8 @ Data Collection.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🖼I3308 Pictures/Pasted image 20230531184535.png",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩7 @ Sharing.md",
-    "Pasted image 20230601133922.png",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩6 @ Symbology & Labeling.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩5 @ Importing Data.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science/🟩4@ Tabular Data Associations.md",
@@ -210,15 +210,7 @@
     "Excalidraw/thinking.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩1 @ Intro to Interpolation & Extrapolation.md",
-    "Computer Science LU/Year 3/Semester 2/📝ToDo.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🟩1 @ Multithreading in Java.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures",
-    "Computer Science LU/Year 3/Semester 2/⌛Schedules & Other Info.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟨Summary.md",
-    "Computer Science LU/Year 3/Semester 1/🟥[60.00](3) % I3305 - Graphic Interface/🟦2 # Design Patterns & The Creational Patterns/🟩3 @ Builder Pattern.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩5 @ Processing The Requirements.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩4 @ Gathering Requirements.md",
-    "Computer Science LU/Year 3/Semester 1/🟥I3301 - Software Engineering/🟦4 # Requirements Gathering/🟩3 @ Requirement Categories.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application"
   ]
 }
