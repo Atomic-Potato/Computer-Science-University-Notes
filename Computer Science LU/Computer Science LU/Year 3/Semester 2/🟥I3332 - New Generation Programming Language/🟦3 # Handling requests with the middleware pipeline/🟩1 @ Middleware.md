@@ -22,7 +22,7 @@ More info about this object:
 ![[HttpContext object (69).png]]
 
 # Adding Middleware
-Middleware is added in the [[🟦3 @ Startup Class|startup class]] inside the `Configure` method by adding it to an `IApplicationBuilder` object.
+Middleware is added in the [[🟩3 @ Startup Class|startup class]] inside the `Configure` method by adding it to an `IApplicationBuilder` object.
 ![[Pasted image 20230602165009.png]]
 
 > ==Tip:== Use the extension methods to see all the middleware you have available. All middleware start with `Use` by convention.

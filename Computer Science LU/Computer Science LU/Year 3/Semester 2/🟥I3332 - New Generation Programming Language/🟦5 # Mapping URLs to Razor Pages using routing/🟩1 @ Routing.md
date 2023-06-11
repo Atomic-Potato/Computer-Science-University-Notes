@@ -14,7 +14,7 @@ Endpoint routing is implemented using two pieces of middleware :
 
 ## EndpointMiddleware 
 This is where you register your Razor Pages and MVC controllers and other handlers
-To register endpoints in your application, call `UseEndpoints` in the Configure method of [[🟦3 @ Startup Class|Startup.cs]].
+To register endpoints in your application, call `UseEndpoints` in the Configure method of [[🟩3 @ Startup Class|Startup.cs]].
 ![[Pasted image 20230602191646.png]]
 ![[Pasted image 20230602191650.png]]
 
