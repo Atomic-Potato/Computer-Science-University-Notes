@@ -394,6 +394,8 @@ Submit it ^nNc3fhKk
 
 What is the required attribute ^axJ3sz8M
 
+the hell is that attribute ^QXuEmSP0
+
 
 # Embedded files
 de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
@@ -402,6 +404,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 09df714ff06ea7f997de70f824b29cc548377677: [[Pasted Image 20230602190053_034.png]]
 75811c1286d2a377ba5b8d887045e1dda01173bc: [[Pasted Image 20230602190423_859.png]]
 69d0a222337be5acf16b3604868fc33af859cda9: [[Pasted Image 20230602185742_216.png]]
+e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]]
 
 %%
 # Drawing
@@ -3310,8 +3313,8 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		},
 		{
 			"type": "arrow",
-			"version": 1882,
-			"versionNonce": 1965874492,
+			"version": 1886,
+			"versionNonce": 1201659396,
 			"isDeleted": false,
 			"id": "yj97_q0fKClhvCWYjiShT",
 			"fillStyle": "hachure",
@@ -3330,7 +3333,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686645957533,
+			"updated": 1686654212680,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3359,8 +3362,8 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		},
 		{
 			"type": "arrow",
-			"version": 1995,
-			"versionNonce": 1653986748,
+			"version": 1999,
+			"versionNonce": 1870495108,
 			"isDeleted": false,
 			"id": "VDEZJAad-kPGptkPDr1Zk",
 			"fillStyle": "hachure",
@@ -3379,7 +3382,7 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686645957537,
+			"updated": 1686654212682,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20011,12 +20014,114 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 			"originalText": "Submit it",
 			"lineHeight": 1.25,
 			"baseline": 25
+		},
+		{
+			"id": "1rQ3xEqPn-9t-5BherwWq",
+			"type": "image",
+			"x": -3685.0019893302488,
+			"y": 2092.339153155932,
+			"width": 479.9026687598126,
+			"height": 120.99529042386212,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1722719164,
+			"version": 166,
+			"versionNonce": 1952512772,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1686654245412,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "e8d74b894741786abf8a90575aa6f50b0575af07",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "rectangle",
+			"version": 1719,
+			"versionNonce": 981673788,
+			"isDeleted": false,
+			"id": "r8gP_LnRpmmGam0BW0NcV",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -3693.969444951551,
+			"y": 2058.6654422514516,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 503.6938775510215,
+			"height": 166.5384615384619,
+			"seed": 1749970748,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "QXuEmSP0"
+				}
+			],
+			"updated": 1686654245412,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
+		},
+		{
+			"type": "text",
+			"version": 1715,
+			"versionNonce": 1243780,
+			"isDeleted": false,
+			"id": "QXuEmSP0",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -3688.969444951551,
+			"y": 2063.6654422514516,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "transparent",
+			"width": 243.1824188232422,
+			"height": 23.637873754152885,
+			"seed": 1605707708,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1686654245412,
+			"link": null,
+			"locked": false,
+			"fontSize": 18.910299003322308,
+			"fontFamily": 1,
+			"text": "the hell is that attribute",
+			"rawText": "the hell is that attribute",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": "r8gP_LnRpmmGam0BW0NcV",
+			"originalText": "the hell is that attribute",
+			"lineHeight": 1.25,
+			"baseline": 16
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#000000",
-		"currentItemStrokeColor": "#2f9e44",
+		"currentItemStrokeColor": "#ffffff",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
@@ -20028,10 +20133,10 @@ de8e05556615457dac1ead93a1297bee3b3b1c70: [[Year 3 Sem 2 Calendar.jpg]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 4247.777137259243,
-		"scrollY": -619.8962114822216,
+		"scrollX": 4343.674573156679,
+		"scrollY": -1043.8278354138438,
 		"zoom": {
-			"value": 0.65
+			"value": 0.44999999999999996
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

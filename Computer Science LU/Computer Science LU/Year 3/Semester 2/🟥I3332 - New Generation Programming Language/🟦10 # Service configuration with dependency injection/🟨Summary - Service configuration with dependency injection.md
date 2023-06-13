@@ -1,3 +1,27 @@
 *important bits are ==highlighted==*
 
 ---
+- Dependency injection is baked into the ASP.NET Core framework. You need to ensure your application adds all the framework's dependencies in Startup otherwise you will get exceptions at runtime when the DI container can’t find the required services. 
+- The dependency graph is the set of objects that must be created in order to create a specific requested “root” object. The DI container handles creating all these dependencies for you.
+- ==You should aim to use **explicit** dependencies over **implicit** dependencies in most cases. ASP.NET Core uses constructor arguments to declare explicit dependencies.==
+- When discussing DI, the term service is used to describe any class or interface registered with the container.
+- ==You register services with a DI container so it knows which implementation to use for each requested service. This typically takes the form of, “for interface X, use  implementation Y.”==
+- The DI or IoC container is responsible for creating instances of services. It knows how to construct an instance of a service by creating all the service’s dependencies and passing these in the service constructor.
+- The default built-in container only supports constructor injection. If you require other forms of DI, such as property injection, you can use a third-party container.
+- ==You must register services with the container by calling `Add*` extension methods on `IServiceCollection` in `ConfigureServices` in `Startup`. If you forget to register a service that’s used by the framework or in your own code, you’ll get an `InvalidOperationException` at runtime.==
+- ==When registering your services, you describe three things: the **service type**, the **implementation type**, and the **lifetime**:==
+	- The **service type** defines which class or interface will be requested as a dependency. 
+	- The **implementation type** is the class the container should create to fulfil the dependency. 
+	- The **lifetime** is how long an instance of the service should be used for.
+- ==You can register a service using generic methods **if the class is concrete and all its constructor arguments are registered with the container or have default values.**==
+- ==You can provide an instance of a service during registration, which will register that instance as a singleton. ==This can be useful when you already have an instance of the service available.
+- ==You can provide a lambda factory function that describes how to create an instance of a service with any lifetime you choose. ==You can use this approach when your services depend on other services, which are only accessible once your application is running.
+- Avoid calling `GetService()` in your factory functions if possible. Instead, favor constructor injection—it’s more performant, as well as being simpler to reason about.
+- ==You can register multiple implementations for a service. You can then inject `IEnumerable<T>` to get access to all the implementations at runtime.==
+- ==**If you inject a single instance of a multiple-registered service, the container injects the last implementation registered.**==
+- ==You can use the `TryAdd*` extension methods to ensure that an implementation is only registered if no other implementation of the service has been registered.== This can be useful for library authors to add “default” services while still allowing consumers to override the registered services.
+- ==You define the lifetime of a service during DI service registration. This dictates when a DI container will reuse an existing instance of the service to fulfil service dependencies and when it will create a new one.==
+	- ==The transient lifetime means that every single time a service is requested, a new instance is created.==
+	- ==The scoped lifetime means that within a scope, all requests for a service will give you the same object. For different scopes, you’ll get different objects. In ASP.NET Core, each web request gets its own scope.==
+	- ==You’ll always get the same instance of a singleton service, no matter which scope.==
+- ==**A service should only use dependencies with a lifetime longer than or equal to the lifetime of the service. `EXTREMELY IMPORTANT`**==
