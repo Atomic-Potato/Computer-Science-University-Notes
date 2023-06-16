@@ -25,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230613160958.png"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616190217.png"
               }
             }
           }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#A",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 577
+    "width": 560
   },
   "right": {
     "id": "e45ee5f3ea2ee58a",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230613160958.png",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616190217.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230613160958.png",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616190217.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230613160958.png"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616190217.png"
               }
             }
           },
@@ -153,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341
+    "width": 329
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,25 +168,33 @@
   },
   "active": "077d59730f0c8079",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦10 # Service configuration with dependency injection/🟩3 @ Service Lifetime.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/351 - how to avoid captured dependencies.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/351 - captured dependencies example.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/350 - captured dependencies.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/350 - rgesitering singleton services.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/349 - singleton lifetime should be thread safe.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/349 - regestiring scoped services.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/348 - what is a scope  1.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/348 - what is a scope .png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/344 - lifetime types.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦10 # Service configuration with dependency injection/🟩2 @ Using The DI Container.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/343 - injecting dependencies into views.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦10 # Service configuration with dependency injection/🟩1 @ Intro to Dependency Injection.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟨Summary - Saving data with Entity Framework Core.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟩1 @ EF Core.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦10 # Service configuration with dependency injection/🟨Summary - Service configuration with dependency injection.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟩4 @ Querying data from & saving data to the database.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟩3 @ Managing changes with migrations.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟩2 @ Building a Data Model.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616190217.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616185453.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟧How to use MySQL with EF Core.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616183711.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616183658.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616182909.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616182542.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616182503.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616182012.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616181815.png",
     "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616181554.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦10 # Service configuration with dependency injection/🟩3 @ Service Lifetime.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦10 # Service configuration with dependency injection/🟩2 @ Using The DI Container.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟧General Notes.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦3 # Handling requests with the middleware pipeline/🟩1 @ Middleware.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦10 # Service configuration with dependency injection/🟩1 @ Intro to Dependency Injection.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦8 # Building forms with Tag Helpers/🟨Summary - Building forms with Tag Helpers.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦10 # Service configuration with dependency injection",
     "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🟩1 @ Multithreading in Java.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦3 # Handling requests with the middleware pipeline/🟩1 @ Middleware.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟩Unorganized.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟩4 @ Razor Pages.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟩3 @ Startup Class.md",
@@ -197,21 +205,14 @@
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦8 # Building forms with Tag Helpers/🟩2 @ Creating a Form Using Tag Helpers.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦8 # Building forms with Tag Helpers/🟩1 @ What Are Tag Helpers.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦7 # Rendering HTML using Razor views/🟨Summary - Rendering HTML using Razor views.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟧General Notes.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦8 # Building forms with Tag Helpers",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦3 # Handling requests with the middleware pipeline/🟩Unorganized.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦4 # Creating a web site with RazorPages/🟩Unorganized.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦4 # Creating a web site with RazorPages/🟩2 @ Handlers & Binding.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦4 # Creating a web site with RazorPages/🟩1 @ MVC.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦5 # Mapping URLs to Razor Pages using routing/🟩Unorganized.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦5 # Mapping URLs to Razor Pages using routing/🟩5 @ Customizing Conventions.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦7 # Rendering HTML using Razor views",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦6 # The binding model - retrieving & validating user input",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦5 # Mapping URLs to Razor Pages using routing",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦4 # Creating a web site with RazorPages",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/Untitled",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦3 # Handling requests with the middleware pipeline",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🖼I3340 Pictures"
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦3 # Handling requests with the middleware pipeline"
   ]
 }
