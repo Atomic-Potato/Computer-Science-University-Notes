@@ -3313,8 +3313,8 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 		},
 		{
 			"type": "arrow",
-			"version": 1888,
-			"versionNonce": 1382653203,
+			"version": 1892,
+			"versionNonce": 1383783173,
 			"isDeleted": false,
 			"id": "yj97_q0fKClhvCWYjiShT",
 			"fillStyle": "hachure",
@@ -3333,7 +3333,7 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686920007080,
+			"updated": 1687168434325,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3362,8 +3362,8 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2001,
-			"versionNonce": 1006273203,
+			"version": 2005,
+			"versionNonce": 1255354981,
 			"isDeleted": false,
 			"id": "VDEZJAad-kPGptkPDr1Zk",
 			"fillStyle": "hachure",
@@ -3382,7 +3382,7 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686920007082,
+			"updated": 1687168434329,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -20119,7 +20119,7 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#000000",
 		"currentItemStrokeColor": "#2f9e44",
 		"currentItemBackgroundColor": "transparent",

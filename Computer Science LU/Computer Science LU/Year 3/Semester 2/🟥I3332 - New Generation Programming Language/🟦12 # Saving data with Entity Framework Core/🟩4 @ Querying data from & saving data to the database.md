@@ -70,9 +70,10 @@ _context.Recipes.Where(r=>r.RecipeId == cmd.Id).FirstOrDefault();
 Using `FindAsync()` or `Find()` is a little more declarative and concise.
 
 # Deleting a record
-1. EF Core can easily handle these true deletion scenarios for you with the `DbContext .Remove(entity)` command.
-2. What you mean when you find a need to delete data is to archive it or hide it from the UI.
-3. A common approach to handling this scenario is to include some sort of *“Is this entity deleted”* flag on your entity, such as the *IsDeleted* flag I included on the Recipe entity: `public bool IsDeleted {get;set;}`
+EF Core can easily handle these true deletion scenarios for you with the `DbContext .Remove(entity)` command.
+
+What you mean when you find a need to delete data is to archive it or hide it from the UI.
+A common approach to handling this scenario is to include some sort of *“Is this entity deleted”* flag on your entity, such as the *IsDeleted* flag I included on the Recipe entity: `public bool IsDeleted {get;set;}`
 
 ![[Pasted image 20230616190217.png]]
 
