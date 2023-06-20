@@ -29,7 +29,7 @@ Where:
 
 The `error (e)` can be represented by rearranging the equation as:
 $$\Large \color{cyan} e = y − (a_{0} + a_{1}x) = y − \hat{y}$$
-**It is the discrepancy between the true value of $y$ and the approximate value $\hat{y}$ by the linear equation**
+**It is the discrepancy between the `true value` $y$ and the `approximate value` $\hat{y}$ by the linear equation**
 
 ## Criteria for a Best Fit
 Theres a couple of approaches but this is the best one:
@@ -47,12 +47,12 @@ $$\Large \color{cyan} a_{0} = \overline{y}-a_{1} \bar{x}$$
 ## ==Reminders :== 
 
 ### Mean
-$\large \overline{y}$ is the mean of y, i.e. $\large \overline{y} = \frac{\sum y_{i}}{n}$
+$\large \overline{y}$ is the mean of y, i.e. $\Large \overline{y} = \frac{\sum y_{i}}{n}$
 
 ### Standard Deviation
 allows to express the dispersion of the values around their mean i.e. the average distance between the values and their mean.
 
-$\large σ = \sqrt{ v }$ where the variance $\huge ν = \frac{\left[ \sum^n_{i=1}(x_{i}-\overline{x})^2 \right]}{n}$
+$\large σ = \sqrt{ v }$ where the variance $\Huge ν = \frac{\left[ \sum^n_{i=1}(x_{i}-\overline{x})^2 \right]}{n}$
 
 ### [[🟩3 @ Mathematical expectation#Coefficient of correlation|Correlation]]
 Describe the relation between two variables
@@ -75,7 +75,7 @@ The value of [[#^f37339|SSE]] does not make it possible to evaluate the accuracy
 
 The solution would to be to **normalize the error**
 
-## Method 1
+## Method 1: *Normalized Root-Mean-Square Error*
 Use **Normalized Root-Mean-Square Error *(NRMSE)*** 
 $$MSE = \frac{SEE}{n}$$
 $$RMSE=\sqrt{\frac{SSE}{n}}$$
