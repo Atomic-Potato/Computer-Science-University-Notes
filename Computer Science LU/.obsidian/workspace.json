@@ -20,19 +20,54 @@
             }
           },
           {
-            "id": "eff2b11e97bd92a2",
+            "id": "2c489a06e0fdaeb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦5 # Non-linear Problems/Untitled.md",
-                "mode": "source",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩4 @ K-fold Cross Validation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6fa69b8ef027cf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31bd2db511a98a8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩4 @ K-fold Cross Validation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d0c7c7e672ac1ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩5 @ Multiple Linear Regression.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scaffolding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526
+    "width": 462
   },
   "right": {
     "id": "e45ee5f3ea2ee58a",
@@ -98,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦5 # Non-linear Problems/Untitled.md",
+                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦5 # Non-linear Problems/Untitled.md",
+                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦5 # Non-linear Problems/Untitled.md"
+                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md"
               }
             }
           },
@@ -155,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 291
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,53 +203,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eff2b11e97bd92a2",
+  "active": "1fb63aeb78101e28",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦4 # Integration/Untitled.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦5 # Non-linear Problems/Untitled.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦3 # Derivation/Untitled.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md",
-    "Creating a record.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3308 - Data Science.rar",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Untitled",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/Interpolation & Extrapolation.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦6 # Optimization/READ ME.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/2020 LECTURES.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦2 # Solving a Linear Equation/README.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩4 @ K-fold Cross Validation.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩5 @ Multiple Linear Regression.md",
+    "Pasted image 20230621151912.png",
+    "Pasted image 20230621151412.png",
+    "Pasted image 20230621151209.png",
+    "Pasted image 20230621151053.png",
+    "Pasted image 20230621150953.png",
+    "Pasted image 20230621150908.png",
+    "Pasted image 20230621150646.png",
+    "Pasted image 20230621150604.png",
+    "Pasted image 20230621145810.png",
     "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦6 # Optimization",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦5 # Non-linear Problems",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦4 # Integration",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦3 # Derivation",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦2 # Solving a Linear Equation",
-    "Computer Science LU/Year 3/Semester 2/⌛Schedules & Other Info.md",
-    "Computer Science LU/Year 3/Semester 2/Exam Schedule.jpg",
-    "Computer Science LU/Year 3/Semester 2/🖼Year 3 Semester 2 Pictures/Pasted Image 20230620133150_747.jpg",
-    "Computer Science LU/Year 3/Semester 2/🖼Year 3 Semester 2 Pictures/Pasted Image 20230620130523_299.png",
-    "Computer Science LU/Year 3/Semester 2/🖼Year 3 Semester 2 Pictures",
-    "Computer Science LU/Year 3/Semester 2/🖼Year 3 Semester 2 Pictures/Pasted Image 20230620131013_618.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩3 @ K-Nearest Neighbors.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩1 @ Intro to Interpolation & Extrapolation.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟩1 @ Creating An Application.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦6 # The binding model - retrieving & validating user input/🟩2 @ Request To Model.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦6 # The binding model - retrieving & validating user input/🟩1 @ Understanding The Models.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616190217.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟨Summary - Saving data with Entity Framework Core.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟩1 @ EF Core.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦10 # Service configuration with dependency injection/🟨Summary - Service configuration with dependency injection.md",
+    "Pasted image 20230620163000.png",
+    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥[35.00](4) - S2250 Stats/🟦Chapter 4 Couple random variables/🟩3 @ Mathematical expectation.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦5 # Non-linear Problems/Untitled.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦5 # Non-linear Problems",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦4 # Integration/Untitled.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦4 # Integration",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦3 # Derivation/Untitled.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦3 # Derivation",
     "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟩4 @ Querying data from & saving data to the database.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟩3 @ Managing changes with migrations.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟩2 @ Building a Data Model.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616185453.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟧How to use MySQL with EF Core.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616183711.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616183658.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616182909.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230616182542.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦10 # Service configuration with dependency injection/🟩3 @ Service Lifetime.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦10 # Service configuration with dependency injection/🟩2 @ Using The DI Container.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟧General Notes.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦3 # Handling requests with the middleware pipeline/🟩1 @ Middleware.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦10 # Service configuration with dependency injection"
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦6 # Activities & Intents/🟩3 @ Sending & Receiving Data.md",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦6 # Activities & Intents/🟩2 @ Intent & Starting Activities.md",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦6 # Activities & Intents/🟩1 @ Activities & Implementation.md",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦6 # Activities & Intents",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦5 # Activity Lifecycle & State/🟩2 @ Activity Instance State.md",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦5 # Activity Lifecycle & State/🟩1 @ Activity Lifecycle & Callbacks.md",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦5 # Activity Lifecycle & State",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦4 # Layouts/🟩3 @ Widget Box Model.md",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦4 # Layouts/🟩2 @ Attributes.md",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦4 # Layouts/🟩1 @ Layouts.md",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦4 # Layouts",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦3.2 # GUI Widgets/🟩2 @ Spinners.md",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦3.2 # GUI Widgets/🟩1 @ Common Widgets.md",
+    "Computer Science LU/Year 3/Semester 1/🟥[77.00](5) % I3350 - Mobile Application/🟦3.2 # GUI Widgets",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦6 # Optimization/READ ME.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦6 # Optimization",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦2 # Solving a Linear Equation/README.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦2 # Solving a Linear Equation",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🖼I3344 Pictures",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/2020 LECTURES.md"
   ]
 }

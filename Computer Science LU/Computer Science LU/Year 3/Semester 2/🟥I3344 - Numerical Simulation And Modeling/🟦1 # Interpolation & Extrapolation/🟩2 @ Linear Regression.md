@@ -77,7 +77,7 @@ The solution would to be to **normalize the error**
 
 ## Method 1: *Normalized Root-Mean-Square Error*
 Use **Normalized Root-Mean-Square Error *(NRMSE)*** 
-$$MSE = \frac{SEE}{n}$$
+$$MSE = \frac{SSE}{n}$$
 $$RMSE=\sqrt{\frac{SSE}{n}}$$
 $$\color{cyan} NRMSE = \frac{RMSE}{\overline{y}}$$
 **NRMSE close to `0` ⇒ Perfect model**
