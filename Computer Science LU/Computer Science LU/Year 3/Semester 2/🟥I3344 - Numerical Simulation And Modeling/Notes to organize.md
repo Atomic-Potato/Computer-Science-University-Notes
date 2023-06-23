@@ -4,3 +4,6 @@ In this exercise, the first equation gets us the number of tables and the other 
 
 - Remember to think logically of ur results
 
+
+- Add the notes in ur voice message
+
