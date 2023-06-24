@@ -7,3 +7,4 @@ In this exercise, the first equation gets us the number of tables and the other 
 
 - Add the notes in ur voice message
 
+- Add a reminder of how to derivate and integrate

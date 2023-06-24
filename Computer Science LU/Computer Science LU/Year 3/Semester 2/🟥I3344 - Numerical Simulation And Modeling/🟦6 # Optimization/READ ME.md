@@ -1,1 +1,0 @@
-no need for the `quadratic interpolation` and `newton's method` in the end
