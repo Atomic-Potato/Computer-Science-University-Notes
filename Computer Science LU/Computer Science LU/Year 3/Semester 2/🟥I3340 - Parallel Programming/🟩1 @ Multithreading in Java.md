@@ -167,6 +167,28 @@ The `await()` method causes the current thread to wait until the condition is si
 **The lock associated with this condition is atomically released** and the current thread becomes disabled for thread scheduling purposes.
 Before this method can return the current thread must re-acquire the lock associated with this condition.
 
+## Example use case
+Say you have this system:
+- AtoB thread type: *if the var is A switch it to B*
+- BtoC thread type: *if the var is B switch it to C*
+- CtoA thread type: *if the var is C switch it to A*
+
+And you create 3 conditions:
+- isA : *if the char is A*
+- isB : *if the char is B*
+- isC : *if the char is C*
+
+1. And you want to keep this system cycling *(i know it does not make sense to have this as threads but shows my point)* so you run a thread for each type.
+2. Now each thread should **sleep if the var is not correct** *(Like we're in AtoB but the var is not A, its C)*.
+	1. So you set the condition for that thread to wait *(we're in AtoB so isA.await())*
+3. If we're on the correct thread, *(Like we're in CtoA and the char is C)*
+	1. We switch the char to the next char *(so C to A)*
+	2. Wake up the thread of that char using its condition object *(isA.signal)*
+	3. Sleep the current thread *(isC.await)*
+
+and so on.
+
+> Check the finals sent by the doc to see the full code
 
 # Semaphores
 Semaphores can be used to **restrict the number of threads that access a shared resource.** 
@@ -183,3 +205,8 @@ To create a semaphore, you have to specify the number of permits with an optiona
 - Thread safety
 - Race conditions
 - `getTime()`
+
+
+# ==NOTES==
+- The [[#Synchronization Using Locks Explicitly|lock]] object can be used for all local threads threads. So when use the lock and unlock functions, these functions will know which thread used them. Even if you use the same lock for multiple types of threads, the lock will know lock and unlock for that type of thread only
+- You can create multiple [[#Cooperation Among Threads|condition]] objects from a single lock its fine.

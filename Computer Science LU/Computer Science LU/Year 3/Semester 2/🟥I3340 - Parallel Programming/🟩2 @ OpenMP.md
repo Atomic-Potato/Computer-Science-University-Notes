@@ -23,7 +23,7 @@ Written software can be compiled and executed with a single or multiple threads.
 
 ###  Basic OpenMP Functions
 - `omp_set_num_threads(nthreads)` - set the number of threads used in a parallel region
-- `omp_get _num_threads()` - get the number of threads used in a parallel region
+- `omp_get_num_threads()` - get the number of threads used in a parallel region
 - `omp_get_thread_num()` - get the thread rank in a parallel region
 
 # Fork-Join Task Model
@@ -42,6 +42,12 @@ Specifies which sections of code should be ran in parallel
 
 > By default, a number of threads equal to the number of cores is created *(i think)*
 
+You can change the number of threads used using the [[#Basic OpenMP Functions]] or by simply adding `num_threads(x)`
+```cpp
+#pragma omp parallel num_threads(69) {
+	// Code to run in parallel
+}
+```
 
 ### Control of variable sharing
 #### Private & Shared variables
