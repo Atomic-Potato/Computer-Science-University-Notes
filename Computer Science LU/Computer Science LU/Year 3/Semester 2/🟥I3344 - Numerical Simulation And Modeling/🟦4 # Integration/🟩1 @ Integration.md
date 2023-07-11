@@ -21,6 +21,12 @@ To Solve This Formula, the following methods are possible:
 ## Hit or Miss, *i bet he never kissed ya...* (i'm sorry)
 ![[Pasted image 20230624194504.png]]
 
+![[Pasted image 20230708152230.png]]
+Or you can give a random area that doesnt have to exactly fit the function.
+
+**ACTUALLY** the best thing to do is get the derivative of the function and solve x for y = 0
+![[Pasted image 20230708160255.png]]
+
 ## Mean Value Method
 ![[Pasted image 20230624194523.png]]
 

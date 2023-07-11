@@ -8,12 +8,20 @@ Ax = B
 => (Q-P)x = B 
 => Qx -Px = B
 => Dx + (L+U)x = B
-![[Pasted image 20230621192955.png]]
 
-## Condition
+## Convergence Condition
 The coefficient matrix must be diagonally dominant, that is:
 ![[Pasted image 20230621193048.png]]
 ![[Pasted image 20230621193102.png]]
+
+**OR**
+
+![[Pasted image 20230708170131.png]]
+
+> To calculate the infinity norm:
+> 1. For each row of the matrix, sum the absolute values of the elements in that row.
+> 2. Identify the row with the largest sum.
+> 3. The infinity norm of the matrix is equal to the maximum sum obtained in step 2.
 
 
 ## How to use it
@@ -25,13 +33,18 @@ The coefficient matrix must be diagonally dominant, that is:
 ### Second way
 ![[Pasted image 20230621193306.png]]
 
+## Another way to explain it
+https://youtu.be/VH0TZlkZPRo
+![[Pasted image 20230708171349.png]]
+![[Pasted image 20230708171423.png]]
+![[Pasted image 20230708171436.png]]
 
 
 # Gauss Seidel
 This is an improvement over [[#Jacobi]]
 
-## Condition
-To use it, the coefficient matrix has to be [[#Condition|diagonally dominant]]
+## Convergence Condition
+for this method to be convergent, the coefficient matrix has to be [[#Condition|diagonally dominant]]
 
 **if not** then it has to be:
 - Symmetric, that is it equals its transpose

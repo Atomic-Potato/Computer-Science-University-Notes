@@ -7,6 +7,7 @@
 # Constraints
 ![[Pasted image 20230628100925.png]]
 ![[Pasted image 20230628101001.png]]
+![[Pasted image 20230630151919.png]]
 
 # The Phases of a Project
 ![[Pasted image 20230628101032.png]]

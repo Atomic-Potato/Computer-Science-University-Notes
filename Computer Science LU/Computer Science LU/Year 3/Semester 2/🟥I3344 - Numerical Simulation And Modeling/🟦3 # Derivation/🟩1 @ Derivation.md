@@ -26,7 +26,7 @@ It's basically the same as [[#Euler's Method]] but we just add the derivative of
 
 *Example:*
 ![[Pasted image 20230623230240.png]]
-
+![[Pasted image 20230709151840.png]]
 # Euler's Midpoint Method
 ![[Pasted image 20230623230452.png]]
 

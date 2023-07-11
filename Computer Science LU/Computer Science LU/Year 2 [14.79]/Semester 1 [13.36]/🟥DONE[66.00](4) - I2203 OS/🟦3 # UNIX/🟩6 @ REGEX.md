@@ -1,6 +1,6 @@
 # Metacharacters
 ![[Pasted image 20220305163844.png | 600]]
-![[Pasted image 20220305164007.png | 600]]
+	![[Pasted image 20220305164007.png | 600]]
 any non-metachar matches itself
 
 # Regular expressions

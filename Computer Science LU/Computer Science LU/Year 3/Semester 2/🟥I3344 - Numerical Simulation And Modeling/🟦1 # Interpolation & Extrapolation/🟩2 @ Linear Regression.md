@@ -31,12 +31,15 @@ The `error (e)` can be represented by rearranging the equation as:
 $$\Large \color{cyan} e = y − (a_{0} + a_{1}x) = y − \hat{y}$$
 **It is the discrepancy between the `true value` $y$ and the `approximate value` $\hat{y}$ by the linear equation**
 
-## Criteria for a Best Fit
+## Criteria for a Best Fit / SSE
+
 Theres a couple of approaches but this is the best one:
 
 **Minimize the Sum of Squares of residual Errors *(SSE)* or $S_{r}$**
-$$\large S_{r} = \sum^{n}_{i=1} |e^2_{i}| = \sum^{n}_{i=1} (y_{i} − \hat{y})_{2} = \sum^{n}_{i=1} (y_{i} − a_{0} − a_{1}x^i) 2$$
+$$\color{magenta}\LARGE S_{r} =  \sum^{n}_{i=1} |e^2_{i}| = \sum^{n}_{i=1} (y_{i} − \hat{y})_{2} =  \sum^{n}_{i=1} (y_{i} − a_{0} − a_{1}x^i) 2$$
 where n is the total number of points. ^f37339
+
+> the SSE is **a measure of how well the regression model fits the data**. A lower SSE indicates a better fitting model, while a higher SSE indicates a poorer fitting model
 
 Differentiating the equation with respect to each coefficient $a_{0}$ and $a_{1}$ and then minimizing $S_{r}$ would give us the equations for each coefficient:
 $$\Large \color{lime} a_{1} = \frac{ n\left(  \sum x_{i}y_{i} \right) - \left( \sum x_{i} \right)\left( \sum y_{i} \right)}{n(\sum x_{i}^2) - (\sum x_{i})^2}$$

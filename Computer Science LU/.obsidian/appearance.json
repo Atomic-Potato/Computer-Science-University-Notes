@@ -1,6 +1,8 @@
 {
   "cssTheme": "Mado Miniflow",
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "accentColor": "#ffee80",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "Consolas",
+  "monospaceFontFamily": "Consolas"
 }

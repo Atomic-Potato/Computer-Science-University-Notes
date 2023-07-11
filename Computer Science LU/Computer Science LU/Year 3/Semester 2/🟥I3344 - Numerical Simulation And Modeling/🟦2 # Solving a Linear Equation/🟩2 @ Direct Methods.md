@@ -6,6 +6,7 @@ solutions in the another side.
 
 ![[Pasted image 20230621183547.png]]
 
+Then we apply the [[#row operations]] to get an upper matrix, and now we can easily solve the system
 
 ## Row operations
 We apply row operations on the augmented matrix so we can get an upper matrix on the left side *(including the diagonal)*

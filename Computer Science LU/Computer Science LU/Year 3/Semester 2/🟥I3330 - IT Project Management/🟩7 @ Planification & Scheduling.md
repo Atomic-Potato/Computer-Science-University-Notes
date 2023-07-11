@@ -9,7 +9,7 @@
 ## Sequence Activities
 ![[Pasted image 20230629185343.png]]
 
-### Tools & Techniques
+### Precedence Diagramming Method (PDM)
 ![[Pasted image 20230629185408.png]]
 
 ## Estimate Activity Durations

@@ -18,19 +18,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0ce95974ad20f485",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629194826.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scaffolding",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629194826.png"
+                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md"
               }
             }
           },
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629194826.png",
+                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629194826.png",
+                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246
+    "width": 344
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,52 +154,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "077d59730f0c8079",
+  "active": "1fb63aeb78101e28",
   "lastOpenFiles": [
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🟩11 @ Control Using Earned Value Analysis.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629195714.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629195618.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629195501.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629195500.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629195418.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629195232.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629195108.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629195027.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629195002.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures/Pasted image 20230629194924.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🟩8 @ CPM - Critical Path Method.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🟩7 @ Planification & Scheduling.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🟩10 @ Change Control Process.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🟩9 Control & Evaluation.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🟩6 @ WBS - Work Breakdown Structure.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🟩5 @ Creating Risk Plan.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/Drawing 2023-06-29 11.50.15.excalidraw.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🟩4 @ Developing a Mission, Vision, Goals, & Objectives.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦4 # Integration/🟩1 @ Integration.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦3 # Derivation/🟩1 @ Derivation.md",
     "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🟩3 @ Planning The Project.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🟩2 @ The Role of the Project Manager.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🟩1 @ Overview.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/I3344.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦6 # Optimization/🟩1 @ Optimization.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦5 # Non-linear Problems/🟩1 @ Non-Linear Problems.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🟩1 @ Multithreading in Java.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🟩2 @ OpenMP.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Notes to organize.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟧General Notes.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦7 # Rendering HTML using Razor views/🟩2 @ Layouts, Partial Views, & _ViewStart.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦7 # Rendering HTML using Razor views/🟩1 @ View Model.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦7 # Rendering HTML using Razor views/🟨Summary - Rendering HTML using Razor views.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦6 # The binding model - retrieving & validating user input/🟩1 @ Understanding The Models.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦2 # Solving a Linear Equation/🟩3 @ Indirect Methods.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦2 # Solving a Linear Equation/🟩2 @ Direct Methods.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦4 # Integration/🟩1 @ Integration.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦2 # Solving a Linear Equation/🟩1 @ What we doin.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩5 @ Multiple Linear Regression.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩4 @ K-fold Cross Validation.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩3 @ K-Nearest Neighbors.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩1 @ Intro to Interpolation & Extrapolation.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Random notes.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥[35.00](4) - S2250 Stats/General notes.md",
+    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥[35.00](4) - S2250 Stats/Important Series & summation.pdf",
+    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[66.00](3) - M2250 Arithmetic & Algebra/Tips.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Calculator Shortcuts.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/To study.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709182043.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709182002.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709181848.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709180722.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709180306.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709180228.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709175721.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709175836.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🖼I3344 Pictures/Pasted image 20230709174431.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🖼I3344 Pictures/Pasted image 20230709174410.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Drawing 2023-07-09 10.58.35.excalidraw.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/2020 LECTURES.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3307 - Language Theory/Requirements.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟩1 @ Creating An Application.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3331 - Computer Science And Society/🟩CS & Society.md",
+    "Computer Science LU/Year 3/Semester 2/⌛Schedules & Other Info.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/IT I3330.md",
+    "Chapter 2 - Fundamentels of Project Management.pdf",
+    "Computer Science LU/Year 3/Semester 2/Untitled.canvas",
+    "Juan_Laban_CV.pdf",
+    "Computer Science LU/Year 3/Semester 2/Exams",
+    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🖼I3330 Pictures",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦5 # Non-linear Problems",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦4 # Integration",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦3 # Derivation",
-    "Computer Science LU/Year 3/Semester 1 [14.24]/🟥[77.00](5) % I3350 - Mobile Application/🟦6 # Activities & Intents",
-    "Computer Science LU/Year 3/Semester 1 [14.24]/🟥[77.00](5) % I3350 - Mobile Application/🟦5 # Activity Lifecycle & State",
-    "Computer Science LU/Year 3/Semester 1 [14.24]/🟥[77.00](5) % I3350 - Mobile Application/🟦4 # Layouts",
-    "Computer Science LU/Year 3/Semester 1 [14.24]/🟥[77.00](5) % I3350 - Mobile Application/🟦3.2 # GUI Widgets",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦6 # Optimization",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦2 # Solving a Linear Equation"
+    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦3 # Derivation"
   ]
 }

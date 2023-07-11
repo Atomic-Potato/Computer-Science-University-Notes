@@ -24,3 +24,7 @@
 ![[Pasted image 20230629190440.png]]
 ![[Pasted image 20230629190457.png]]
 ![[Pasted image 20230629190526.png]]
+
+# ==Notes==
+- The critical path is the path with the least total slack / float
+- The total time of the project is the sum of the tasks duration on the critical path

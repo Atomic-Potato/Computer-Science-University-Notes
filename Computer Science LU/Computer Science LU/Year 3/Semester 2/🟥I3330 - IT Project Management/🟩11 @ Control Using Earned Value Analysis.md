@@ -2,7 +2,9 @@
 
 # Definetions
 ![[Pasted image 20230629194844.png]]
-
+![[Pasted image 20230630170308.png]]
+![[Pasted image 20230630170659.png]]
+![[Pasted image 20230630170708.png]]
 # Variance Analysis Using Spending Curves
 ![[Pasted image 20230629194924.png]]
 

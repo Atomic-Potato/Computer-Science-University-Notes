@@ -1,0 +1,21 @@
+- [x] NRMSE & R^2
+- [x] KNN
+- [x] K Cross Validation
+- [x] Multiple linear regression
+---
+- [x] Gauss Elimination
+- [x] Partial Pivoting
+- [x] Gauss Jordan
+- [x] LU Decomposition
+---
+- [x] Euler's Method
+- [x] Quadratic Taylor Method
+- [x] Euler's Midpoint Method
+- [x] Runge - Kutta Method
+---
+- [x]  Bisection Method
+- [x] Golden Section Search
+
+# See how
+- [x] Read input 
+- [x] Determinant matrix

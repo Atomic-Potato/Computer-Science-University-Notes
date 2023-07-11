@@ -16,6 +16,7 @@ The threads are not actually running in parallel, instead they just share the CP
 3. Sync is done explicitly
 4. Library calls, e.g. PThread
 
+
 ## Similarities
 - They share CPU and only one thread is active at a time
 - Can create children
