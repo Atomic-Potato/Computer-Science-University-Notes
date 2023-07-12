@@ -18,8 +18,49 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b9c68ac4f211caea",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟧How to use MySQL with EF Core.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3785f603ef5e4bf8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟧How to use SQL Server LocalDB.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b05b5743a103bf8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟨Summary - Your First Application.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md"
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟨Summary - Your First Application.md"
               }
             }
           },
@@ -103,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟨Summary - Your First Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+                "file": "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟨Summary - Your First Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,11 +195,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1fb63aeb78101e28",
+  "active": "b05b5743a103bf8e",
   "lastOpenFiles": [
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230711223702.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230711223857.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🖼I3332 Pictures/Pasted image 20230711224028.png",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟧How to use SQL Server LocalDB.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟧How to use MySQL with EF Core.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12.md",
+    "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟩3 @ Managing changes with migrations.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟩2 @ Building a Data Model.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟩1 @ EF Core.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🟩2 @ OpenMP.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3340 - Parallel Programming/🟩1 @ Multithreading in Java.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟧General Notes.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦12 # Saving data with Entity Framework Core/🟩4 @ Querying data from & saving data to the database.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟩1 @ Creating An Application.md",
+    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/🟩3 @ Planning The Project.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦4 # Integration/🟩1 @ Integration.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦3 # Derivation/🟩1 @ Derivation.md",
-    "Computer Science LU/Year 3/Semester 2/📝ToDo (Board).md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/I3344.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦6 # Optimization/🟩1 @ Optimization.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦5 # Non-linear Problems/🟩1 @ Non-Linear Problems.md",
@@ -169,13 +225,7 @@
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩4 @ K-fold Cross Validation.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩2 @ Linear Regression.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩3 @ K-Nearest Neighbors.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🟦1 # Interpolation & Extrapolation/🟩1 @ Intro to Interpolation & Extrapolation.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Random notes.md",
-    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥[35.00](4) - S2250 Stats/General notes.md",
     "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥[35.00](4) - S2250 Stats/Important Series & summation.pdf",
-    "Computer Science LU/Year 2 [14.79]/Semester 1 [13.36]/🟥DONE[66.00](3) - M2250 Arithmetic & Algebra/Tips.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Calculator Shortcuts.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/To study.md",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709182043.png",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709182002.png",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709181848.png",
@@ -183,18 +233,8 @@
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709180306.png",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709180228.png",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709175721.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random/Pasted image 20230709175836.png",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts/Random",
     "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Calculator shortcuts",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🖼I3344 Pictures/Pasted image 20230709174431.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/🖼I3344 Pictures/Pasted image 20230709174410.png",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/Drawing 2023-07-09 10.58.35.excalidraw.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3344 - Numerical Simulation And Modeling/2020 LECTURES.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3307 - Language Theory/Requirements.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3332 - New Generation Programming Language/🟦2 # Your First Application/🟩1 @ Creating An Application.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3331 - Computer Science And Society/🟩CS & Society.md",
-    "Computer Science LU/Year 3/Semester 2/⌛Schedules & Other Info.md",
-    "Computer Science LU/Year 3/Semester 2/🟥I3330 - IT Project Management/IT I3330.md",
     "Chapter 2 - Fundamentels of Project Management.pdf",
     "Computer Science LU/Year 3/Semester 2/Untitled.canvas",
     "Juan_Laban_CV.pdf",
