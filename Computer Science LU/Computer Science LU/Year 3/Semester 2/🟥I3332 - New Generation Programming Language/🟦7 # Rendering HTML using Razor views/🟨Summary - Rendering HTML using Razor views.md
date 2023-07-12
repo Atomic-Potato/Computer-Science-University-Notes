@@ -5,7 +5,7 @@
 - In the MVC design pattern, views are responsible for generating the UI for your application.
 - Razor is a templating language that allows you to generate dynamic HTML using a mixture of HTML and C#.
 - HTML forms are the standard approach for sending data from the browser to the server. You can use Tag Helpers to easily generate these forms. 
-- ==Razor Pages can pass strongly-typed data to a Razor view by setting public properties on the `PageModel`. To access the properties on the view model, the view should declare the model type using the `@model` directive. ==
+- ==Razor Pages can pass strongly-typed data to a Razor view by setting public properties on the `PageModel`. To access the properties on the view model, the view should declare the model type using the `@model` directive.==
 - ==Page handlers can pass key-value pairs to the view using the `ViewData` dictionary.==
 - ==Razor expressions render C# values to the HTML output using `@` or `@()`. **You don’t need to include a semicolon after the statement when using Razor expressions.**==
 - ==Razor code blocks, defined using `@{}`, execute C# without outputting HTML. **The C# in Razor code blocks must be complete statements, so it must include semicolons.**==

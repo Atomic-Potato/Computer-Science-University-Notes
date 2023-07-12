@@ -12,5 +12,5 @@ important bits are ==highlighted==
 - ==Page handlers can have parameters whose values are taken from properties of the incoming request in a process called **model binding**. Properties decorated with `[BindProperty]` can also be bound to the request.==
 - ==By default, properties decorated with `[BindProperty]` are not bound for `GET` requests. To enable binding, use `[BindProperty(SupportsGet = true)]`.==
 - ==Page Handlers can return a `PageResult` or `void` to generate an HTML response.==
-- ==You can send users to a new Razor Page using a `RedirectToPageResult`.==
+- **==You can send users to a new Razor Page using a `RedirectToPageResult`.==**
 - ==The `PageModel` base class exposes many helper methods for creating an `ActionResult`.==

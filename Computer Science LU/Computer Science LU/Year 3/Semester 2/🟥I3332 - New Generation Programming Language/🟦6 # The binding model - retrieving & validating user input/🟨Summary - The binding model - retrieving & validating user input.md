@@ -16,7 +16,7 @@
 - ==To bind complex types, they must have a default constructor and public, settable properties.==
 - Simple types must be convertible to strings to be bound automatically, for example numbers, dates, and Boolean values.
 - ==Collections and dictionaries can be bound using the `[index]=value` and `[key]=value` syntax, respectively.==
-- ==You can customize the binding source for a binding model using `[From*]` attributes applied to the method, such as `[FromHeader]` and `[FromBody]`. ==These can be used to bind to nondefault binding sources, such as headers or JSON body content.
+- ==You can customize the binding source for a binding model using `[From*]` attributes applied to the method, such as `[FromHeader]` and `[FromBody]`.== These can be used to bind to nondefault binding sources, such as headers or JSON body content.
 - In contrast to the previous version of ASP.NET, the `[FromBody]` attribute is required when binding JSON properties (previously it was not required).
 - Validation is necessary to check for security threats. Check that data is formatted correctly, confirm that it conforms to expected values and that it meets your business rules.
 - ==ASP.NET Core provides `DataAnnotations` attributes to allow you to declaratively define the expected values.==

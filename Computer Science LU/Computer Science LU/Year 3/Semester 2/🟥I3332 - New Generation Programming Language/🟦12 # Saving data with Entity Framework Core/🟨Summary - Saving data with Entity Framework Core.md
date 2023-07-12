@@ -1,5 +1,7 @@
 *important bits are ==highlighted==*
 
+*Future me: nothing is important apparently lmao (im being sarcastic if you cant tell)*
+
 ---
 
 - EF Core is an object-relational mapper (ORM) that lets you interact with a database by manipulating standard POCO classes, called entities, in your application. This can reduce the amount of SQL and database knowledge you need to have to be productive.

@@ -12,7 +12,7 @@
 - The order in which middleware is added to IApplicationBuilder defines the order in which middleware will execute in the pipeline.
 - ==The middleware pipeline can be re-executed, as long as a response’s headers haven’t been sent.==
 - ==When added to a middleware pipeline, `StaticFileMiddleware` will serve any requested files found in the `wwwroot` folder of your application.==
-- `DeveloperExceptionPageMiddleware` provides a lot of information about errors when developing an application but should never be used in production.
-- `ExceptionHandlerMiddleware` lets you provide user-friendly custom error handling messages when an exception occurs in the pipeline.
-- `StatusCodePagesMiddleware` lets you provide user-friendly custom error handling messages when the pipeline returns a raw error response status code.
+- ==`DeveloperExceptionPageMiddleware` provides a lot of information about errors when developing an application but should never be used in production.==
+- ==`ExceptionHandlerMiddleware` lets you provide user-friendly custom error handling messages when an exception occurs in the pipeline.==
+- ==`StatusCodePagesMiddleware` lets you provide user-friendly custom error handling messages when the pipeline returns a raw error response status code.==
 - Microsoft provides some common middleware and there are many third-party options available on NuGet and GitHub.

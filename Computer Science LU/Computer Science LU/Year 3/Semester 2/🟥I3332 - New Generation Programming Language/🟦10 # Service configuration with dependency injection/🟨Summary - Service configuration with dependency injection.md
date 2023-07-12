@@ -14,8 +14,8 @@
 	- The **implementation type** is the class the container should create to fulfil the dependency. 
 	- The **lifetime** is how long an instance of the service should be used for.
 - ==You can register a service using generic methods **if the class is concrete and all its constructor arguments are registered with the container or have default values.**==
-- ==You can provide an instance of a service during registration, which will register that instance as a singleton. ==This can be useful when you already have an instance of the service available.
-- ==You can provide a lambda factory function that describes how to create an instance of a service with any lifetime you choose. ==You can use this approach when your services depend on other services, which are only accessible once your application is running.
+- ==You can provide an instance of a service during registration, which will register that instance as a singleton.== This can be useful when you already have an instance of the service available.
+- ==You can provide a lambda factory function that describes how to create an instance of a service with any lifetime you choose.== You can use this approach when your services depend on other services, which are only accessible once your application is running.
 - Avoid calling `GetService()` in your factory functions if possible. Instead, favor constructor injection—it’s more performant, as well as being simpler to reason about.
 - ==You can register multiple implementations for a service. You can then inject `IEnumerable<T>` to get access to all the implementations at runtime.==
 - ==**If you inject a single instance of a multiple-registered service, the container injects the last implementation registered.**==

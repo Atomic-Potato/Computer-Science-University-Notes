@@ -3268,8 +3268,8 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2027,
-			"versionNonce": 2129977280,
+			"version": 2029,
+			"versionNonce": 975284305,
 			"isDeleted": false,
 			"id": "yj97_q0fKClhvCWYjiShT",
 			"fillStyle": "hachure",
@@ -3288,7 +3288,7 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1689096938221,
+			"updated": 1689155055775,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3317,8 +3317,8 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2140,
-			"versionNonce": 1422059456,
+			"version": 2142,
+			"versionNonce": 1229616689,
 			"isDeleted": false,
 			"id": "VDEZJAad-kPGptkPDr1Zk",
 			"fillStyle": "hachure",
@@ -3337,7 +3337,7 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1689096938223,
+			"updated": 1689155055778,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -22098,8 +22098,8 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 		},
 		{
 			"type": "text",
-			"version": 600,
-			"versionNonce": 2064675904,
+			"version": 601,
+			"versionNonce": 526647647,
 			"isDeleted": false,
 			"id": "O95083ey",
 			"fillStyle": "hachure",
@@ -22118,7 +22118,7 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1689096938307,
+			"updated": 1689155055901,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -24114,10 +24114,10 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 5984.238675720782,
-		"scrollY": 6868.014645889572,
+		"scrollX": 13907.738675720782,
+		"scrollY": 8101.975583389573,
 		"zoom": {
-			"value": 0.39999999999999997
+			"value": 0.1
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
