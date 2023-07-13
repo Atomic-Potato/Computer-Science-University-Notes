@@ -3268,8 +3268,8 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2029,
-			"versionNonce": 975284305,
+			"version": 2031,
+			"versionNonce": 949805013,
 			"isDeleted": false,
 			"id": "yj97_q0fKClhvCWYjiShT",
 			"fillStyle": "hachure",
@@ -3288,7 +3288,7 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1689155055775,
+			"updated": 1689193644312,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3317,8 +3317,8 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 		},
 		{
 			"type": "arrow",
-			"version": 2142,
-			"versionNonce": 1229616689,
+			"version": 2144,
+			"versionNonce": 2113674549,
 			"isDeleted": false,
 			"id": "VDEZJAad-kPGptkPDr1Zk",
 			"fillStyle": "hachure",
@@ -3337,7 +3337,7 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1689155055778,
+			"updated": 1689193644313,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -22098,8 +22098,8 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 		},
 		{
 			"type": "text",
-			"version": 601,
-			"versionNonce": 526647647,
+			"version": 602,
+			"versionNonce": 88554651,
 			"isDeleted": false,
 			"id": "O95083ey",
 			"fillStyle": "hachure",
@@ -22118,7 +22118,7 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1689155055901,
+			"updated": 1689193644382,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -24114,8 +24114,8 @@ e8d74b894741786abf8a90575aa6f50b0575af07: [[Pasted Image 20230613140326_873.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 13907.738675720782,
-		"scrollY": 8101.975583389573,
+		"scrollX": 9427.738675720782,
+		"scrollY": 6546.975583389573,
 		"zoom": {
 			"value": 0.1
 		},
