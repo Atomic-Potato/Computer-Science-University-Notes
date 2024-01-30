@@ -62,7 +62,8 @@ First finish your [[#Data Annotations]]
 ```cs
 global using System.ComponentModel.DataAnnotations;
 global using System.ComponentModel.DataAnnotations.Schema;
-global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore; // To get the DbContext class
+global using Microsoft.EntityFrameworkCore; // To connect to SQL Server via connection string
 // before doing this one, create a folder to store your tables classes in
 // and then write ProjectName.FolderName;
 global using DatabaseTest.Data; 
